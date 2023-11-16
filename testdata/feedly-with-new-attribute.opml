@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Peter subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline title="DD_E-mobility" text="DD_E-mobility">
+            <outline text="DD_Robert Bosch GmbH - Bosch Media Service" xmlUrl="http://replace.with.my.domain/rssfeeds/688a8087-6441-4f90-89d0-6fd03e07bcdehttp_www_bosch_presse_de_pressportal_de_de_feeds_rss_feed_xml.rss" title="DD_Robert Bosch GmbH - Bosch Media Service" type="rss" htmlUrl="https://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml">
+            </outline>
+        </outline>
+        <outline title="DD_FAZ" text="DD_FAZ">
+            <outline text="DD_Finanzen - FAZ.NET" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/7e2b226f-6ee9-4afe-98b2-cfeee1bdede7http_www_faz_net_aktuell_finanzen_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/finanzen/" title="DD_Finanzen - FAZ.NET">
+            </outline>
+            <outline htmlUrl="https://www.faz.net/aktuell/wirtschaft/recht-steuern/" xmlUrl="http://replace.with.my.domain/rssfeeds/4876d15c-7049-4768-ad44-f6e1839d641fhttp_www_faz_net_aktuell_wirtschaft_recht_steuern_rssview_1.rss" text="DD_Recht &amp; Steuern - FAZ.NET" type="rss" title="DD_Recht &amp; Steuern - FAZ.NET">
+            </outline>
+            <outline title="DD_Fonds &amp; Mehr - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/29871211-357e-4df3-b985-b0ced02774b5http_www_faz_net_aktuell_finanzen_fonds_mehr_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/finanzen/fonds-mehr/" type="rss" text="DD_Fonds &amp; Mehr - FAZ.NET">
+            </outline>
+            <outline title="DD_Netzwirtschaft - FAZ.NET" text="DD_Netzwirtschaft - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/56653547-209f-4f20-a062-43758aaf29b0http_www_faz_net_aktuell_wirtschaft_netzwirtschaft_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/" type="rss">
+            </outline>
+            <outline title="DD_Digitales Denken - FAZ.NET" text="DD_Digitales Denken - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/4d02a2ef-816d-4c60-aa88-96c5dcb9b4c1http_www_faz_net_aktuell_feuilleton_debatten_digitales_denken_rssview_1.rss" type="rss" htmlUrl="https://www.faz.net/aktuell/feuilleton/debatten/digitales-denken/">
+            </outline>
+            <outline type="rss" htmlUrl="https://www.faz.net/aktuell/wissen/" xmlUrl="http://replace.with.my.domain/rssfeeds/3d9fc00b-a417-4ac9-b4d8-3bff2c85ac17http_www_faz_net_aktuell_wissen_rssview_1.rss" title="DD_Wissen - FAZ.NET" text="DD_Wissen - FAZ.NET">
+            </outline>
+            <outline htmlUrl="https://www.faz.net/aktuell/politik/inland/" text="DD_Inland - FAZ.NET" title="DD_Inland - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/353e18b5-26c1-4ba4-a8bb-7e98971fd3b4http_www_faz_net_aktuell_politik_inland_rssview_1.rss" type="rss">
+            </outline>
+            <outline type="rss" text="DD_Reise - FAZ.NET" title="DD_Reise - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/reise/" xmlUrl="http://replace.with.my.domain/rssfeeds/072c3622-6c3b-4070-9ceb-093e0bbf812chttp_www_faz_net_aktuell_reise_rssview_1.rss">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/26dd59dc-c777-435b-ab01-3be382d2ecbehttp_www_faz_net_aktuell_technik_motor_rssview_1.rss" type="rss" text="DD_Technik  Motor - FAZ.NET" title="DD_Technik  Motor - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/technik-motor/">
+            </outline>
+            <outline htmlUrl="https://www.faz.net/aktuell/wirtschaft/" title="DD_Wirtschaft - FAZ.NET" text="DD_Wirtschaft - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/2446f0f4-d466-4038-aee2-e15b36a8e147http_www_faz_net_aktuell_wirtschaft_rssview_1.rss" type="rss">
+            </outline>
+            <outline type="rss" title="DD_Ausland - FAZ.NET" xmlUrl="http://replace.with.my.domain/rssfeeds/105dd3f6-c68f-49ce-a402-3c32bb1cac52http_www_faz_net_aktuell_politik_ausland_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/politik/ausland/" text="DD_Ausland - FAZ.NET">
+            </outline>
+        </outline>
+        <outline title="DD_Must Read" text="DD_Must Read">
+            <outline htmlUrl="https://www.schneier.com" type="rss" title="DD_Schneier on Security" text="DD_Schneier on Security" xmlUrl="http://replace.with.my.domain/rssfeeds/944903de-c51f-4a34-800b-00c2a716bb9chttps_www_schneier_com_blog_atom_xml.rss">
+            </outline>
+            <outline text="DD_Christophe Coenraets mobile dev" title="DD_Christophe Coenraets mobile dev" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/5500bba2-cf66-4826-a5be-be1bc80225c7http_coenraets_org_blog_feed_.rss" htmlUrl="http://coenraets.org/blog">
+            </outline>
+        </outline>
+        <outline text="DD_Espanol" title="DD_Espanol">
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/65e30667-5ed9-4ab3-8667-1e224e23ba86http_feeds_bbci_co_uk_mundo_internacional_rss_xml.rss" text="DD_BBC Mundo - Internacional" type="rss" title="DD_BBC Mundo - Internacional" htmlUrl="http://www.bbcmundo.com">
+            </outline>
+            <outline htmlUrl="https://elpais.com/rss/tags/ultimas_noticias.xml" xmlUrl="http://replace.with.my.domain/rssfeeds/71476e43-a339-467d-8086-99e8e59ec426http_www_elpais_com_rss_feed_html_feedId_17046.rss" text="DD_Últimas noticias | EL PAÍS" title="DD_Últimas noticias | EL PAÍS" type="rss">
+            </outline>
+            <outline title="DD_BBC Mundo - Noticias" xmlUrl="http://replace.with.my.domain/rssfeeds/a41983b2-7a2e-4ad6-a13d-6e9ff183b49fhttp_newsrss_bbc_co_uk_rss_spanish_news_rss_xml.rss" text="DD_BBC Mundo - Noticias" htmlUrl="http://www.bbcmundo.com" type="rss">
+            </outline>
+            <outline type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/ff4e9278-23d5-4ac7-ae18-4b0205df71fbhttp_ep01_epimg_net_rss_elviajero_portada_xml.rss" text="DD_Portada de El Viajero | EL PAÍS" title="DD_Portada de El Viajero | EL PAÍS" htmlUrl="https://elviajero.elpais.com/rss/elviajero/portada.xml">
+            </outline>
+            <outline text="DD_BBC Mundo - América Latina" htmlUrl="http://www.bbcmundo.com" title="DD_BBC Mundo - América Latina" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/fa7aeb01-d78e-4ff3-a3a3-08038107d008http_feeds_bbci_co_uk_mundo_america_latina_rss_xml.rss">
+            </outline>
+            <outline type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/8d17d347-b786-44e6-aebc-bf71079ed478http_www_elpais_com_rss_rss_section_html_anchor_elpporeco.rss" title="DD_Portada de Economía | EL PAÍS" text="DD_Portada de Economía | EL PAÍS" htmlUrl="https://elpais.com/rss/economia/portada.xml">
+            </outline>
+        </outline>
+        <outline text="DD_dev" title="DD_dev">
+            <outline title="DD_Rust Embedded Working Group" htmlUrl="https://blog.rust-embedded.org" type="rss" text="DD_Rust Embedded Working Group" xmlUrl="http://replace.with.my.domain/rssfeeds/aaf2e0ce-59e2-4dc6-b51b-fc5021465aa4https_blog_rust_embedded_org_rss_xml.rss">
+            </outline>
+            <outline title="DD_heise Developer" text="DD_heise Developer" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/c77cbf82-ef20-4ee9-8a08-3efaf3c7f06bhttp_www_heise_de_developer_podcast_itunes_heise_developer_podcast_softwarearchitektour_rss.rss">
+            </outline>
+            <outline text="DD_Christophe Coenraets mobile dev" xmlUrl="http://replace.with.my.domain/rssfeeds/7598b80d-3fbc-486c-953e-a194a7148a9fhttp_coenraets_org_blog_feed_.rss" type="rss" title="DD_Christophe Coenraets mobile dev" htmlUrl="http://coenraets.org/blog">
+            </outline>
+            <outline text="DD_Hacker News: Front Page" title="DD_Hacker News: Front Page" htmlUrl="https://news.ycombinator.com/" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/560200e1-534e-43e1-8494-c023693ed90fhttps_hnrss_org_frontpage.rss">
+            </outline>
+        </outline>
+        <outline text="DD_News" title="DD_News">
+            <outline title="DD_Wikipedia: Portal: Current events" text="DD_Wikipedia: Portal: Current events" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/11c87d2d-23bb-4eff-a518-417f454eebe0https_www_to_rss_xyz_wikipedia_current_events_.rss" htmlUrl="https://en.wikipedia.org/wiki/Portal:Current_events">
+            </outline>
+            <outline title="DD_heise online - 7-Tage-News" type="rss" text="DD_heise online - 7-Tage-News" xmlUrl="http://replace.with.my.domain/rssfeeds/0198936f-1745-41df-adfa-4e9b892d1874http_www_heise_de_newsticker_heise_atom_xml.rss" htmlUrl="https://www.heise.de/">
+            </outline>
+            <outline type="rss" title="DD_Rust Blog" xmlUrl="http://replace.with.my.domain/rssfeeds/a8e0161d-6b20-435f-a377-5232cc347c93http_blog_rust_lang_org_feed_xml.rss" text="DD_Rust Blog" htmlUrl="https://blog.rust-lang.org/">
+            </outline>
+            <outline type="rss" htmlUrl="https://blog.4loeser.net/" text="DD_Data Henrik" title="DD_Data Henrik" xmlUrl="http://replace.with.my.domain/rssfeeds/ade77800-66af-4a18-af68-b22809749647http_blog_4loeser_net_feeds_posts_default.rss">
+            </outline>
+            <outline type="rss" text="DD_c’t uplink - der IT-Podcast aus Nerdistan" htmlUrl="https://www.heise.de/thema/ct-uplink" title="DD_c’t uplink - der IT-Podcast aus Nerdistan" xmlUrl="http://replace.with.my.domain/rssfeeds/e61060b7-c880-4550-bab2-325d23fa8cd5https_ct_uplink_podigee_io_feed_mp3.rss">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/7442e8a4-d975-4a69-a56c-6f8ab7a90e25https_billing_owncube_com_networkissuesrss_php.rss" htmlUrl="https://owncube.com/networkissues.php" type="rss" title="DD_OwnCube" text="DD_OwnCube">
+            </outline>
+            <outline type="rss" text="DD_The RustFest Project" xmlUrl="http://replace.with.my.domain/rssfeeds/43f03225-bde1-4df2-8472-ec8b6af46cf3https_blog_rustfest_eu_feed_xml.rss" title="DD_The RustFest Project" htmlUrl="https://rustfest.world/">
+            </outline>
+            <outline text="DD_Monash Research Integrated Feed" title="DD_Monash Research Integrated Feed" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/77dca28d-6f31-4153-9c3d-89870e2ccc8chttp_feeds_feedburner_com_MonashInformationServices_format_xml.rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=deb92100c853b9318e113fa52d37ca99">
+            </outline>
+            <outline type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/6968e0b8-ddc9-4da2-9df4-6a640a64429ehttp_feeds_feedburner_com_PlanetDB2.rss" text="DD_Planet DB2" title="DD_Planet DB2" htmlUrl="http://planetdb2.com">
+            </outline>
+            <outline title="DD_Arduino Praxis Blog" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/505ab0df-bee4-4bdb-88c0-c0c6351fa211http_arduino_praxis_ch_feed_.rss" htmlUrl="http://arduino-praxis.ch" text="DD_Arduino Praxis Blog">
+            </outline>
+        </outline>
+        <outline title="DD_Me" text="DD_Me">
+            <outline htmlUrl="https://www.bodobolero.com/" title="DD_Peter&apos;s musings" text="DD_Peter&apos;s musings" xmlUrl="http://replace.with.my.domain/rssfeeds/a7a05811-a9dd-4018-9eb9-505a82e3001fhttps_www_bodobolero_com_atom_xml.rss" type="rss">
+            </outline>
+        </outline>
+        <outline title="DD_Neue hobbies" text="DD_Neue hobbies">
+            <outline type="rss" title="DD_CCCS - Chaos Computer Club Stuttgart (Atom Feed)" text="DD_CCCS - Chaos Computer Club Stuttgart (Atom Feed)" xmlUrl="http://replace.with.my.domain/rssfeeds/f2180691-5154-4cf8-9d5e-81a2fc5847e9https_www_cccs_de_atom_xml.rss" htmlUrl="https://www.cccs.de/">
+            </outline>
+        </outline>
+        <outline title="DD_Stz" text="DD_Stz">
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/8f7742bf-d741-42d7-8246-bd1302d54764http_www_stuttgarter_zeitung_de_polizeibericht_rss_feed.rss" title="DD_Stuttgarter Zeitung - Polizeibericht" type="rss" htmlUrl="https://www.stuttgarter-zeitung.de/polizeibericht" text="DD_Stuttgarter Zeitung - Polizeibericht">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/95917250-5518-4934-8f80-5d4d5f333ebdhttp_www_stuttgarter_zeitung_de_region_stuttgart_rss.rss" htmlUrl="https://www.stuttgarter-zeitung.de/region-stuttgart" type="rss" text="DD_Stuttgarter Zeitung - Region" title="DD_Stuttgarter Zeitung - Region">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Stuttgart 21" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart21" title="DD_Stuttgarter Zeitung - Stuttgart 21" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/99f87be3-59a5-4f09-8aaf-33a3feda4933http_www_stuttgarter_zeitung_de_stuttgart21_rss_feed.rss">
+            </outline>
+            <outline title="DD_Stuttgarter Zeitung - Stuttgart" text="DD_Stuttgarter Zeitung - Stuttgart" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/86bdc7bc-946d-4e1e-adaf-82614bc589b6http_www_stuttgarter_zeitung_de_stuttgart_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart">
+            </outline>
+            <outline type="rss" title="DD_Stuttgarter Zeitung - Wirtschaft" xmlUrl="http://replace.with.my.domain/rssfeeds/7199e010-9832-4794-8a42-a1083bb44eadhttp_www_stuttgarter_zeitung_de_wirtschaft_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/wirtschaft" text="DD_Stuttgarter Zeitung - Wirtschaft">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/e99169da-f3e5-4452-9eca-4c345bcb2e94http_feeds_stuttgarter_zeitung_de_alle_meldungen.rss" htmlUrl="https://www.stuttgarter-zeitung.de/" type="rss" title="DD_Stuttgarter Zeitung - Startseite" text="DD_Stuttgarter Zeitung - Startseite">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Topthemen" htmlUrl="https://www.stuttgarter-zeitung.de/rss/topthemen" type="rss" title="DD_Stuttgarter Zeitung - Topthemen" xmlUrl="http://replace.with.my.domain/rssfeeds/3320dd2b-f012-4df8-9035-267b79e3ffd4http_www_stuttgarter_zeitung_de_rss_topthemen_xml.rss">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Nachrichten des Tages" title="DD_Stuttgarter Zeitung - Nachrichten des Tages" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/dd9180fa-2567-4a51-9112-9b431f76b43fhttp_www_stuttgarter_zeitung_de_news_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/news">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Schlagzeilen" xmlUrl="http://replace.with.my.domain/rssfeeds/167b0273-c5b4-4d67-9598-8e6bbf36a0dbhttp_www_stuttgarter_zeitung_de_schlagzeilen_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/schlagzeilen" title="DD_Stuttgarter Zeitung - Schlagzeilen">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Politik" xmlUrl="http://replace.with.my.domain/rssfeeds/f4691e33-93ee-4502-807d-8d414c728b6dhttp_www_stuttgarter_zeitung_de_politik_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/politik" title="DD_Stuttgarter Zeitung - Politik">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Baden-Württemberg" xmlUrl="http://replace.with.my.domain/rssfeeds/7ca1aeeb-de22-44e7-9cd9-82aad8ad95c0http_www_stuttgarter_zeitung_de_baden_wuerttemberg_rss.rss" htmlUrl="https://www.stuttgarter-zeitung.de/baden-wuerttemberg" title="DD_Stuttgarter Zeitung - Baden-Württemberg">
+            </outline>
+            <outline title="DD_Stuttgarter Zeitung - Wissen" text="DD_Stuttgarter Zeitung - Wissen" type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/dfb9d77c-6a59-41bf-b6ba-8a3f517d7208http_www_stuttgarter_zeitung_de_wissen_computer_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/wissen-computer">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/552bb7d8-e38f-4d90-9eb0-baf749baed9fhttp_www_stuttgarter_zeitung_de_stadtbezirke_rss_feed.rss" text="DD_Stuttgarter Zeitung - Stadtbezirke" type="rss" title="DD_Stuttgarter Zeitung - Stadtbezirke" htmlUrl="https://www.stuttgarter-zeitung.de/stadtbezirke">
+            </outline>
+            <outline type="rss" title="DD_Stuttgarter Zeitung - Panorama" htmlUrl="https://www.stuttgarter-zeitung.de/panorama" xmlUrl="http://replace.with.my.domain/rssfeeds/cae27bd3-dd63-4080-a9eb-0f7cb32e7f92http_www_stuttgarter_zeitung_de_panorama_rss_feed.rss" text="DD_Stuttgarter Zeitung - Panorama">
+            </outline>
+            <outline xmlUrl="http://replace.with.my.domain/rssfeeds/14d4a05a-76bd-496d-8a2d-8ac982b19145http_www_stuttgarter_zeitung_de_kultur_rss_feed.rss" title="DD_Stuttgarter Zeitung - Kultur" type="rss" text="DD_Stuttgarter Zeitung - Kultur" htmlUrl="https://www.stuttgarter-zeitung.de/kultur">
+            </outline>
+        </outline>
+        <outline text="DD_Realworldtech" title="DD_Realworldtech">
+            <outline text="DD_Real World Tech" xmlUrl="http://replace.with.my.domain/rssfeeds/5feba40a-b510-4591-adc4-532b76a30556https_www_realworldtech_com_feed_rss_.rss" htmlUrl="https://www.realworldtech.com/" type="rss" title="DD_Real World Tech">
+            </outline>
+        </outline>
+        <outline htmlUrl="https://www.schneier.com" title="DD_Schneier on Security" xmlUrl="http://replace.with.my.domain/rssfeeds/311aac82-e475-4f77-b021-dc151354120chttps_www_schneier_com_blog_atom_xml.rss" type="rss" text="DD_Schneier on Security">
+        </outline>
+        <outline text="DD_Tutorials for Raspberry Pi" title="DD_Tutorials for Raspberry Pi" xmlUrl="http://replace.with.my.domain/rssfeeds/7dbaa193-d535-4ff8-8980-d27198129542http_tutorials_raspberrypi_de_feed_.rss" htmlUrl="https://tutorials-raspberrypi.de" type="rss">
+        </outline>
+        <outline xmlUrl="http://replace.with.my.domain/rssfeeds/238b823d-3483-4d3f-9df6-2357a0cf50bfhttp_arduino4projects_com_feed_.rss" htmlUrl="https://duino4projects.com/" type="rss" text="DD_Use Arduino for Projects" title="DD_Use Arduino for Projects">
+        </outline>
+        <outline type="rss" xmlUrl="http://replace.with.my.domain/rssfeeds/4f49cd85-d33f-44ad-98cf-35cd84753cefhttp_www_elpais_com_rss_feed_html_feedId_1005.rss" htmlUrl="https://elpais.com/rss/tecnologia/portada.xml" text="DD_Portada de Tecnología | EL PAÍS" title="DD_Portada de Tecnología | EL PAÍS">
+        </outline>
+    </body>
+</opml>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+	<title>Finanzen - FAZ.NET</title>
+    <link>https://www.faz.net/aktuell/finanzen/</link>
+	<description>Finanzen, Börse, Aktien:  Aktuelle Nachrichten über Märkte und ihre Entwicklung, über das digitale Bezahlen und Kryptowährungen. News über Fonds, Anleihen und Zinsen aus der Finanzwelt.</description>
+    <copyright>Copyright 2001-2023 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+    <category>Finanzen - FAZ.NET</category>
+    <language>de-de</language>
+    <docs>https://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+	<generator>FAZ.NET</generator>
+	<ttl>5</ttl>
+	<lastBuildDate>Wed, 15 Nov 2023 08:44:04 +0100</lastBuildDate>
+    <atom:link href="https://www.faz.net/rss/aktuell/finanzen/"
+			   rel="self" type="application/rss+xml"/>
+	<image>
+		<title>Finanzen - FAZ.NET</title>
+        <url>https://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>https://www.faz.net/aktuell/finanzen/</link>
+	</image>
+
+
+
+            <item>
+    <title>Die ersten Banken senken die Sparzinsen</title>
+    <link>https://www.faz.net/aktuell/finanzen/zinssaetze-fuer-festgeld-warum-erste-banken-die-sparzinsen-wieder-senken-19313464.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/zinssaetze-fuer-festgeld-warum-erste-banken-die-sparzinsen-wieder-senken-19313464.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Finanzplatz Frankfurt: Wie geht es weiter mit dem Zins?" alt="Finanzplatz Frankfurt: Wie geht es weiter mit dem Zins?" src="https://media0.faz.net/ppmedia/aktuell/finanzen/2130170081/1.9313936/article_teaser/festgeld.jpg" /></p><p>Nach der spektakulären Zinswende im vergangenen Jahr waren die Sparzinsen mit Verzögerung gestiegen. Jetzt senken die ersten Institute die Zinssätze für Festgeld auf ein Jahr leicht. Was tut sich da?</p> ]]></description>
+    <pubDate>Wed, 15 Nov 2023 07:36:56 +0100</pubDate>
+    <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/finanzen/2130170081/1.9313936/article_teaser/festgeld.jpg" height="107" width="190"/>
+    <media:content url="https://media0.faz.net/ppmedia/aktuell/finanzen/2130170081/1.9313936/default/festgeld.jpg" type="image/jpeg" medium="image" height="623" width="940"/>
+</item>
+    
+
+
+            <item>
+    <title>Großhandelspreise mit stärkstem Rückgang seit dreieinhalb Jahren</title>
+    <link>https://www.faz.net/aktuell/finanzen/grosshandelspreise-mit-staerkstem-rueckgang-seit-dreieinhalb-jahren-19315031.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/grosshandelspreise-mit-staerkstem-rueckgang-seit-dreieinhalb-jahren-19315031.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Benzin wird nicht mehr so schnell teurer wie zuletzt." alt="Benzin wird nicht mehr so schnell teurer wie zuletzt." src="https://media1.faz.net/ppmedia/aktuell/finanzen/1811946994/1.9138893/article_teaser/benzinpreis.jpg" /></p><p>Der Inflationsdruck in Deutschland lässt offenbar nach. Vor allem Benzin und Getreide sind günstiger im Großhandel als vor einem Jahr.</p> ]]></description>
+    <pubDate>Wed, 15 Nov 2023 08:44:03 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/finanzen/1811946994/1.9138893/article_teaser/benzinpreis.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/finanzen/1811946994/1.9138893/default/benzinpreis.jpg" type="image/jpeg" medium="image" height="598" width="940"/>
+</item>
+                <item>
+    <title>Geldwäsche bei Danske Bank vor Gericht</title>
+    <link>https://www.faz.net/aktuell/finanzen/geldwaesche-bei-danske-bank-vor-gericht-19313540.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/geldwaesche-bei-danske-bank-vor-gericht-19313540.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Ist Estland ein Paradies für Geldwäscher? Ein Blick auf die Altstadt von Tallin." alt="Ist Estland ein Paradies für Geldwäscher? Ein Blick auf die Altstadt von Tallin." src="https://media1.faz.net/ppmedia/aktuell/223398017/1.9313539/article_teaser/ist-estland-ein-paradies-fuer.jpg" /></p><p>Vor einem Bezirksgericht in Tallin beginnt der Prozess gegen sechs frühere Mitarbeiter der Danske Bank. Sie sollen über Kundenkonten 1,6 Milliarden Dollar gewaschen haben. Die Staatsanwältin spricht von „professioneller Geldwäsche“.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 18:57:37 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/223398017/1.9313539/article_teaser/ist-estland-ein-paradies-fuer.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/223398017/1.9313539/default/ist-estland-ein-paradies-fuer.jpg" type="image/jpeg" medium="image" height="633" width="940"/>
+</item>
+                <item>
+    <title>Rechenzentren als Geldanlage: „Der Datenhunger wird nicht vergehen“</title>
+    <link>https://www.faz.net/aktuell/wirtschaft/wohnen/rechenzentren-der-datenhunger-wird-nicht-vergehen-19270491.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/wirtschaft/wohnen/rechenzentren-der-datenhunger-wird-nicht-vergehen-19270491.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Immer mehr Daten, immer stärker gefragte Immobilien: Rechenzentren, hier eines in Frankfurt" alt="Immer mehr Daten, immer stärker gefragte Immobilien: Rechenzentren, hier eines in Frankfurt" src="https://media1.faz.net/ppmedia/aktuell/1424467144/1.9278335/article_teaser/immer-mehr-daten-immer.jpg" /></p><p>Rechenzentren bleiben als Wertanlage gefragt. Immobilienmanager Casey Miller spricht über ihren Aufstieg, die besten Plätze in Europa und Amerika sowie die Bedenken mit dem Wasserverbrauch.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 20:28:09 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/1424467144/1.9278335/article_teaser/immer-mehr-daten-immer.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/1424467144/1.9278335/default/immer-mehr-daten-immer.jpg" type="image/jpeg" medium="image" height="627" width="940"/>
+</item>
+                <item>
+    <title>Nachhaltige Finanzen: So doof ist die Taxonomie doch nicht</title>
+    <link>https://www.faz.net/aktuell/finanzen/nachhaltige-finanzen-so-doof-ist-die-taxonomie-doch-nicht-19313523.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/nachhaltige-finanzen-so-doof-ist-die-taxonomie-doch-nicht-19313523.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Kapital für den Umbau zu einer klimaneutralen Wirtschaft: Steuerung für einen Tank für Wasserstoff" alt="Kapital für den Umbau zu einer klimaneutralen Wirtschaft: Steuerung für einen Tank für Wasserstoff" src="https://media1.faz.net/ppmedia/aktuell/3600783529/1.9313641/article_teaser/kapital-fuer-den-umbau-zu.jpg" /></p><p>Banken haben sich daran gewöhnt, auf die Nachhaltigkeit ihrer Kunden zu achten. Aber ob sie genug Geld bereitstellen können, hängt auch von der Bereitschaft der Haushalte ab. Und an ihr gibt es Zweifel.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 17:16:39 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/3600783529/1.9313641/article_teaser/kapital-fuer-den-umbau-zu.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/3600783529/1.9313641/default/kapital-fuer-den-umbau-zu.jpg" type="image/jpeg" medium="image" height="626" width="940"/>
+</item>
+                <item>
+    <title>Die Abfrage der Nachhaltigkeitspräferenz ist misslungen</title>
+    <link>https://www.faz.net/aktuell/finanzen/die-abfrage-der-nachhaltigkeitspraeferenz-ist-misslungen-19305601.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/die-abfrage-der-nachhaltigkeitspraeferenz-ist-misslungen-19305601.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Ob das eigene Geld in potenziell ökologische Vorhaben wie ein Wasserstoffkraftwerk geht, können Privatanleger nicht immer genau erkennen." alt="Ob das eigene Geld in potenziell ökologische Vorhaben wie ein Wasserstoffkraftwerk geht, können Privatanleger nicht immer genau erkennen." src="https://media0.faz.net/ppmedia/aktuell/wirtschaft/1248910887/1.9306526/article_teaser/ob-das-eigene-geld-in.jpg" /></p><p>Nachdem die EU-Regulierung der Finanzvermittler nicht zu mehr Nachhaltigkeit führt, sollten Politik und Lobby noch einmal neu darüber nachdenken.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 18:54:47 +0100</pubDate>
+    <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/wirtschaft/1248910887/1.9306526/article_teaser/ob-das-eigene-geld-in.jpg" height="107" width="190"/>
+    <media:content url="https://media0.faz.net/ppmedia/aktuell/wirtschaft/1248910887/1.9306526/default/ob-das-eigene-geld-in.jpg" type="image/jpeg" medium="image" height="613" width="940"/>
+</item>
+    
+
+
+            <item>
+    <title>Das Wunderportfolio schlägt zurück</title>
+    <link>https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/anlegen-mit-etf-das-wunderportfolio-schlaegt-zurueck-19304903.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/anlegen-mit-etf-das-wunderportfolio-schlaegt-zurueck-19304903.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Die F.A.S. nimmt regelmäßig das Wunder-Portfolio unter die Lupe." alt="Die F.A.S. nimmt regelmäßig das Wunder-Portfolio unter die Lupe." src="https://media0.faz.net/ppmedia/aktuell/3673611791/1.9304900/article_teaser/die-f-a-s-nimmt-regelmaessig.jpg" /></p><p>Seit Jahren schlägt ein Portfolio aus zwei ETF sogar die Profis an der Börse regelmäßig. Nun ist eine besondere Situation am Markt eingetreten – was folgt daraus?</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 10:44:47 +0100</pubDate>
+    <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/3673611791/1.9304900/article_teaser/die-f-a-s-nimmt-regelmaessig.jpg" height="107" width="190"/>
+    <media:content url="https://media0.faz.net/ppmedia/aktuell/3673611791/1.9304900/default/die-f-a-s-nimmt-regelmaessig.jpg" type="image/jpeg" medium="image" height="353" width="940"/>
+</item>
+                <item>
+    <title>Finanzen: Wie Eltern zum Umgang mit Geld erziehen</title>
+    <link>https://www.faz.net/aktuell/finanzen/wie-eltern-ihren-kindern-den-richtigen-umgang-mit-geld-beibringen-19311240.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/wie-eltern-ihren-kindern-den-richtigen-umgang-mit-geld-beibringen-19311240.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Hier zählt ein Junge zwar schwedische Kronen und keine Euros, aber die Finanzbildung ist überall wichtig." alt="Hier zählt ein Junge zwar schwedische Kronen und keine Euros, aber die Finanzbildung ist überall wichtig." src="https://media1.faz.net/ppmedia/aktuell/3927547364/1.9311239/article_teaser/hier-zaehlt-ein-junge-zwar.jpg" /></p><p>Sparbuch, Girokonto und Aktiendepot? Kinder und Jugendliche erhalten hierzulande kaum Finanzbildung. Was junge Erwachsene wirklich brauchen – und ihre Eltern etwa beim Schenken mit Nießbrauch beachten sollten.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 06:02:31 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/3927547364/1.9311239/article_teaser/hier-zaehlt-ein-junge-zwar.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/3927547364/1.9311239/default/hier-zaehlt-ein-junge-zwar.jpg" type="image/jpeg" medium="image" height="627" width="940"/>
+</item>
+    
+
+
+            <item>
+    <title>Preisschock in der Autoversicherung</title>
+    <link>https://www.faz.net/aktuell/finanzen/autoversicherung-preise-steigen-so-stark-wie-seit-jahrzehnten-nicht-mehr-19305699.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/autoversicherung-preise-steigen-so-stark-wie-seit-jahrzehnten-nicht-mehr-19305699.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Bedingt fahrbereit: Altwagen in der Wetterau" alt="Bedingt fahrbereit: Altwagen in der Wetterau" src="https://media1.faz.net/ppmedia/aktuell/2941381102/1.9305693/article_teaser/bedingt-fahrbereit-altwagen-in.jpg" /></p><p>So schnell sind die Tarife seit Jahrzehnten nicht gestiegen. Das müssen Autofahrer nicht hinnehmen.</p> ]]></description>
+    <pubDate>Sun, 12 Nov 2023 16:53:07 +0100</pubDate>
+    <media:thumbnail url="https://media1.faz.net/ppmedia/aktuell/2941381102/1.9305693/article_teaser/bedingt-fahrbereit-altwagen-in.jpg" height="107" width="190"/>
+    <media:content url="https://media1.faz.net/ppmedia/aktuell/2941381102/1.9305693/default/bedingt-fahrbereit-altwagen-in.jpg" type="image/jpeg" medium="image" height="627" width="940"/>
+</item>
+                <item>
+    <title>Abflauende Inflation verscheucht Furcht vor Zinserhöhungen</title>
+    <link>https://www.faz.net/aktuell/finanzen/abflauende-us-inflation-verscheucht-furcht-vor-zinserhoehungen-19313720.html</link>
+    <guid isPermaLink="true">https://www.faz.net/aktuell/finanzen/abflauende-us-inflation-verscheucht-furcht-vor-zinserhoehungen-19313720.html</guid>
+    <description><![CDATA[ <p><img width="190" height="107" border="0" title="Jerome Powell, der Chef der amerikanischen Notenbank Federal Reserve" alt="Jerome Powell, der Chef der amerikanischen Notenbank Federal Reserve" src="https://media0.faz.net/ppmedia/aktuell/270088411/1.9284468/article_teaser/jerome-powell-der-chef-der.jpg" /></p><p>Der Inflationsdruck in Amerika sinkt merklich. Die Börsenkurse reagieren – nicht nur dort.</p> ]]></description>
+    <pubDate>Tue, 14 Nov 2023 15:49:15 +0100</pubDate>
+    <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/270088411/1.9284468/article_teaser/jerome-powell-der-chef-der.jpg" height="107" width="190"/>
+    <media:content url="https://media0.faz.net/ppmedia/aktuell/270088411/1.9284468/default/jerome-powell-der-chef-der.jpg" type="image/jpeg" medium="image" height="627" width="940"/>
+</item>
+        
+
+
+
+
+
+</channel>
+</rss>

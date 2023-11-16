@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Peter subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="E-mobility" title="E-mobility">
+            <outline type="rss" text="Robert Bosch GmbH - Bosch Media Service" title="Robert Bosch GmbH - Bosch Media Service" xmlUrl="http://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml" htmlUrl="https://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml"/>
+        </outline>
+        <outline text="FAZ" title="FAZ">
+            <outline type="rss" text="Finanzen - FAZ.NET" title="Finanzen - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/finanzen/?rssview=1" htmlUrl="https://www.faz.net/aktuell/finanzen/"/>
+            <outline type="rss" text="Recht &amp; Steuern - FAZ.NET" title="Recht &amp; Steuern - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/wirtschaft/recht-steuern/?rssview=1" htmlUrl="https://www.faz.net/aktuell/wirtschaft/recht-steuern/"/>
+            <outline type="rss" text="Fonds &amp; Mehr - FAZ.NET" title="Fonds &amp; Mehr - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/finanzen/fonds-mehr/?rssview=1" htmlUrl="https://www.faz.net/aktuell/finanzen/fonds-mehr/"/>
+            <outline type="rss" text="Netzwirtschaft - FAZ.NET" title="Netzwirtschaft - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/?rssview=1" htmlUrl="https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/"/>
+            <outline type="rss" text="Digitales Denken - FAZ.NET" title="Digitales Denken - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/feuilleton/debatten/digitales-denken/?rssview=1" htmlUrl="https://www.faz.net/aktuell/feuilleton/debatten/digitales-denken/"/>
+            <outline type="rss" text="Wissen - FAZ.NET" title="Wissen - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/wissen/?rssview=1" htmlUrl="https://www.faz.net/aktuell/wissen/"/>
+            <outline type="rss" text="Inland - FAZ.NET" title="Inland - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/politik/inland/?rssview=1" htmlUrl="https://www.faz.net/aktuell/politik/inland/"/>
+            <outline type="rss" text="Reise - FAZ.NET" title="Reise - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/reise/?rssview=1" htmlUrl="https://www.faz.net/aktuell/reise/"/>
+            <outline type="rss" text="Technik  Motor - FAZ.NET" title="Technik  Motor - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/technik-motor/?rssview=1" htmlUrl="https://www.faz.net/aktuell/technik-motor/"/>
+            <outline type="rss" text="Wirtschaft - FAZ.NET" title="Wirtschaft - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/wirtschaft/?rssview=1" htmlUrl="https://www.faz.net/aktuell/wirtschaft/"/>
+            <outline type="rss" text="Ausland - FAZ.NET" title="Ausland - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/politik/ausland/?rssview=1" htmlUrl="https://www.faz.net/aktuell/politik/ausland/"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="Christophe Coenraets mobile dev" title="Christophe Coenraets mobile dev" xmlUrl="http://coenraets.org/blog/feed/" htmlUrl="http://coenraets.org/blog"/>
+        </outline>
+        <outline text="Espanol" title="Espanol">
+            <outline type="rss" text="BBC Mundo - Internacional" title="BBC Mundo - Internacional" xmlUrl="http://feeds.bbci.co.uk/mundo/internacional/rss.xml" htmlUrl="http://www.bbcmundo.com"/>
+            <outline type="rss" text="Últimas noticias | EL PAÍS" title="Últimas noticias | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=17046" htmlUrl="https://elpais.com/rss/tags/ultimas_noticias.xml"/>
+            <outline type="rss" text="BBC Mundo - Noticias" title="BBC Mundo - Noticias" xmlUrl="http://newsrss.bbc.co.uk/rss/spanish/news/rss.xml" htmlUrl="http://www.bbcmundo.com"/>
+            <outline type="rss" text="Portada de El Viajero | EL PAÍS" title="Portada de El Viajero | EL PAÍS" xmlUrl="http://ep01.epimg.net/rss/elviajero/portada.xml" htmlUrl="https://elviajero.elpais.com/rss/elviajero/portada.xml"/>
+            <outline type="rss" text="BBC Mundo - América Latina" title="BBC Mundo - América Latina" xmlUrl="http://feeds.bbci.co.uk/mundo/america_latina/rss.xml" htmlUrl="http://www.bbcmundo.com"/>
+            <outline type="rss" text="Portada de Economía | EL PAÍS" title="Portada de Economía | EL PAÍS" xmlUrl="http://www.elpais.com/rss/rss_section.html?anchor=elpporeco" htmlUrl="https://elpais.com/rss/economia/portada.xml"/>
+        </outline>
+        <outline text="dev" title="dev">
+            <outline type="rss" text="Rust Embedded Working Group" title="Rust Embedded Working Group" xmlUrl="https://blog.rust-embedded.org/rss.xml" htmlUrl="https://blog.rust-embedded.org"/>
+            <outline type="rss" text="heise Developer" title="heise Developer" xmlUrl="http://www.heise.de/developer/podcast/itunes/heise-developer-podcast-softwarearchitektour.rss" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html"/>
+            <outline type="rss" text="Christophe Coenraets mobile dev" title="Christophe Coenraets mobile dev" xmlUrl="http://coenraets.org/blog/feed/" htmlUrl="http://coenraets.org/blog"/>
+            <outline type="rss" text="Hacker News: Front Page" title="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="Wikipedia: Portal: Current events" title="Wikipedia: Portal: Current events" xmlUrl="https://www.to-rss.xyz/wikipedia/current_events/" htmlUrl="https://en.wikipedia.org/wiki/Portal:Current_events"/>
+            <outline type="rss" text="heise online - 7-Tage-News" title="heise online - 7-Tage-News" xmlUrl="http://www.heise.de/newsticker/heise-atom.xml" htmlUrl="https://www.heise.de/"/>
+            <outline type="rss" text="Rust Blog" title="Rust Blog" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+            <outline type="rss" text="Data Henrik" title="Data Henrik" xmlUrl="http://blog.4loeser.net/feeds/posts/default" htmlUrl="https://blog.4loeser.net/"/>
+            <outline type="rss" text="c’t uplink - der IT-Podcast aus Nerdistan" title="c’t uplink - der IT-Podcast aus Nerdistan" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/ct-uplink"/>
+            <outline type="rss" text="OwnCube" title="OwnCube" xmlUrl="https://billing.owncube.com/networkissuesrss.php" htmlUrl="https://owncube.com/networkissues.php"/>
+            <outline type="rss" text="The RustFest Project" title="The RustFest Project" xmlUrl="https://blog.rustfest.eu/feed.xml" htmlUrl="https://rustfest.world/"/>
+            <outline type="rss" text="Monash Research Integrated Feed" title="Monash Research Integrated Feed" xmlUrl="http://feeds.feedburner.com/MonashInformationServices?format=xml" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=deb92100c853b9318e113fa52d37ca99"/>
+            <outline type="rss" text="Planet DB2" title="Planet DB2" xmlUrl="http://feeds.feedburner.com/PlanetDB2" htmlUrl="http://planetdb2.com"/>
+            <outline type="rss" text="Arduino Praxis Blog" title="Arduino Praxis Blog" xmlUrl="http://arduino-praxis.ch/feed/" htmlUrl="http://arduino-praxis.ch"/>
+        </outline>
+        <outline text="Me" title="Me">
+            <outline type="rss" text="Peter's musings" title="Peter's musings" xmlUrl="https://www.bodobolero.com/atom.xml" htmlUrl="https://www.bodobolero.com/"/>
+        </outline>
+        <outline text="Neue hobbies" title="Neue hobbies">
+            <outline type="rss" text="CCCS - Chaos Computer Club Stuttgart (Atom Feed)" title="CCCS - Chaos Computer Club Stuttgart (Atom Feed)" xmlUrl="https://www.cccs.de/atom.xml" htmlUrl="https://www.cccs.de/"/>
+        </outline>
+        <outline text="Stz" title="Stz">
+            <outline type="rss" text="Stuttgarter Zeitung - Polizeibericht" title="Stuttgarter Zeitung - Polizeibericht" xmlUrl="http://www.stuttgarter-zeitung.de/polizeibericht.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/polizeibericht"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Region" title="Stuttgarter Zeitung - Region" xmlUrl="http://www.stuttgarter-zeitung.de/region-stuttgart.rss" htmlUrl="https://www.stuttgarter-zeitung.de/region-stuttgart"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Stuttgart 21" title="Stuttgarter Zeitung - Stuttgart 21" xmlUrl="http://www.stuttgarter-zeitung.de/stuttgart21.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart21"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Stuttgart" title="Stuttgarter Zeitung - Stuttgart" xmlUrl="http://www.stuttgarter-zeitung.de/stuttgart.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Wirtschaft" title="Stuttgarter Zeitung - Wirtschaft" xmlUrl="http://www.stuttgarter-zeitung.de/wirtschaft.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/wirtschaft"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Startseite" title="Stuttgarter Zeitung - Startseite" xmlUrl="http://feeds.stuttgarter-zeitung.de/alle_meldungen" htmlUrl="https://www.stuttgarter-zeitung.de/"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Topthemen" title="Stuttgarter Zeitung - Topthemen" xmlUrl="http://www.stuttgarter-zeitung.de/rss/topthemen.xml" htmlUrl="https://www.stuttgarter-zeitung.de/rss/topthemen"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Nachrichten des Tages" title="Stuttgarter Zeitung - Nachrichten des Tages" xmlUrl="http://www.stuttgarter-zeitung.de/news.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/news"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Schlagzeilen" title="Stuttgarter Zeitung - Schlagzeilen" xmlUrl="http://www.stuttgarter-zeitung.de/schlagzeilen.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/schlagzeilen"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Politik" title="Stuttgarter Zeitung - Politik" xmlUrl="http://www.stuttgarter-zeitung.de/politik.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/politik"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Baden-Württemberg" title="Stuttgarter Zeitung - Baden-Württemberg" xmlUrl="http://www.stuttgarter-zeitung.de/baden-wuerttemberg.rss" htmlUrl="https://www.stuttgarter-zeitung.de/baden-wuerttemberg"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Wissen" title="Stuttgarter Zeitung - Wissen" xmlUrl="http://www.stuttgarter-zeitung.de/wissen-computer.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/wissen-computer"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Stadtbezirke" title="Stuttgarter Zeitung - Stadtbezirke" xmlUrl="http://www.stuttgarter-zeitung.de/stadtbezirke.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/stadtbezirke"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Panorama" title="Stuttgarter Zeitung - Panorama" xmlUrl="http://www.stuttgarter-zeitung.de/panorama.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/panorama"/>
+            <outline type="rss" text="Stuttgarter Zeitung - Kultur" title="Stuttgarter Zeitung - Kultur" xmlUrl="http://www.stuttgarter-zeitung.de/kultur.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/kultur"/>
+        </outline>
+        <outline text="Realworldtech" title="Realworldtech">
+            <outline type="rss" text="Real World Tech" title="Real World Tech" xmlUrl="https://www.realworldtech.com/feed/rss/" htmlUrl="https://www.realworldtech.com/"/>
+        </outline>
+        <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com"/>
+        <outline type="rss" text="Tutorials for Raspberry Pi" title="Tutorials for Raspberry Pi" xmlUrl="http://tutorials-raspberrypi.de/feed/" htmlUrl="https://tutorials-raspberrypi.de"/>
+        <outline type="rss" text="Use Arduino for Projects" title="Use Arduino for Projects" xmlUrl="http://arduino4projects.com/feed/" htmlUrl="https://duino4projects.com/"/>
+        <outline type="rss" text="Portada de Tecnología | EL PAÍS" title="Portada de Tecnología | EL PAÍS" xmlUrl="http://www.elpais.com/rss/feed.html?feedId=1005" htmlUrl="https://elpais.com/rss/tecnologia/portada.xml"/>
+    </body>
+</opml>
