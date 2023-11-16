@@ -1,7 +1,6 @@
 use super::opml::*;
 use log::error;
 use std::fs;
-use std::io;
 use std::path::Path;
 
 fn remove_rss_files(directory: &str) -> Result<(), String> {
@@ -68,6 +67,7 @@ fn do_we_need_new_json_feeds_file(jsonfile: &str, opmlfile: &str) -> std::io::Re
 }
 
 // set up logger for tests with level info
+#[cfg(test)]
 pub fn setup_test_logger() {
     let _ = env_logger::builder()
         .is_test(true)
@@ -90,8 +90,8 @@ mod tests {
         file2.push("file2.txt");
 
         // cleanup temporary files
-        fs::remove_file(&file1); // ignore errors in case test is run for the first time
-        fs::remove_file(&file2);
+        let _ = fs::remove_file(&file1); // ignore errors in case test is run for the first time
+        let _ = fs::remove_file(&file2);
 
         // Schreiben Sie etwas in die Dateien, um sie zu erstellen
         fs::write(&file1, "File1")?;
@@ -127,8 +127,8 @@ mod tests {
         file2.push("file2.txt");
 
         // cleanup temporary files
-        fs::remove_file(&file1); // ignore errors in case test is run for the first time
-        fs::remove_file(&file2);
+        let _ = fs::remove_file(&file1); // ignore errors in case test is run for the first time
+        let _ = fs::remove_file(&file2);
 
         fs::write(&file2, "File2")?;
 
@@ -151,12 +151,12 @@ mod tests {
         file2.push("file2.txt");
 
         // cleanup temporary files
-        fs::remove_file(&file1); // ignore errors in case test is run for the first time
-        fs::remove_file(&file2);
+        let _ = fs::remove_file(&file1); // ignore errors in case test is run for the first time
+        let _ = fs::remove_file(&file2);
 
-        fs::write(&file1, "File1");
+        assert!(fs::write(&file1, "File1").is_ok());
 
         // should panic because opml file does not exist
-        do_we_need_new_json_feeds_file(file1.to_str().unwrap(), file2.to_str().unwrap());
+        let _ = do_we_need_new_json_feeds_file(file1.to_str().unwrap(), file2.to_str().unwrap());
     }
 }

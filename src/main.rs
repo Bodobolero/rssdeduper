@@ -71,7 +71,7 @@ fn main() {
 
     timer::periodic_task(
         || {
-            let feeds =
+            let _feeds =
                 utilities::check_and_init_feeds(&cli.so, &cli.ff, &cli.up, &cli.to, &cli.td)
                     .unwrap();
         },
