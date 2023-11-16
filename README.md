@@ -1,5 +1,26 @@
 # RSS deduplication
 
+## TLDR
+
+Utility for users of RSS feeds and newsreaders like feedly and newsify to remove duplicates from their feeds if
+- the same feed appears in multiple categories or key word searches from the same source
+- the same feed is reworked in a developing story and published under diffent URL links or GUIDs
+
+## Usage
+
+### Prerequisites
+
+- you read news using rss feeds
+- you use a newsreader like feedly or newsify
+- you have exported your list of rss feeds as an opml file (see https://docs.feedly.com/article/52-how-can-i-export-my-sources-and-feeds-through-opml)
+- you own and control a web server where you can run a Rust binary to continously convert the original rss feeds into deduplicated rss feeds served from your web server (alternatively you can run the Rust binary on another node which has write access to your/a web servers web directory)
+
+### Security recommendation: 
+- do not publish the new OPML file with the redirected feeds nor the feeds.json on your webspace
+
+Rationale: both files contain the file names of your feed.rss files. If you hide the feed.rss files you can avoid that
+others discover and use your feeds and thus cause web traffic on your web server because the rss feed files contain uuids that are difficult to guess.
+
 ## what this is about
 
 Sometimes the same content appears under different categories in my RSS newsreader.
