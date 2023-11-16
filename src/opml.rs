@@ -1,7 +1,7 @@
 use super::ids::{convert_url_to_unique_filename, generate_uuid};
 
+use log::info;
 use serde::{Deserialize, Serialize};
-use serde_json;
 use std::fs::File;
 use std::io::BufReader;
 use xmltree::{Element, EmitterConfig};
@@ -15,14 +15,6 @@ pub struct OpmlDom {
 // serialize and deserialize feeds to file
 #[derive(Serialize, Deserialize, Debug)]
 struct Data(Vec<(String, String)>);
-
-fn traverse_element(element: &Element) {
-    for child in &element.children {
-        if let Some(child) = child.as_element() {
-            traverse_element(child);
-        }
-    }
-}
 
 fn modify_text_title_and_xmlurl_and_collect_changes(
     element: &mut Element,
@@ -70,6 +62,7 @@ pub fn read_feeds(filename: &str) -> Result<Vec<(String, String)>, String> {
 
 impl OpmlDom {
     pub fn new(filename: &str) -> Result<Self, String> {
+        info!("Reading OPML file {}", filename);
         let file = File::open(filename)
             .map_err(|e| format!("OPML file {} cannot be opened: {}", filename, e))?;
         let buffered_reader = BufReader::new(file);
@@ -86,6 +79,10 @@ impl OpmlDom {
     // must not be called more than once!
     pub fn modify(&mut self, new_url_prefix: String) {
         assert!(self.feeds.is_empty()); // must not be called more than once
+        info!(
+            "Patching OPML file {} with url prefix {}",
+            self.filename, new_url_prefix
+        );
         let mut modifier = |element: &mut Element| {
             modify_text_title_and_xmlurl_and_collect_changes(
                 element,
@@ -97,6 +94,7 @@ impl OpmlDom {
     }
 
     pub fn save_feeds(&mut self, filename: &str) -> Result<(), String> {
+        info!("Writing feeds json file {}", filename);
         let data = Data(self.feeds.clone());
         let serialized = serde_json::to_string_pretty(&data).unwrap();
         std::fs::write(filename, serialized).map_err(|e| format!("Cannot write feeds: {}", e))?;
@@ -104,6 +102,7 @@ impl OpmlDom {
     }
 
     pub fn write(&self, filename: &str) -> Result<(), String> {
+        info!("Writing OPML file {}", filename);
         let config = EmitterConfig::new()
             .indent_string("    ")
             .line_separator("\n")
@@ -113,37 +112,23 @@ impl OpmlDom {
             .write_with_config(File::create(filename).unwrap(), config)
             .map_err(|e| format!("OPML file {} cannot be written: {}", filename, e))
     }
-
-    // return tuples of (rssfeedurl, rssfeednewfilename)
-    // pub fn get_feeds(&self, targetdirectory: &Path) -> Vec<(String, String)> {
-    //     let mut feeds = Vec::new();
-    //     for outline in self.opmlroot.get_child("body").unwrap().children() {
-    //         let mut outline = Outline::new(outline);
-    //         if outline.is_feed() {
-    //             outlines.push(outline);
-    //         }
-    //     }
-    //     outlines
-    // }
 }
 
 #[cfg(test)]
 mod tests {
+    use super::super::utilities::setup_test_logger;
     use super::*;
 
     #[test]
     fn test_opml_ctor() {
+        setup_test_logger();
         let opml = OpmlDom::new("testdata/feedly-source.opml");
         assert!(opml.is_ok());
-    }
-    #[test]
-    fn test_traverse() {
-        let opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
-        traverse_element(&opml.opmlroot);
     }
 
     #[test]
     fn test_traverse_and_modify() {
+        setup_test_logger();
         let mut opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
         let mut collector = Vec::new();
         let mut modifier = |element: &mut Element| {
@@ -162,6 +147,7 @@ mod tests {
 
     #[test]
     fn test_modify_and_save_feeds_with_read() {
+        setup_test_logger();
         let mut opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
         opml.modify("http://replace.with.my.domain/rssfeeds/".to_string());
         let result = opml.save_feeds("testdata/feeds.json");
@@ -173,6 +159,7 @@ mod tests {
 
     #[test]
     fn test_read_and_write() {
+        setup_test_logger();
         let opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
         let result = opml.write("testdata/new-feedly.opml");
         assert!(result.is_ok());

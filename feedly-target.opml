@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Peter subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline title="DD_E-mobility" text="DD_E-mobility">
+            <outline xmlUrl="https://www.bodobolero.com/rss/cb5f7062-2643-48b6-a8e5-faa4be9a395fhttp_www_bosch_presse_de_pressportal_de_de_feeds_rss_feed_xml.rss" type="rss" htmlUrl="https://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml" title="DD_Robert Bosch GmbH - Bosch Media Service" text="DD_Robert Bosch GmbH - Bosch Media Service">
+            </outline>
+        </outline>
+        <outline text="DD_FAZ" title="DD_FAZ">
+            <outline title="DD_Finanzen - FAZ.NET" text="DD_Finanzen - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/b905f136-91fe-4ccf-9a80-78184cc4a498http_www_faz_net_aktuell_finanzen_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/finanzen/" type="rss">
+            </outline>
+            <outline text="DD_Recht &amp; Steuern - FAZ.NET" type="rss" title="DD_Recht &amp; Steuern - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/e862dc93-f5be-404b-a182-6a47a38d4c45http_www_faz_net_aktuell_wirtschaft_recht_steuern_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/wirtschaft/recht-steuern/">
+            </outline>
+            <outline title="DD_Fonds &amp; Mehr - FAZ.NET" text="DD_Fonds &amp; Mehr - FAZ.NET" type="rss" xmlUrl="https://www.bodobolero.com/rss/bf64823a-8513-4cbe-a9b9-e7b82fce0db5http_www_faz_net_aktuell_finanzen_fonds_mehr_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/finanzen/fonds-mehr/">
+            </outline>
+            <outline htmlUrl="https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/" title="DD_Netzwirtschaft - FAZ.NET" type="rss" text="DD_Netzwirtschaft - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/dd703d46-3c01-49fb-8d12-c22143122b52http_www_faz_net_aktuell_wirtschaft_netzwirtschaft_rssview_1.rss">
+            </outline>
+            <outline type="rss" xmlUrl="https://www.bodobolero.com/rss/7a80d366-0505-49b1-aa43-f5826b955b46http_www_faz_net_aktuell_feuilleton_debatten_digitales_denken_rssview_1.rss" text="DD_Digitales Denken - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/feuilleton/debatten/digitales-denken/" title="DD_Digitales Denken - FAZ.NET">
+            </outline>
+            <outline text="DD_Wissen - FAZ.NET" title="DD_Wissen - FAZ.NET" type="rss" xmlUrl="https://www.bodobolero.com/rss/7edc4e9a-09dd-434b-b127-61c50af00c9chttp_www_faz_net_aktuell_wissen_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/wissen/">
+            </outline>
+            <outline htmlUrl="https://www.faz.net/aktuell/politik/inland/" text="DD_Inland - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/ae033f09-73c3-46db-8d27-a2c0d1e7f73ahttp_www_faz_net_aktuell_politik_inland_rssview_1.rss" type="rss" title="DD_Inland - FAZ.NET">
+            </outline>
+            <outline title="DD_Reise - FAZ.NET" type="rss" xmlUrl="https://www.bodobolero.com/rss/a6261ed9-2cf1-462a-b538-b8bd73572b69http_www_faz_net_aktuell_reise_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/reise/" text="DD_Reise - FAZ.NET">
+            </outline>
+            <outline title="DD_Technik  Motor - FAZ.NET" type="rss" text="DD_Technik  Motor - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/028b8c12-4776-40b1-b913-467431f6cca1http_www_faz_net_aktuell_technik_motor_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/technik-motor/">
+            </outline>
+            <outline xmlUrl="https://www.bodobolero.com/rss/7e4fc04b-8aac-43f8-809a-ecf0136f4b86http_www_faz_net_aktuell_wirtschaft_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/wirtschaft/" text="DD_Wirtschaft - FAZ.NET" type="rss" title="DD_Wirtschaft - FAZ.NET">
+            </outline>
+            <outline title="DD_Ausland - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/b3e015ed-abb6-4ab0-8c70-7b6f8abeac23http_www_faz_net_aktuell_politik_ausland_rssview_1.rss" htmlUrl="https://www.faz.net/aktuell/politik/ausland/" type="rss" text="DD_Ausland - FAZ.NET">
+            </outline>
+        </outline>
+        <outline title="DD_Must Read" text="DD_Must Read">
+            <outline text="DD_Schneier on Security" xmlUrl="https://www.bodobolero.com/rss/de0cbc9d-f06f-420e-abc3-8a9ca0e26c42https_www_schneier_com_blog_atom_xml.rss" htmlUrl="https://www.schneier.com" type="rss" title="DD_Schneier on Security">
+            </outline>
+            <outline title="DD_Christophe Coenraets mobile dev" htmlUrl="http://coenraets.org/blog" xmlUrl="https://www.bodobolero.com/rss/73ed426e-ef7e-4b20-9458-e66bd0f3a90ehttp_coenraets_org_blog_feed_.rss" text="DD_Christophe Coenraets mobile dev" type="rss">
+            </outline>
+        </outline>
+        <outline text="DD_Espanol" title="DD_Espanol">
+            <outline text="DD_BBC Mundo - Internacional" xmlUrl="https://www.bodobolero.com/rss/1fdfbb43-96aa-4f89-9356-7e5e833c1319http_feeds_bbci_co_uk_mundo_internacional_rss_xml.rss" type="rss" htmlUrl="http://www.bbcmundo.com" title="DD_BBC Mundo - Internacional">
+            </outline>
+            <outline text="DD_Últimas noticias | EL PAÍS" htmlUrl="https://elpais.com/rss/tags/ultimas_noticias.xml" title="DD_Últimas noticias | EL PAÍS" type="rss" xmlUrl="https://www.bodobolero.com/rss/6b864aed-fc02-4b4f-8a3c-510a9f963336http_www_elpais_com_rss_feed_html_feedId_17046.rss">
+            </outline>
+            <outline title="DD_BBC Mundo - Noticias" type="rss" htmlUrl="http://www.bbcmundo.com" xmlUrl="https://www.bodobolero.com/rss/38b667e3-2514-4c19-81cb-4877ce69f752http_newsrss_bbc_co_uk_rss_spanish_news_rss_xml.rss" text="DD_BBC Mundo - Noticias">
+            </outline>
+            <outline title="DD_Portada de El Viajero | EL PAÍS" xmlUrl="https://www.bodobolero.com/rss/53b03fe0-0791-40a5-a5af-66569d248918http_ep01_epimg_net_rss_elviajero_portada_xml.rss" htmlUrl="https://elviajero.elpais.com/rss/elviajero/portada.xml" type="rss" text="DD_Portada de El Viajero | EL PAÍS">
+            </outline>
+            <outline title="DD_BBC Mundo - América Latina" xmlUrl="https://www.bodobolero.com/rss/fecba98f-5a5b-4526-b4c8-703d42217158http_feeds_bbci_co_uk_mundo_america_latina_rss_xml.rss" text="DD_BBC Mundo - América Latina" type="rss" htmlUrl="http://www.bbcmundo.com">
+            </outline>
+            <outline htmlUrl="https://elpais.com/rss/economia/portada.xml" type="rss" title="DD_Portada de Economía | EL PAÍS" xmlUrl="https://www.bodobolero.com/rss/8d4bd8da-8345-4181-8978-e654d061fc97http_www_elpais_com_rss_rss_section_html_anchor_elpporeco.rss" text="DD_Portada de Economía | EL PAÍS">
+            </outline>
+        </outline>
+        <outline title="DD_dev" text="DD_dev">
+            <outline xmlUrl="https://www.bodobolero.com/rss/8ff74da8-9b7e-40a4-a93d-1108f7b5c6f5https_blog_rust_embedded_org_rss_xml.rss" type="rss" title="DD_Rust Embedded Working Group" text="DD_Rust Embedded Working Group" htmlUrl="https://blog.rust-embedded.org">
+            </outline>
+            <outline xmlUrl="https://www.bodobolero.com/rss/8bd1e562-cbc2-4b4d-b39f-b4c183ec1314http_www_heise_de_developer_podcast_itunes_heise_developer_podcast_softwarearchitektour_rss.rss" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html" text="DD_heise Developer" title="DD_heise Developer" type="rss">
+            </outline>
+            <outline title="DD_Christophe Coenraets mobile dev" type="rss" htmlUrl="http://coenraets.org/blog" text="DD_Christophe Coenraets mobile dev" xmlUrl="https://www.bodobolero.com/rss/ad2b8bac-a6b0-482d-9d4b-61bf1880e017http_coenraets_org_blog_feed_.rss">
+            </outline>
+            <outline title="DD_Hacker News: Front Page" type="rss" text="DD_Hacker News: Front Page" xmlUrl="https://www.bodobolero.com/rss/fb25a233-57cf-48a0-86ed-85bd34dc4ef2https_hnrss_org_frontpage.rss" htmlUrl="https://news.ycombinator.com/">
+            </outline>
+        </outline>
+        <outline text="DD_News" title="DD_News">
+            <outline text="DD_Wikipedia: Portal: Current events" xmlUrl="https://www.bodobolero.com/rss/e6068f50-0eb0-4890-8915-eb79fd9fb95dhttps_www_to_rss_xyz_wikipedia_current_events_.rss" type="rss" htmlUrl="https://en.wikipedia.org/wiki/Portal:Current_events" title="DD_Wikipedia: Portal: Current events">
+            </outline>
+            <outline htmlUrl="https://www.heise.de/" text="DD_heise online - 7-Tage-News" type="rss" title="DD_heise online - 7-Tage-News" xmlUrl="https://www.bodobolero.com/rss/02c8da7c-2b3d-4f89-a3cd-7cc9eb7afca5http_www_heise_de_newsticker_heise_atom_xml.rss">
+            </outline>
+            <outline htmlUrl="https://blog.rust-lang.org/" type="rss" xmlUrl="https://www.bodobolero.com/rss/f31ef94a-7548-4e34-9f5a-cb604802cfdfhttp_blog_rust_lang_org_feed_xml.rss" text="DD_Rust Blog" title="DD_Rust Blog">
+            </outline>
+            <outline title="DD_Data Henrik" type="rss" xmlUrl="https://www.bodobolero.com/rss/b1a1ffe8-c79c-40f4-a376-2637b914d6a4http_blog_4loeser_net_feeds_posts_default.rss" text="DD_Data Henrik" htmlUrl="https://blog.4loeser.net/">
+            </outline>
+            <outline title="DD_c’t uplink - der IT-Podcast aus Nerdistan" type="rss" xmlUrl="https://www.bodobolero.com/rss/77c2412c-6cc4-4ee4-aa0e-83d740575d96https_ct_uplink_podigee_io_feed_mp3.rss" text="DD_c’t uplink - der IT-Podcast aus Nerdistan" htmlUrl="https://www.heise.de/thema/ct-uplink">
+            </outline>
+            <outline title="DD_OwnCube" type="rss" text="DD_OwnCube" xmlUrl="https://www.bodobolero.com/rss/24d3d27a-e7d8-476f-b91b-5dca2b724280https_billing_owncube_com_networkissuesrss_php.rss" htmlUrl="https://owncube.com/networkissues.php">
+            </outline>
+            <outline text="DD_The RustFest Project" xmlUrl="https://www.bodobolero.com/rss/bb0ded20-aa8b-4616-afeb-76f67b0162cdhttps_blog_rustfest_eu_feed_xml.rss" title="DD_The RustFest Project" type="rss" htmlUrl="https://rustfest.world/">
+            </outline>
+            <outline xmlUrl="https://www.bodobolero.com/rss/d40203e3-2d34-407f-b7d7-e65ce59f4729http_feeds_feedburner_com_MonashInformationServices_format_xml.rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=deb92100c853b9318e113fa52d37ca99" type="rss" text="DD_Monash Research Integrated Feed" title="DD_Monash Research Integrated Feed">
+            </outline>
+            <outline xmlUrl="https://www.bodobolero.com/rss/c4d0a3e9-20f5-4d3f-8520-74ff0a82a1f5http_feeds_feedburner_com_PlanetDB2.rss" htmlUrl="http://planetdb2.com" type="rss" text="DD_Planet DB2" title="DD_Planet DB2">
+            </outline>
+            <outline text="DD_Arduino Praxis Blog" type="rss" xmlUrl="https://www.bodobolero.com/rss/5444c703-bc4b-4bd5-b60c-132dd4467f9fhttp_arduino_praxis_ch_feed_.rss" title="DD_Arduino Praxis Blog" htmlUrl="http://arduino-praxis.ch">
+            </outline>
+        </outline>
+        <outline text="DD_Me" title="DD_Me">
+            <outline title="DD_Peter&apos;s musings" xmlUrl="https://www.bodobolero.com/rss/3dc4d9c2-1fe7-4dac-9b35-0870f22dfe5ahttps_www_bodobolero_com_atom_xml.rss" text="DD_Peter&apos;s musings" htmlUrl="https://www.bodobolero.com/" type="rss">
+            </outline>
+        </outline>
+        <outline text="DD_Neue hobbies" title="DD_Neue hobbies">
+            <outline xmlUrl="https://www.bodobolero.com/rss/561bf04a-a34a-4fec-968d-1678693e6a69https_www_cccs_de_atom_xml.rss" title="DD_CCCS - Chaos Computer Club Stuttgart (Atom Feed)" text="DD_CCCS - Chaos Computer Club Stuttgart (Atom Feed)" type="rss" htmlUrl="https://www.cccs.de/">
+            </outline>
+        </outline>
+        <outline text="DD_Stz" title="DD_Stz">
+            <outline title="DD_Stuttgarter Zeitung - Polizeibericht" htmlUrl="https://www.stuttgarter-zeitung.de/polizeibericht" text="DD_Stuttgarter Zeitung - Polizeibericht" type="rss" xmlUrl="https://www.bodobolero.com/rss/82e3dd5e-0fe2-4d51-a1d9-9817b453bbd5http_www_stuttgarter_zeitung_de_polizeibericht_rss_feed.rss">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Region" htmlUrl="https://www.stuttgarter-zeitung.de/region-stuttgart" title="DD_Stuttgarter Zeitung - Region" type="rss" xmlUrl="https://www.bodobolero.com/rss/511618f2-f5ce-4472-b513-845c4a9cf71bhttp_www_stuttgarter_zeitung_de_region_stuttgart_rss.rss">
+            </outline>
+            <outline type="rss" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart21" title="DD_Stuttgarter Zeitung - Stuttgart 21" text="DD_Stuttgarter Zeitung - Stuttgart 21" xmlUrl="https://www.bodobolero.com/rss/48ac8048-f231-4e41-8401-7f31e66847d6http_www_stuttgarter_zeitung_de_stuttgart21_rss_feed.rss">
+            </outline>
+            <outline title="DD_Stuttgarter Zeitung - Stuttgart" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart" text="DD_Stuttgarter Zeitung - Stuttgart" type="rss" xmlUrl="https://www.bodobolero.com/rss/3226da55-66b6-4a4a-910c-2822c8ae2130http_www_stuttgarter_zeitung_de_stuttgart_rss_feed.rss">
+            </outline>
+            <outline htmlUrl="https://www.stuttgarter-zeitung.de/wirtschaft" title="DD_Stuttgarter Zeitung - Wirtschaft" type="rss" text="DD_Stuttgarter Zeitung - Wirtschaft" xmlUrl="https://www.bodobolero.com/rss/08b73a09-c631-4fce-82db-6a7b213fe7b2http_www_stuttgarter_zeitung_de_wirtschaft_rss_feed.rss">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Startseite" title="DD_Stuttgarter Zeitung - Startseite" xmlUrl="https://www.bodobolero.com/rss/131b06e0-a509-4c5c-bc90-982f68fc3c6fhttp_feeds_stuttgarter_zeitung_de_alle_meldungen.rss" htmlUrl="https://www.stuttgarter-zeitung.de/">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Topthemen" title="DD_Stuttgarter Zeitung - Topthemen" xmlUrl="https://www.bodobolero.com/rss/164f94c5-5f90-4916-b173-642f100af7e0http_www_stuttgarter_zeitung_de_rss_topthemen_xml.rss" htmlUrl="https://www.stuttgarter-zeitung.de/rss/topthemen" type="rss">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Nachrichten des Tages" htmlUrl="https://www.stuttgarter-zeitung.de/news" xmlUrl="https://www.bodobolero.com/rss/d6a4cf00-d713-445c-bb6b-91f5ec66bf06http_www_stuttgarter_zeitung_de_news_rss_feed.rss" title="DD_Stuttgarter Zeitung - Nachrichten des Tages">
+            </outline>
+            <outline title="DD_Stuttgarter Zeitung - Schlagzeilen" type="rss" xmlUrl="https://www.bodobolero.com/rss/7944716e-894d-4141-a576-4bb837a0e1cehttp_www_stuttgarter_zeitung_de_schlagzeilen_rss_feed.rss" text="DD_Stuttgarter Zeitung - Schlagzeilen" htmlUrl="https://www.stuttgarter-zeitung.de/schlagzeilen">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Politik" title="DD_Stuttgarter Zeitung - Politik" xmlUrl="https://www.bodobolero.com/rss/53cf637a-a5e2-46c3-a035-8f068127f7dahttp_www_stuttgarter_zeitung_de_politik_rss_feed.rss" htmlUrl="https://www.stuttgarter-zeitung.de/politik">
+            </outline>
+            <outline type="rss" text="DD_Stuttgarter Zeitung - Baden-Württemberg" title="DD_Stuttgarter Zeitung - Baden-Württemberg" xmlUrl="https://www.bodobolero.com/rss/22e33f14-4e38-45ac-b3a7-0b81aead3955http_www_stuttgarter_zeitung_de_baden_wuerttemberg_rss.rss" htmlUrl="https://www.stuttgarter-zeitung.de/baden-wuerttemberg">
+            </outline>
+            <outline title="DD_Stuttgarter Zeitung - Wissen" htmlUrl="https://www.stuttgarter-zeitung.de/wissen-computer" text="DD_Stuttgarter Zeitung - Wissen" xmlUrl="https://www.bodobolero.com/rss/f254bfea-10b3-45e3-9684-95b1f5150581http_www_stuttgarter_zeitung_de_wissen_computer_rss_feed.rss" type="rss">
+            </outline>
+            <outline type="rss" title="DD_Stuttgarter Zeitung - Stadtbezirke" htmlUrl="https://www.stuttgarter-zeitung.de/stadtbezirke" xmlUrl="https://www.bodobolero.com/rss/93f49a73-189d-4c04-b865-3c0f4843415bhttp_www_stuttgarter_zeitung_de_stadtbezirke_rss_feed.rss" text="DD_Stuttgarter Zeitung - Stadtbezirke">
+            </outline>
+            <outline xmlUrl="https://www.bodobolero.com/rss/5c304b9e-1480-4609-9731-ed35543b99c5http_www_stuttgarter_zeitung_de_panorama_rss_feed.rss" type="rss" text="DD_Stuttgarter Zeitung - Panorama" title="DD_Stuttgarter Zeitung - Panorama" htmlUrl="https://www.stuttgarter-zeitung.de/panorama">
+            </outline>
+            <outline text="DD_Stuttgarter Zeitung - Kultur" type="rss" xmlUrl="https://www.bodobolero.com/rss/04c7e440-0597-4a0a-bff0-a95c67c1b99dhttp_www_stuttgarter_zeitung_de_kultur_rss_feed.rss" title="DD_Stuttgarter Zeitung - Kultur" htmlUrl="https://www.stuttgarter-zeitung.de/kultur">
+            </outline>
+        </outline>
+        <outline title="DD_Realworldtech" text="DD_Realworldtech">
+            <outline title="DD_Real World Tech" type="rss" htmlUrl="https://www.realworldtech.com/" xmlUrl="https://www.bodobolero.com/rss/81dde2ef-0126-48b4-a34f-d7c1b4be34d8https_www_realworldtech_com_feed_rss_.rss" text="DD_Real World Tech">
+            </outline>
+        </outline>
+        <outline xmlUrl="https://www.bodobolero.com/rss/5bcaff2a-30b8-4fe5-8154-d24a28d2b478https_www_schneier_com_blog_atom_xml.rss" type="rss" title="DD_Schneier on Security" text="DD_Schneier on Security" htmlUrl="https://www.schneier.com">
+        </outline>
+        <outline htmlUrl="https://tutorials-raspberrypi.de" title="DD_Tutorials for Raspberry Pi" xmlUrl="https://www.bodobolero.com/rss/8a5687d6-f7a7-4638-87c6-62a5479520dahttp_tutorials_raspberrypi_de_feed_.rss" type="rss" text="DD_Tutorials for Raspberry Pi">
+        </outline>
+        <outline xmlUrl="https://www.bodobolero.com/rss/bff3ab49-12bc-422f-b9e2-63ed2306b742http_arduino4projects_com_feed_.rss" htmlUrl="https://duino4projects.com/" type="rss" text="DD_Use Arduino for Projects" title="DD_Use Arduino for Projects">
+        </outline>
+        <outline title="DD_Portada de Tecnología | EL PAÍS" htmlUrl="https://elpais.com/rss/tecnologia/portada.xml" text="DD_Portada de Tecnología | EL PAÍS" type="rss" xmlUrl="https://www.bodobolero.com/rss/5272a309-e40b-472d-870b-15d00c2f38e9http_www_elpais_com_rss_feed_html_feedId_1005.rss">
+        </outline>
+    </body>
+</opml>
