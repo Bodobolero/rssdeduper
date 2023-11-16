@@ -21,6 +21,61 @@ Utility for users of RSS feeds and newsreaders like feedly and newsify to remove
 Rationale: both files contain the file names of your feed.rss files. If you hide the feed.rss files you can avoid that
 others discover and use your feeds and thus cause web traffic on your web server because the rss feed files contain uuids that are difficult to guess.
 
+### Get help
+
+```
+rssdeduper --help
+
+See https://github.com/Bodobolero/rssdeduper/README.md for more information.
+To see logging information invoke with
+RUST_LOG=info
+
+Usage: rssfeed [OPTIONS]
+
+Options:
+      --so <FILE>
+          Sets the source OPML filename
+          
+          [default: ./feedly-source.opml]
+
+      --to <FILE>
+          Sets the target OPML filename
+          
+          [default: ./feedly-target.opml]
+
+      --ff <FILE>
+          Sets the target feed file
+          
+          [default: ./feeds.json]
+
+      --td <DIRECTORY>
+          Sets the target directory for rss feeds
+          
+          [default: /var/www/html/rss/]
+
+      --up <URL>
+          Sets the url prefix to be used in the target OPML file
+          
+          [default: https://www.bodobolero.com/rss/]
+
+      --wt <SECONDS>
+          Sets the wait time in seconds between iterations
+          
+          [default: 60]
+
+      --it <ITERATIONS>
+          Sets the maximum number of iterations, default 0 means unlimited
+          
+          [default: 0]
+
+  -h, --help
+          Print help (see a summary with '-h')
+
+  -V, --version
+          Print version
+```
+
+
 ## what this is about
 
 Sometimes the same content appears under different categories in my RSS newsreader.
