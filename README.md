@@ -141,9 +141,11 @@ https://docs.rs/url/latest/url/
 
 - if the ID is in the HashMap keys and the feed is different from the one in the HashMap value do not publish the item
 
-- write a feed file to my web-servers /var/html directory
+- write a feed file to the local filesystem (NOT the web servers /var/www/html) directory, see security notice above
 
-- write an OPMl file containing all redirected feeds to my /var/html directory
+- write an OPMl file containing all redirected feeds to to the local filesystem (NOT the web servers /var/www/html) directory, see security notice above
+
+- the user must import the new OPML file into his newsreader from the local filesystem whenever the source OPML file changed (whenever the user wants to subscribe to new feeds and has exported a new OPML file)
 
 
 
