@@ -2,6 +2,7 @@
 
 mod ids;
 mod opml;
+mod rss;
 mod timer;
 mod utilities;
 
@@ -67,7 +68,7 @@ fn main() {
     info!("Iteration wait time: {} seconds", cli.wt);
     info!("Maximum number of iterations: {}", cli.it);
 
-    let mut known_feeds: HashMap<String, (String, Element)> = HashMap::new();
+    let mut known_feeds: rss::ExistingItemsMap = HashMap::new();
 
     timer::periodic_task(
         || {

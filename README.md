@@ -155,7 +155,7 @@ One possible approach would be to deduplicate those based on the number at the e
 So a generalized approach could be to use an URL parser, remove all parameters (after ?), then match everything that is either .html or a hexadecimal or decimal number with optional hyphens as the ID of the page.
 If we don't find an ID of at least length 6 using this approach we use the full URL as identifier.
 
-This approach is not completely failsafe. If two RSS feed domwains use the same numbering scheme we might have a collision of item IDs from different domains. This is why we prefix the ID wit the domain.
+This approach is not completely failsafe. If two RSS feed domwains use the same numbering scheme we might have a collision of item IDs from different domains. This is why we prefix the ID with the host/domain.
 Thus for the FAZ example above our ID would be `www.faz.net19314690`
 
 ## URL parsing library for generating ID (extract identifier, domain and remove query parms)
@@ -186,6 +186,10 @@ https://docs.rs/url/latest/url/
 
 - for each feed:
 
+- download the feed
+
+- determine if the feed has changed using <lastBuildDate> - if it hasn't changed, continue with the next feed
+
 - for each item:
 
 - create the ID for the item
@@ -203,4 +207,14 @@ https://docs.rs/url/latest/url/
 - the user must import the new OPML file into his newsreader from the local filesystem whenever the source OPML file changed (whenever the user wants to subscribe to new feeds and has exported a new OPML file)
 
 
+## OPML lifecycle
 
+A user should be able to continue adding and removing subscriptions.
+
+After a subscription was added or removed, the OPML file needs to be exported and the source OPML file be replaced.
+
+The rssdeduper will then create a new target OPML file merging the existing feed translations with the new feeds (if any).
+
+uuids for existing feeds will be preserved.
+
+So the new OPML file can be deployed step by step to the newsreaders on different devices (if not automatically synchonized) - and the existing feeds can still be accessed.
