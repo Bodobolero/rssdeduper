@@ -15,8 +15,7 @@
             </outline>
             <outline title="DD_Fonds &amp; Mehr - FAZ.NET" text="DD_Fonds &amp; Mehr - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/finanzen/fonds-mehr/" type="rss" xmlUrl="https://www.bodobolero.com/rss/8dee07e1-d3cf-4ce3-8051-bd9059c6d176http_www_faz_net_aktuell_finanzen_fonds_mehr_rssview_1.rss">
             </outline>
-            <outline type="rss" xmlUrl="https://www.bodobolero.com/rss/e2bc6f13-e221-477a-8ee2-5fdb8d8408b0http_www_faz_net_aktuell_wirtschaft_netzwirtschaft_rssview_1.rss" text="DD_Netzwirtschaft - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/" title="DD_Netzwirtschaft - FAZ.NET">
-            </outline>
+            <outline type="rss" text="Netzwirtschaft - FAZ.NET" title="Netzwirtschaft - FAZ.NET" xmlUrl="http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/?rssview=1" htmlUrl="https://www.faz.net/aktuell/wirtschaft/netzwirtschaft/"/>
             <outline text="DD_Digitales Denken - FAZ.NET" type="rss" xmlUrl="https://www.bodobolero.com/rss/fcfcc6c6-9b9a-455d-bbb4-4db823551feehttp_www_faz_net_aktuell_feuilleton_debatten_digitales_denken_rssview_1.rss" title="DD_Digitales Denken - FAZ.NET" htmlUrl="https://www.faz.net/aktuell/feuilleton/debatten/digitales-denken/">
             </outline>
             <outline htmlUrl="https://www.faz.net/aktuell/wissen/" type="rss" title="DD_Wissen - FAZ.NET" text="DD_Wissen - FAZ.NET" xmlUrl="https://www.bodobolero.com/rss/30291035-7c64-4f99-9a51-2554c12ebaechttp_www_faz_net_aktuell_wissen_rssview_1.rss">

@@ -1,9 +1,11 @@
 use super::opml::*;
-use log::error;
+use log::{error, info};
+use std::collections::HashMap;
 use std::fs;
 use std::path::Path;
 
-fn remove_rss_files(directory: &str) -> Result<(), String> {
+// no longer needed after preserving uuids
+fn _remove_rss_files(directory: &str) -> Result<(), String> {
     let dir = Path::new(directory);
     if dir.is_dir() {
         for entry in fs::read_dir(dir)
@@ -22,6 +24,11 @@ fn remove_rss_files(directory: &str) -> Result<(), String> {
     Ok(())
 }
 
+// we now want to preserve existing feed uuids because
+// - users may have multiple newsreader clients using the same opml file but gradually upgrade them
+//   one by one after a new feed was added
+// - users may forget to update a newsreader client and still want to see existing deduplicated feeds
+//   after a change to the OPML file
 pub fn check_and_init_feeds(
     opmlfile: &str,
     feedfile: &str,
@@ -30,15 +37,25 @@ pub fn check_and_init_feeds(
     targetdirectory: &str,
 ) -> Result<Vec<(String, String)>, String> {
     if do_we_need_new_json_feeds_file(feedfile, opmlfile).unwrap() {
+        let previous_feeds: HashMap<String, String> = read_feeds(feedfile)
+            .unwrap_or_default()
+            .into_iter()
+            // use the feedfile as key and not the xmlurl
+            .map(|(v, k)| (k, v))
+            .collect();
+        if previous_feeds.len() > 0 {
+            info!(
+                "Trying to preserve uuids of {} previous feeds",
+                previous_feeds.len()
+            );
+        }
         let mut opml = OpmlDom::new(opmlfile)?;
-        opml.modify(urlprefix.to_string());
+        opml.modify(urlprefix.to_string(), &previous_feeds);
         opml.write(newopmlfile)?;
         opml.save_feeds(feedfile)?;
-        // now remove all existing feeds from targetdirectory they have old names no longer
-        // referenced by the OPML file - note that this requires the user to pick up the new OPML file
-        error!("Removing all feed files from {}\nYou need to import the new OPML file {} into your newsreader", 
-        targetdirectory, newopmlfile);
-        remove_rss_files(targetdirectory)?;
+        // note that this requires the user to pick up the new OPML file to see the new feeds
+        error!("A new OPML file {} has been generated\nTo see the new feeds you need to re-import the new OPML file into your newsreader", 
+        newopmlfile);
     }
     read_feeds(feedfile)
 }
@@ -97,7 +114,6 @@ mod tests {
         fs::write(&file1, "File1")?;
         fs::write(&file2, "File2")?;
 
-        // Warten Sie einen Moment, um sicherzustellen, dass die Dateien unterschiedliche Änderungsdaten haben
         std::thread::sleep(std::time::Duration::from_secs(1));
 
         // Schreiben Sie erneut in die zweite Datei, um ihr Änderungsdatum zu aktualisieren
@@ -120,7 +136,6 @@ mod tests {
     #[test]
     #[serial]
     fn test_is_file1_older_than_file2_when_file1_does_not_exist() -> std::io::Result<()> {
-        // Erstellen Sie zwei temporäre Dateien für den Test
         let mut file1 = std::env::temp_dir();
         file1.push("file1.txt");
         let mut file2 = std::env::temp_dir();
@@ -132,7 +147,6 @@ mod tests {
 
         fs::write(&file2, "File2")?;
 
-        // Testen Sie die Funktion
         assert!(
             do_we_need_new_json_feeds_file(file1.to_str().unwrap(), file2.to_str().unwrap())
                 .unwrap()
@@ -158,5 +172,36 @@ mod tests {
 
         // should panic because opml file does not exist
         let _ = do_we_need_new_json_feeds_file(file1.to_str().unwrap(), file2.to_str().unwrap());
+    }
+
+    // the following test verifies that 55 existing deduped feeds are preserved as is
+    // and a new one is added from a new source opml file
+    #[test]
+    #[serial]
+    fn test_check_and_init_feeds() {
+        setup_test_logger();
+
+        // prepare files for iteration 1
+        let mut feedsfile = std::env::temp_dir();
+        feedsfile.push("feeds.json");
+        fs::copy("testdata/feeds_iteration1.json", &feedsfile).unwrap();
+        // ensure opml file is newer than feeds file
+        std::thread::sleep(std::time::Duration::from_secs(1));
+        let mut source_opml = std::env::temp_dir();
+        source_opml.push("feedly-source.opml");
+        fs::copy("testdata/feedly-source_iteration2.opml", &source_opml).unwrap();
+
+        let feeds = check_and_init_feeds(
+            source_opml.to_str().unwrap(),
+            feedsfile.to_str().unwrap(),
+            "https://www.bodobolero.com/rss/",
+            "testdata/feedly-target_iteration2.opml",
+            "testdata/",
+        );
+        assert!(feeds.is_ok());
+        assert_eq!(feeds.unwrap().len(), 56);
+        // cleanup test files
+        let _ = fs::remove_file(&source_opml);
+        let _ = fs::remove_file(&feedsfile);
     }
 }

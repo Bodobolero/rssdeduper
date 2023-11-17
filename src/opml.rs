@@ -1,7 +1,8 @@
 use super::ids::{convert_url_to_unique_filename, generate_uuid};
 
-use log::info;
+use log::{error, info};
 use serde::{Deserialize, Serialize};
+use std::collections::HashMap;
 use std::fs::File;
 use std::io::BufReader;
 use xmltree::{Element, EmitterConfig};
@@ -20,19 +21,43 @@ fn modify_text_title_and_xmlurl_and_collect_changes(
     element: &mut Element,
     new_url_prefix: String,
     collector: &mut Vec<(String, String)>,
+    previous_feeds: &HashMap<String, String>,
 ) {
     if element.name == "outline" {
+        let mut newfeed = true;
         if let Some(title) = element.attributes.get_mut("title") {
-            title.insert_str(0, "DD_");
+            if title.starts_with("DD_") {
+                newfeed = false;
+            } else {
+                title.insert_str(0, "DD_");
+            }
         }
         if let Some(text) = element.attributes.get_mut("text") {
-            text.insert_str(0, "DD_");
+            if newfeed {
+                text.insert_str(0, "DD_");
+            }
         }
         if let Some(xmlurl) = element.attributes.get_mut("xmlUrl") {
-            let old_xmlurl = xmlurl.clone();
-            let new_filename = convert_url_to_unique_filename(xmlurl, &generate_uuid());
-            *xmlurl = new_url_prefix + new_filename.as_str();
-            collector.push((old_xmlurl, new_filename));
+            if newfeed {
+                let old_xmlurl = xmlurl.clone();
+                let new_filename = convert_url_to_unique_filename(xmlurl, &generate_uuid());
+                *xmlurl = new_url_prefix + new_filename.as_str();
+                info!("Added new feed {} with url {}", &old_xmlurl, &new_filename);
+                collector.push((old_xmlurl, new_filename));
+            } else {
+                // extract the feedfile from the xmlurl
+                let feedfile = xmlurl
+                    .clone()
+                    .strip_prefix(new_url_prefix.as_str())
+                    .unwrap_or(xmlurl)
+                    .to_string();
+                // lookup the sourceurl in the previous feeds
+                if let Some(sourceurl) = previous_feeds.get(feedfile.as_str()) {
+                    collector.push((sourceurl.clone(), feedfile.to_string()));
+                } else {
+                    error!("Cannot find existing feed for {}", xmlurl);
+                }
+            }
         }
     }
 }
@@ -77,7 +102,7 @@ impl OpmlDom {
     }
 
     // must not be called more than once!
-    pub fn modify(&mut self, new_url_prefix: String) {
+    pub fn modify(&mut self, new_url_prefix: String, previous_feeds: &HashMap<String, String>) {
         assert!(self.feeds.is_empty()); // must not be called more than once
         info!(
             "Patching OPML file {} with url prefix {}",
@@ -88,6 +113,7 @@ impl OpmlDom {
                 element,
                 new_url_prefix.clone(),
                 &mut self.feeds,
+                previous_feeds,
             )
         };
         traverse_and_modify(&mut self.opmlroot, &mut modifier);
@@ -131,25 +157,31 @@ mod tests {
         setup_test_logger();
         let mut opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
         let mut collector = Vec::new();
+        let previousfeeds = HashMap::new();
         let mut modifier = |element: &mut Element| {
             modify_text_title_and_xmlurl_and_collect_changes(
                 element,
                 "http://replace.with.my.domain/rssfeeds/".to_string(),
                 &mut collector,
+                &previousfeeds,
             )
         };
         traverse_and_modify(&mut opml.opmlroot, &mut modifier);
-        let result = opml.write("testdata/feedly-with-new-attribute.opml");
+        let result = opml.write("testdata/feedly-target.opml");
         assert!(result.is_ok());
         assert_eq!(collector.len(), 56);
-        //print!("urlchanges: {:?}", collector);
+        assert!(std::fs::remove_file("testdata/feedly-target.opml").is_ok());
     }
 
     #[test]
     fn test_modify_and_save_feeds_with_read() {
         setup_test_logger();
         let mut opml = OpmlDom::new("testdata/feedly-source.opml").unwrap();
-        opml.modify("http://replace.with.my.domain/rssfeeds/".to_string());
+        let previousfeeds = HashMap::new();
+        opml.modify(
+            "http://replace.with.my.domain/rssfeeds/".to_string(),
+            &previousfeeds,
+        );
         let result = opml.save_feeds("testdata/feeds.json");
         assert!(result.is_ok());
         let feeds = read_feeds("testdata/feeds.json");
