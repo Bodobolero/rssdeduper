@@ -167,7 +167,7 @@ impl Feed {
             .indent_string("    ")
             .line_separator("\n")
             .perform_indent(true)
-            .normalize_empty_elements(false);
+            .normalize_empty_elements(true);
         let mut new_content = Vec::with_capacity(self.content.len());
         rssroot
             .write_with_config(&mut new_content, config)

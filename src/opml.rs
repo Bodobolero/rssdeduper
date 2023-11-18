@@ -133,7 +133,7 @@ impl OpmlDom {
             .indent_string("    ")
             .line_separator("\n")
             .perform_indent(true)
-            .normalize_empty_elements(false);
+            .normalize_empty_elements(true);
         self.opmlroot
             .write_with_config(File::create(filename).unwrap(), config)
             .map_err(|e| format!("OPML file {} cannot be written: {}", filename, e))
