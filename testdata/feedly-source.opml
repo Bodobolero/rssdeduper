@@ -32,7 +32,6 @@
         <outline text="Must Read" title="Must Read">
             <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com"/>
         </outline>
-        <outline text="Security" title="Security"/>
         <outline text="Me" title="Me">
             <outline type="rss" text="Peter's musings" title="Peter's musings" xmlUrl="https://www.bodobolero.com/atom.xml" htmlUrl="https://www.bodobolero.com/"/>
         </outline>
@@ -44,7 +43,6 @@
             <outline type="rss" text="Portada de Economía | EL PAÍS" title="Portada de Economía | EL PAÍS" xmlUrl="http://www.elpais.com/rss/rss_section.html?anchor=elpporeco" htmlUrl="https://elpais.com/rss/economia/portada.xml"/>
         </outline>
         <outline text="Stz" title="Stz">
-            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" htmlUrl="https://www.schneier.com"/>
             <outline type="rss" text="Stuttgarter Zeitung - Stuttgart 21" title="Stuttgarter Zeitung - Stuttgart 21" xmlUrl="http://www.stuttgarter-zeitung.de/stuttgart21.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart21"/>
             <outline type="rss" text="Stuttgarter Zeitung - Politik" title="Stuttgarter Zeitung - Politik" xmlUrl="http://www.stuttgarter-zeitung.de/politik.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/politik"/>
             <outline type="rss" text="Stuttgarter Zeitung - Stuttgart" title="Stuttgarter Zeitung - Stuttgart" xmlUrl="http://www.stuttgarter-zeitung.de/stuttgart.rss.feed" htmlUrl="https://www.stuttgarter-zeitung.de/stuttgart"/>

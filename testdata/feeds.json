@@ -1,174 +1,170 @@
 [
   [
     "https://duino4projects.com/feed/",
-    "764bf9e9-212d-454a-a2c4-c46548648e7ehttps_duino4projects_com_feed_.rss"
+    "87c88eb4-7a59-4e46-89fd-baa3f05bc83ahttps_duino4projects_com_feed_.rss"
   ],
   [
     "https://www.to-rss.xyz/wikipedia/current_events/",
-    "1bfc3837-91ef-4030-b1f4-95ef2647e023https_www_to_rss_xyz_wikipedia_current_events_.rss"
+    "c57dddee-d894-481c-9563-ab89a60070f1https_www_to_rss_xyz_wikipedia_current_events_.rss"
   ],
   [
     "http://www.heise.de/newsticker/heise-atom.xml",
-    "830d8232-a30b-4326-a5b1-98765021a992http_www_heise_de_newsticker_heise_atom_xml.rss"
+    "b6eaffd8-991b-4edb-91d4-99883b5cc0f0http_www_heise_de_newsticker_heise_atom_xml.rss"
   ],
   [
     "http://blog.rust-lang.org/feed.xml",
-    "22f17030-5160-468d-bdce-f3da35f88518http_blog_rust_lang_org_feed_xml.rss"
+    "f12f5778-c7be-4cbc-b32a-8349d2bcb891http_blog_rust_lang_org_feed_xml.rss"
   ],
   [
     "http://blog.4loeser.net/feeds/posts/default",
-    "922533b6-4fe3-4d0e-b2dc-913d67945c12http_blog_4loeser_net_feeds_posts_default.rss"
+    "162a4e4c-bc62-4628-8141-f63464b1c991http_blog_4loeser_net_feeds_posts_default.rss"
   ],
   [
     "https://ct-uplink.podigee.io/feed/mp3",
-    "0c93d5fc-7ed0-4683-9f46-2564961dbe96https_ct_uplink_podigee_io_feed_mp3.rss"
+    "e39ae5c2-2e85-4b24-ae49-2a5c3ad9fdffhttps_ct_uplink_podigee_io_feed_mp3.rss"
   ],
   [
     "https://billing.owncube.com/networkissuesrss.php",
-    "f2542e24-73d0-4066-a914-fe7bb107bdechttps_billing_owncube_com_networkissuesrss_php.rss"
+    "a238e220-0ecf-44e8-9965-fcc1eea60b87https_billing_owncube_com_networkissuesrss_php.rss"
   ],
   [
     "http://arduino-praxis.ch/feed/",
-    "30bc7d82-f53d-4baf-9643-4a4a7a444d69http_arduino_praxis_ch_feed_.rss"
+    "bcadaa59-9100-4865-984a-cd2caa37a4b9http_arduino_praxis_ch_feed_.rss"
   ],
   [
     "http://www.bosch-presse.de/pressportal/de/de/feeds/rss-feed.xml",
-    "a20e4b4d-bda9-47e5-91db-83dc13b183bfhttp_www_bosch_presse_de_pressportal_de_de_feeds_rss_feed_xml.rss"
+    "04dc5436-6866-46ec-a302-08850abc855chttp_www_bosch_presse_de_pressportal_de_de_feeds_rss_feed_xml.rss"
   ],
   [
     "http://www.faz.net/aktuell/finanzen/?rssview=1",
-    "2f786e1f-68b0-4a73-be66-a4cb06b42487http_www_faz_net_aktuell_finanzen_rssview_1.rss"
+    "4685f404-2347-4c93-a629-31db9a365d27http_www_faz_net_aktuell_finanzen_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/wissen/?rssview=1",
-    "07923d68-6641-42ce-9dd1-eb6e5133142bhttp_www_faz_net_aktuell_wissen_rssview_1.rss"
+    "8d3102f0-ee4e-47ce-838b-5ec064946cbahttp_www_faz_net_aktuell_wissen_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/politik/inland/?rssview=1",
-    "3be54ee3-785f-42ad-9c9c-0ade5cfd9cc0http_www_faz_net_aktuell_politik_inland_rssview_1.rss"
+    "a8749ead-ac68-4f4b-996f-03f2dd8d41echttp_www_faz_net_aktuell_politik_inland_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/reise/?rssview=1",
-    "c72b096e-8f19-423e-ba87-0042f1ca2fdehttp_www_faz_net_aktuell_reise_rssview_1.rss"
+    "29a01281-c466-4657-ac11-219b9f4e3bd6http_www_faz_net_aktuell_reise_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/technik-motor/?rssview=1",
-    "423876c9-2ac3-4b7d-835f-78e808392850http_www_faz_net_aktuell_technik_motor_rssview_1.rss"
+    "20dd92db-8336-4893-b70b-c565a8a8f81dhttp_www_faz_net_aktuell_technik_motor_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/wirtschaft/?rssview=1",
-    "5f3672e4-f57e-408b-8f92-5ebdcc50e6fbhttp_www_faz_net_aktuell_wirtschaft_rssview_1.rss"
+    "a0bd46f0-b5d1-4aa3-87a1-ac0d8b78ea23http_www_faz_net_aktuell_wirtschaft_rssview_1.rss"
   ],
   [
     "http://www.faz.net/aktuell/politik/ausland/?rssview=1",
-    "e393011b-ba0a-4e97-933f-fc2cbabb2340http_www_faz_net_aktuell_politik_ausland_rssview_1.rss"
+    "6127e5ff-467e-43b0-93b0-7372dcba2472http_www_faz_net_aktuell_politik_ausland_rssview_1.rss"
   ],
   [
     "https://www.schneier.com/blog/atom.xml",
-    "0863f7a2-b098-4766-8124-386afe141345https_www_schneier_com_blog_atom_xml.rss"
+    "09d4687f-6f8b-4938-8087-2e609c376f66https_www_schneier_com_blog_atom_xml.rss"
   ],
   [
     "https://www.bodobolero.com/atom.xml",
-    "89a7e0f4-abd7-471f-995f-473a2d63e5cbhttps_www_bodobolero_com_atom_xml.rss"
+    "8d09175c-a4a9-4446-a470-e12e6c718b0ehttps_www_bodobolero_com_atom_xml.rss"
   ],
   [
     "http://feeds.bbci.co.uk/mundo/internacional/rss.xml",
-    "fe53f7f0-5c10-434f-9c78-f393cd3cc1e4http_feeds_bbci_co_uk_mundo_internacional_rss_xml.rss"
+    "00cf64ec-8eb4-43dc-af96-7b7ec38a1dcfhttp_feeds_bbci_co_uk_mundo_internacional_rss_xml.rss"
   ],
   [
     "http://www.elpais.com/rss/feed.html?feedId=17046",
-    "b29b2fa1-cbc0-4ed5-9c97-cecb3cf76b4fhttp_www_elpais_com_rss_feed_html_feedId_17046.rss"
+    "eb6145b4-93e2-46ec-bc77-82b23a87fa79http_www_elpais_com_rss_feed_html_feedId_17046.rss"
   ],
   [
     "http://newsrss.bbc.co.uk/rss/spanish/news/rss.xml",
-    "9334dea2-44ea-4724-83fb-451a4ad02328http_newsrss_bbc_co_uk_rss_spanish_news_rss_xml.rss"
+    "fc75b1bf-85de-41b7-a537-ce83368e0b33http_newsrss_bbc_co_uk_rss_spanish_news_rss_xml.rss"
   ],
   [
     "http://feeds.bbci.co.uk/mundo/america_latina/rss.xml",
-    "064d71ff-ac46-457d-84fb-b4ff2edbc467http_feeds_bbci_co_uk_mundo_america_latina_rss_xml.rss"
+    "4654b077-614d-4b29-b18a-7e8c63e7732fhttp_feeds_bbci_co_uk_mundo_america_latina_rss_xml.rss"
   ],
   [
     "http://www.elpais.com/rss/rss_section.html?anchor=elpporeco",
-    "5ba79308-f919-4105-9be3-64126a2756bdhttp_www_elpais_com_rss_rss_section_html_anchor_elpporeco.rss"
-  ],
-  [
-    "https://www.schneier.com/blog/atom.xml",
-    "636ebde8-1f38-4dc1-b851-4c014c86729fhttps_www_schneier_com_blog_atom_xml.rss"
+    "69a4ab8f-8b3b-409d-99c4-b58638ea11b7http_www_elpais_com_rss_rss_section_html_anchor_elpporeco.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/stuttgart21.rss.feed",
-    "1a96f739-e602-4833-8d83-07a9edc39039http_www_stuttgarter_zeitung_de_stuttgart21_rss_feed.rss"
+    "20433f0b-2b11-4270-8ea1-1c93f4aa1de9http_www_stuttgarter_zeitung_de_stuttgart21_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/politik.rss.feed",
-    "5c41d247-e07a-4604-964b-f38d3fca3149http_www_stuttgarter_zeitung_de_politik_rss_feed.rss"
+    "ccc13b70-a96e-47a7-9acb-bb85151ce0abhttp_www_stuttgarter_zeitung_de_politik_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/stuttgart.rss.feed",
-    "6a5f742e-5a0a-435e-971a-c92899c52445http_www_stuttgarter_zeitung_de_stuttgart_rss_feed.rss"
+    "5f9ba8cc-bfa0-47f5-8abd-7a5733989b65http_www_stuttgarter_zeitung_de_stuttgart_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/kultur.rss.feed",
-    "f3f3b872-e34b-4a24-b794-41d59de1f68ahttp_www_stuttgarter_zeitung_de_kultur_rss_feed.rss"
+    "e4658878-3848-4cbb-bda2-ca83e1d42aa1http_www_stuttgarter_zeitung_de_kultur_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/wissen-computer.rss.feed",
-    "c581f4b6-502b-437d-829c-105895086afehttp_www_stuttgarter_zeitung_de_wissen_computer_rss_feed.rss"
+    "0e3e46f4-f5d9-4166-9c40-e5e749993e97http_www_stuttgarter_zeitung_de_wissen_computer_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/stadtbezirke.rss.feed",
-    "c757e45a-a36d-4d92-88a2-407183ce7540http_www_stuttgarter_zeitung_de_stadtbezirke_rss_feed.rss"
+    "43463610-3aa7-402b-896f-d3a17932a642http_www_stuttgarter_zeitung_de_stadtbezirke_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/schlagzeilen.rss.feed",
-    "a78ec0e9-2234-4650-81e5-ec46e0f49509http_www_stuttgarter_zeitung_de_schlagzeilen_rss_feed.rss"
+    "7591941a-9b57-4267-8733-452543638fbdhttp_www_stuttgarter_zeitung_de_schlagzeilen_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/news.rss.feed",
-    "a2a65940-8684-4b3c-aa19-44fd03cc219fhttp_www_stuttgarter_zeitung_de_news_rss_feed.rss"
+    "ac06e8df-e0fd-493a-a8e3-8dea9f93465dhttp_www_stuttgarter_zeitung_de_news_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/wirtschaft.rss.feed",
-    "212f7138-9a87-49af-aa63-819e7ddfd583http_www_stuttgarter_zeitung_de_wirtschaft_rss_feed.rss"
+    "acd9e5f1-b9ec-4c9c-9a3f-2c06b423eafdhttp_www_stuttgarter_zeitung_de_wirtschaft_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/sport/vfb-stuttgart.rss",
-    "e5f72d5d-b04d-4298-88f9-745a6088aa82http_www_stuttgarter_zeitung_de_sport_vfb_stuttgart_rss.rss"
+    "8fb966bb-a831-4400-900e-fb8ef2d76d53http_www_stuttgarter_zeitung_de_sport_vfb_stuttgart_rss.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/region-stuttgart.rss",
-    "830c38c0-7f8a-416a-8429-e56d7d4d6995http_www_stuttgarter_zeitung_de_region_stuttgart_rss.rss"
+    "ab32ee00-a87e-4e25-ba96-e9bc6d95e93ahttp_www_stuttgarter_zeitung_de_region_stuttgart_rss.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/baden-wuerttemberg.rss",
-    "084ff706-2616-4d4d-b2ad-f1d55bb7050chttp_www_stuttgarter_zeitung_de_baden_wuerttemberg_rss.rss"
+    "49b5cb14-a282-4e07-bc5a-d31a62f1d2a2http_www_stuttgarter_zeitung_de_baden_wuerttemberg_rss.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/panorama.rss.feed",
-    "61648aab-965f-4e81-a4d9-245473e60d4ehttp_www_stuttgarter_zeitung_de_panorama_rss_feed.rss"
+    "3d0b1055-643f-4fa9-a3fc-e3e8ab2682e0http_www_stuttgarter_zeitung_de_panorama_rss_feed.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/rss/topthemen.xml",
-    "0af662be-270d-4a64-aad4-d64eee81a79fhttp_www_stuttgarter_zeitung_de_rss_topthemen_xml.rss"
+    "4e8264af-b45c-42a9-8f14-593046bd3f0fhttp_www_stuttgarter_zeitung_de_rss_topthemen_xml.rss"
   ],
   [
     "http://www.stuttgarter-zeitung.de/polizeibericht.rss.feed",
-    "94d9ca74-ea70-46a2-b5e8-c8386f7566bahttp_www_stuttgarter_zeitung_de_polizeibericht_rss_feed.rss"
+    "2f2d87fa-1ed1-41ee-a580-a44474bffc4dhttp_www_stuttgarter_zeitung_de_polizeibericht_rss_feed.rss"
   ],
   [
     "http://feeds.stuttgarter-zeitung.de/alle_meldungen",
-    "df56676b-1f3c-4f3f-a849-bf51036e73behttp_feeds_stuttgarter_zeitung_de_alle_meldungen.rss"
+    "38898fcf-b5f3-4383-98ab-6abbc9baaa68http_feeds_stuttgarter_zeitung_de_alle_meldungen.rss"
   ],
   [
     "http://www.heise.de/developer/podcast/itunes/heise-developer-podcast-softwarearchitektour.rss",
-    "d228e212-5d9c-4193-acfd-785eb54c56f8http_www_heise_de_developer_podcast_itunes_heise_developer_podcast_softwarearchitektour_rss.rss"
+    "7975cfc8-594b-4308-889b-1ade2a4e8396http_www_heise_de_developer_podcast_itunes_heise_developer_podcast_softwarearchitektour_rss.rss"
   ],
   [
     "https://hnrss.org/frontpage",
-    "fbab1395-24fd-4217-a748-bbfb015290f2https_hnrss_org_frontpage.rss"
+    "8aced23b-c245-4603-9793-1f16d00d536ahttps_hnrss_org_frontpage.rss"
   ],
   [
     "https://neonstatus.com/feed.rss",
-    "bdc9923f-2458-4576-8380-e8ff3b19cf31https_neonstatus_com_feed_rss.rss"
+    "7c2876d9-b07a-4fe5-b268-305045b4c750https_neonstatus_com_feed_rss.rss"
   ]
 ]

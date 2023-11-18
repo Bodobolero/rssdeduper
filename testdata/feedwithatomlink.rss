@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arduino Praxis Blog</title>
+	<atom:link href="http://arduino-praxis.ch/feed/" rel="self" type="application/rss+xml" />
+	<link>http://arduino-praxis.ch</link>
+	<description>Das Blog zum Buch &#34;Arduino Praxiseinstieg&#34; ..</description>
+	<lastBuildDate>Mon, 26 Jun 2023 15:48:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.23</generator>
+	<item>
+		<title>Arduino UNO R4 offiziell vorgestellt</title>
+		<link>http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/</link>
+		<comments>http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/#comments</comments>
+		<pubDate>Mon, 26 Jun 2023 15:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Arduino UNO R4]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3855</guid>
+		<description><![CDATA[Schon vor vielen Wochen hat das Arduino Team angek&#252;ndigt, dass ein neues Arduino UNO Board herauskommen wird. Heute um 17 Uhr wurde der neue Arduino UNO R4 Minima und Arduino UNO R4 Wifi vorgestellt. Das Bild zeigt meine beiden Test-Boards. Die neuen Arduino UNO R4 sind ab sofort im Arduino Shop verf&#252;gbar. Der UNO R4 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Schon vor vielen Wochen hat das Arduino Team angek&#252;ndigt, dass ein neues Arduino UNO Board herauskommen wird.</p>
+<p>Heute um 17 Uhr wurde der neue <a href="https://blog.arduino.cc/2023/06/26/uno-r4-the-new-dimension-of-making/">Arduino UNO R4 Minima und Arduino UNO R4 Wifi </a>vorgestellt.</p>
+<p><img class="alignnone wp-image-3856 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2023/06/tw-blog-arduino-uno-r4.jpg" alt="" width="500" height="410" srcset="http://arduino-praxis.ch/wp-content/uploads/2023/06/tw-blog-arduino-uno-r4.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2023/06/tw-blog-arduino-uno-r4-300x246.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Das Bild zeigt meine beiden Test-Boards.</p>
+<p>Die neuen <a href="https://store.arduino.cc/products/uno-r4-minima?selectedStore=eu">Arduino UNO R4 sind ab sofort im Arduino Shop</a> verf&#252;gbar. Der UNO R4 Minima kostet 18 EUR, der UNO R4 Wifi ist f&#252;r 25 EUR erh&#228;ltlich.</p>
+<p>&nbsp;</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2023. |
+<a href="http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/#comments">2 comments</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/&amp;title=Arduino UNO R4 offiziell vorgestellt">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/arduino-uno-r4/" rel="tag">Arduino UNO R4</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2023/06/26/arduino-uno-r4-offiziell-vorgestellt/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Review: PCB Service von WellPCB</title>
+		<link>http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/</link>
+		<comments>http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/#respond</comments>
+		<pubDate>Wed, 22 Jul 2020 17:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[WellPCB]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3835</guid>
+		<description><![CDATA[Sponsored Review English Version (555circuitslab.com) Als Maker und Elektronik-Entwickler hat man mittlerweile eine grosse Auswahl an bekannten Leiterplatten-Herstellern aus dem chinesischem Raum. Die Grossen sind jedem bekannt. Neben den Keyplayern gibt es aber eine ganze Anzahl von kleineren Herstellern. Einer von diesen ist WellPCB, eine in Australia registrierte Firma, die zu Uniwell Circuits Co., Ltd [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Sponsored Review</em></p>
+<p><a href="https://www.555circuitslab.com/2020/07/another-pcb-review-wellpcb/">English Version (555circuitslab.com)</a></p>
+<p>Als Maker und Elektronik-Entwickler hat man mittlerweile eine grosse Auswahl an bekannten Leiterplatten-Herstellern aus dem chinesischem Raum. Die Grossen sind jedem bekannt.</p>
+<p>Neben den Keyplayern gibt es aber eine ganze Anzahl von kleineren Herstellern. Einer von diesen ist <a href="https://www.wellpcb.com/">WellPCB</a>, eine in Australia registrierte Firma, die zu Uniwell Circuits Co., Ltd geh&#246;rt. WellPCB ist in Shenzhen/China angesiedelt und hat sich auf Leiterplatten-Fabrikation und Best&#252;ckung spezialisiert.</p>
+<p>WellPCB hat bei mir angefragt, ob ich ihren Leiterplattenservice testen m&#246;chte.</p>
+<p><strong>Online Angebot</strong><br />
+Wie die meisten Leiterplattenhersteller bietet WellPCB eine Online-Plattform f&#252;r die Anfrage und Bestellung von Leiterplatten. Bei Klick auf den Link <a href="https://www.wellpcb.com/pcb-quote">Online Quote</a> gelangt der Anwender auf die Abfrageseite. Die gesamte Website ist nur in Englisch verf&#252;gbar.</p>
+<p>Nach Eingabe der Leiterplatten-Abmessungen in mm, die Bestellmenge und die Anzahl der Layer berechnet die WellPCB Website den Preis f&#252;r das gew&#252;nschte PCB-Projekt.</p>
+<figure class="wp-block-image"><img class="wp-image-301" src="http://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500-300x97.jpg 300w" alt="" /></figure>
+<p><strong>Test Projekt</strong><br />
+F&#252;r den Test habe ich 2 aktuelle Projekte ausgew&#228;hlt &#8211; eine runde Leiterplatte von meinem IR Blaster und eine rechteckige von meinem Wireless Sensor Board Mini, Rev. 3. Beide Leiterplatten wurden mit Eagle CAD entwickelt.</p>
+<p><strong>PCB Upload und Bestellung</strong><br />
+Nach Registrierung und Login k&#246;nnen die Spezifikationen der Leiterplatte eingetragen werden.</p>
+<figure class="wp-block-image"><img class="wp-image-301" src="http://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-1-500-300x97.jpg 300w" alt="" /></figure>
+<p>Mit einem weiteren Klick sind alle m&#246;glichen Optionen der Leiterplatte verf&#252;gbar.</p>
+<figure class="wp-block-image"><img class="wp-image-303" src="http://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-fullspec-red-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-fullspec-red-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-fullspec-red-500-300x210.jpg 300w" alt="" /></figure>
+<p>F&#252;r einfachere Projekte m&#252;ssen nur die Farbe der L&#246;tstoppmaske (<strong>Solder Mask Color)</strong> und das Oberfl&#228;chen-Finish (<strong>Surface Finish)</strong> ausgew&#228;hlt werden.</p>
+<p>Nach Auswahl der Optionen ist der Preis der gew&#252;nschten Leiterplatten inklusive Lieferkosten sofort sichtbar. F&#252;r die Lieferung in die Schweiz habe ich DHL ausgew&#228;hlt.</p>
+<figure class="wp-block-image"><img class="wp-image-305" src="http://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-price-1.jpg" sizes="(max-width: 249px) 100vw, 249px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-price-1.jpg 249w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-price-1-123x300.jpg 123w" alt="" /></figure>
+<p>Nach Eingabe der Daten f&#252;r die Leiterplatten erscheint der Artikel im Warenkorb. Die Leiterplattendaten sind hier noch nicht hinzugef&#252;gt. Das ist also nur das gew&#228;hlte Produkt ohne Board-Daten.</p>
+<figure class="wp-block-image"><img class="wp-image-307" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-2-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-2-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-2-500-300x65.jpg 300w" alt="" /></figure>
+<p>Mittels Klick auf &#8222;Upload File&#8220; k&#246;nnen die Leiterplattendaten dem Artikel hinzugef&#252;gt werden. Zum Test habe die Projekt-Daten im Eagle Format als .brd-Datei hochgeladen.</p>
+<figure class="wp-block-image"><img class="wp-image-308" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-4.jpg" sizes="(max-width: 335px) 100vw, 335px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-4.jpg 335w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-4-300x182.jpg 300w" alt="" /></figure>
+<p>Da keine Fehlermeldung beim Fileupload erscheint, kann WellPCB wohl mit dem Eagle-Format umgehen. Im Warenkorb sind anschliessend beide Projekte mit Boarddaten sichtbar.</p>
+<figure class="wp-block-image"><img class="wp-image-309" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-cart-1-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-cart-1-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-cart-1-500-300x105.jpg 300w" alt="" /></figure>
+<p>Die Bezahlung der Bestellung erfolgte problemlos per Paypal.</p>
+<p>Ein paar Stunden nach der Bestellung habe ich ein EMail mit den Boarddaten im Gerberformat zur Pr&#252;fung erhalten. Die gelieferten Daten waren korrekt und dies habe ich per Email zur&#252;ckgemeldet.</p>
+<p>Nach dem Wochenende, ich habe die Leiterplatten an einem Freitag bestellt, sieht der Produktionsstatus wie folgt aus. Die erste Bestellposition hat einen Produktionsfortschritt von 20%, die zweite Position 40%.</p>
+<figure class="wp-block-image"><img class="wp-image-310" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-order-status-1-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-order-status-1-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-order-status-1-500-300x144.jpg 300w" alt="" /></figure>
+<p><strong>Ankunft der Leiterplattenbestellung</strong><br />
+14 Tage nach Bestellung ist das Paket mit den Leiterplatten angekommen.</p>
+<p>WellPCB hat die zwei kleinen PCB-Projekte in einer recht grossen Kartonbox geliefert. Die Boards selber sind gut verpackt. Neben den Leiterplatten sind in der Verpackung Testprotokolle und Microsection-Beispiele, die einen Querschnitt durch die Leiterplatten zeigen, enthalten.</p>
+<figure class="wp-block-image"><img class="wp-image-313" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-test-report-500.jpg" sizes="(max-width: 300px) 100vw, 300px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-test-report-500.jpg 300w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-test-report-500-150x150.jpg 150w" alt="" /></figure>
+<figure class="wp-block-image"><img class="wp-image-314" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-micro-section-300.jpg" sizes="(max-width: 300px) 100vw, 300px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-micro-section-300.jpg 300w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-micro-section-300-150x150.jpg 150w" alt="" /></figure>
+<p><strong>Aufbau der Leiterplatten</strong><br />
+Beide Leiterplatten sind sauber und leicht von Hand und mit der Hot Air Station zu l&#246;ten. Der weisse Best&#252;ckungsdruck ist auf allen Boards klar und gut lesbar. Die Farben der L&#246;tstopmaske sind gleichm&#228;ssig, ohne R&#252;ckst&#228;nde und optisch angenehm. Die rote Farbe des Sensor Boards ist sehr leuchtend <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<figure class="wp-block-image"><img class="wp-image-315" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-sensorboard-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-sensorboard-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-sensorboard-500-150x150.jpg 150w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-sensorboard-500-300x300.jpg 300w" alt="" /></figure>
+<p>Beide Leiterplattenprojekte haben sofort funktioniert &#8211; keine Fehler im PCB Design und auch keine Produktionsfehler.</p>
+<figure class="wp-block-image"><img class="wp-image-316" src="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-irbooster-500.jpg" sizes="(max-width: 500px) 100vw, 500px" srcset="https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-irbooster-500.jpg 500w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-irbooster-500-150x150.jpg 150w, https://www.555circuitslab.com/wp-content/uploads/2020/07/review-wellpcb-pcb-project-irbooster-500-300x300.jpg 300w" alt="" /></figure>
+<p><strong>Fazit</strong><br />
+Der Leiterplattenhersteller WellPCB ist eine gute Option bei der Wahl eines Leiterplattenlieferanten. Die Leiterplatten sind von guter Qualit&#228;t. Der Bestellprozess k&#246;nnte aber noch optimiert und mit einem Onlinetool zur Gerber-Konvertierung und einem Gerber-Viewer erg&#228;nzt werden.</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2020. |
+<a href="http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/&amp;title=Review: PCB Service von WellPCB">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/pcb/" rel="tag">PCB</a>, <a href="http://arduino-praxis.ch/tag/wellpcb/" rel="tag">WellPCB</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2020/07/22/review-pcb-service-von-wellpcb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Review: SMD-Best&#252;ckungs-Service von JLCPCB</title>
+		<link>http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/</link>
+		<comments>http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/#comments</comments>
+		<pubDate>Sun, 08 Dec 2019 17:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Bestückung]]></category>
+		<category><![CDATA[Leiterplatten]]></category>
+		<category><![CDATA[SMD]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3782</guid>
+		<description><![CDATA[UPDATE 09.12.19 JLCPCB bedankt sich bei seinen Kunden und offeriert einen kostenlosen SMD-Best&#252;ckungsservice. https://support.jlcpcb.com/article/90-thanksgiving-special-offer &#160; Sponsored Review Der chinesische Leiterplattenhersteller JLCPCB bietet seit kurzem neben der Leiterplattenherstellung auch einen Best&#252;ckungsservice f&#252;r SMD-Komponenten (SMT Assembly Service)  an. JLCPCB hat mir die M&#246;glichkeit angeboten, den &#8222;SMT Assembly Service&#8220; mit einer Testbestellung auszutesten. Der Best&#252;ckungsservice beinhaltet eine Leiterplatte und [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>UPDATE 09.12.19</strong><br />
+JLCPCB bedankt sich bei seinen Kunden und offeriert einen kostenlosen SMD-Best&#252;ckungsservice.<br />
+<a href="https://support.jlcpcb.com/article/90-thanksgiving-special-offer">https://support.jlcpcb.com/article/90-thanksgiving-special-offer</a></p>
+<p>&nbsp;</p>
+<p><em>Sponsored Review</em></p>
+<p>Der chinesische Leiterplattenhersteller <a href="https://jlcpcb.com/">JLCPCB</a> bietet seit kurzem neben der Leiterplattenherstellung auch einen Best&#252;ckungsservice f&#252;r SMD-Komponenten (<a href="https://jlcpcb.com/smt-assembly">SMT Assembly Service</a>)  an.</p>
+<p>JLCPCB hat mir die M&#246;glichkeit angeboten, den &#8222;SMT Assembly Service&#8220; mit einer Testbestellung auszutesten.</p>
+<p>Der Best&#252;ckungsservice beinhaltet eine Leiterplatte und die darauf platzierten SMD-Komponenten.</p>
+<p><strong>Testprojekt</strong><br />
+Als Testprojekt habe ich mein Projekt verstellbarer Sollwertgeber mit Codierschalter ausgesucht. Die Leiterplatte dieses Projektes habe ich vorher bereits in verschiedenen Farben bei JLCPCB bestellt. Die Leiterplattendaten im Gerber-Format sind bereits erstellt und &#252;berpr&#252;ft.</p>
+<p><img class="alignnone wp-image-3820 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-pcb-color-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-pcb-color-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-pcb-color-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Auf der Leiterplatte des Sollwertgebers sind sowohl SMD-Bauteile wie auch THT-Komponenten (Bauteile mit Anschlussdr&#228;hten) platziert.</p>
+<p><img class="alignnone wp-image-3818 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-swu-500.jpg" alt="" width="500" height="500" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-swu-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-swu-500-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/12/555_review_smt-swu-500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Ablauf Bestellung</strong></p>
+<p>Die Bestellung von Leiterplatten mit Best&#252;ckung erfolgt &#252;ber die &#252;bliche Leiterplattenbestellung. Im ersten Schritt werden die Leiterplattendaten hochgeladen und die Optionen der gew&#252;nschten Leiterplatte gew&#228;hlt. Im zweiten Schritt werden die Produktionsdaten f&#252;r die Leiterplattenbest&#252;ckung (St&#252;ckliste BOM und PickandPlace-Informationen) hochgeladen und die Bauteile aus der <a class="blue underline" href="https://jlcpcb.com/client/index.html#/parts">JLCPCB SMT Parts Library</a> ausgew&#228;hlt. In dieser Bauteilbibliothek stehen momentan knapp 700 Standardkomponenten und 30000 erweiterte Komponenten zur Verf&#252;gung.</p>
+<p>Die Lieferung der Leiterplatten oder einzelner Bauteile an JLCPCB ist momentan noch nicht m&#246;glich.</p>
+<p><strong>Leiterplatte hochladen</strong></p>
+<p>Nach dem Hochladen der Leiterplattendaten im Gerber-Format k&#246;nnen die Optionen f&#252;r die Leiterplatte gew&#228;hlt werden.</p>
+<p><img class="alignnone wp-image-3792 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-1-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-1-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-1-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Best&#252;ckungsservice w&#228;hlen</strong></p>
+<p>Die Option Best&#252;ckungsservice (SMT Assembly) ist am Ende der Leiterplatten-Optionen platziert und standardm&#228;ssig deaktiviert.</p>
+<p><img class="alignnone wp-image-3793 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-2-500.jpg" alt="" width="500" height="236" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-2-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-2-500-300x142.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Durch Aktivieren des Best&#252;ckungsservice werden die Best&#252;ckungs-und die L&#246;tseite der Leiterplatte eingeblendet.</p>
+<p>Der Best&#252;ckungsservice kann momentan nur einseitig ausgef&#252;hrt werden, darum muss der Besteller die Seite der Leiterplatte, auf der die SMD-Komponenten platziert werden, ausw&#228;hlen.</p>
+<p>In meinem Testprojekt ist dies die Best&#252;ckungsseite (top side).</p>
+<p><img class="alignnone wp-image-3795 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-3-500.jpg" alt="" width="500" height="398" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-3-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-3-500-300x239.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Best&#252;ckungsdateien</strong></p>
+<p>Im n&#228;chsten Schritt m&#252;ssen die Produktionsdaten (St&#252;ckliste und PickandPlace-Informationen) als File hochgeladen werden. Die beiden Dateien nennen sich BOM (St&#252;ckliste) und CPL (Component Placement List) und k&#246;nnen aus dem eingesetzten CAD-Programm exportiert werden.</p>
+<p>Hilfe f&#252;r die Bereitstellung der Produktionsdaten findet man in den <a href="https://support.jlcpcb.com/category/78-smt-assembly">FAQ von JLCPCB</a>.</p>
+<p>Nach Hochladen der Produktionsdaten wird die St&#252;ckliste analysiert. Die Bauteile aus der Bauteilbibliothek werden ausgew&#228;hlt und aufgelistet.</p>
+<p><img class="alignnone wp-image-3797 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-5-500.jpg" alt="" width="500" height="221" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-5-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-5-500-300x133.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Nun muss jedes Bauteil aus der St&#252;ckliste und die Zuordnung zum Lagerbauteil von JLCPCB best&#228;tigt werden.</p>
+<p>In der Auflistung erscheinen auch die konventionellen Komponenten wie Stecker etc.</p>
+<p>SMD-Komponenten, die nicht automatisch zugeordnet werden k&#246;nnen, m&#252;ssen &#252;ber die Suchfunktion aus der Part-Library ausgew&#228;hlt werden. In meinem Projekt wurde die Zener-Diode D1 nicht erkannt.</p>
+<p><img class="alignnone wp-image-3798 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-6-500.jpg" alt="" width="500" height="207" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-6-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-6-500-300x124.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Alle nicht ausgew&#228;hlten Bauteile werden im Best&#252;ckungsauftrag nicht ber&#252;cksichtigt.</p>
+<p>Nun erfolgt ein Review der zu best&#252;ckenden Bauteile auf der Leiterplatte. Dazu wird die Leiterplatte und die darauf platzierten SMD-Bauteile dargestellt. Konventionelle Bauteile wie Poti (P1, P2) oder Elkos (C1, C3, C4) werden als Bauteil nicht dargestellt, da sie nicht automatisch best&#252;ckt werden.</p>
+<p><img class="alignnone wp-image-3800" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-7.jpg" alt="" width="500" height="274" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-7.jpg 823w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-7-300x164.jpg 300w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-7-768x421.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Gleichzeitig zum Review wird in der rechten Spalte die Kostenberechnung dargestellt.</p>
+<p><img class="alignnone wp-image-3801 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-8-500.jpg" alt="" width="500" height="266" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-8-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-8-500-300x160.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Falls alle Bauteile korrekt sind, kann die Bestellung gespeichert werden und der Best&#252;ckungsauftrag erscheint im Warenkorb als eigene Position.</p>
+<p><img class="alignnone wp-image-3802 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-9-500.jpg" alt="" width="500" height="201" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-9-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/jlcpcb-smt-9-500-300x121.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Lieferung des Best&#252;ckungsauftrages</strong></p>
+<p>Die Ausf&#252;hrung meiner Bestellung, von der Bestellung bis zur Lieferung, dauerte nur 4 Tage. Die Lieferung selbst hat mit Lieferdienst nochmals etwas 4 Tage gedauert.</p>
+<p>Wie gewohnt, sendet JLCPCB seine Leiterplatten in einer stabilen Kartonbox. Die best&#252;ckten Leiterplatten sind zus&#228;tzlich in roter Luftpolsterfolie verpackt. Bei dieser roten Luftpolsterfolie scheint es sich um antistatische Luftpolsterfolie zu handeln. Also eine geeignete Verpackungsl&#246;sung f&#252;r empfindliche Elektronik-Leiterplatten.</p>
+<p><img class="alignnone wp-image-3806 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb1_500.jpg" alt="" width="500" height="500" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb1_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb1_500-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb1_500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Die best&#252;ckten Leiterplatten sind jeweils 5 St&#252;ck mit einem Klebeband zusammengeklebt.</p>
+<p><img class="alignnone wp-image-3807 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb2_500.jpg" alt="" width="500" height="500" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb2_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb2_500-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb2_500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Die mit SMD-Komponenten best&#252;ckten Leiterplatten machen einen guten Eindruck. Die Bauteile sind alle gerade platziert, die L&#246;tstellen einwandfrei und gleichm&#228;ssig.</p>
+<p>Da alle SMD-Komponenten in der SMD-Library von JLDPCB verf&#252;gbar waren, konnten diese best&#252;ckt werden. Auf der Leiterplatte m&#252;ssen somit nur noch alle konventionellen Bauteile wie Stiftleisten, Elkos und Potentiometer aufgel&#246;tet werden.</p>
+<p><img class="alignnone wp-image-3809 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb4_500.jpg" alt="" width="500" height="500" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb4_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb4_500-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb4_500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Auf der Leiterplatte fallen 2 Bohrungen (rot markiert) auf. Diese geh&#246;ren nicht zum Leiterplatten-Projekt, sondern wurden von JLCPCB erg&#228;nzt. Vermutlich dienen die Bohrungen zur Montage der Leiterplatte w&#228;hrend dem Best&#252;cken, beziehungsweise L&#246;ten.</p>
+<p><img class="alignnone wp-image-3811 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb5_500.jpg" alt="" width="500" height="500" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb5_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb5_500-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb5_500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Nach dem Best&#252;cken der konventionellen Bauteile erfolgte ein erste elektrischer Test. Die Leiterplatte funktioniert einwandfrei. Die Best&#252;ckung der SMD-Komponenten durch JLCPCB war also erfolgreich.</p>
+<p><img class="alignnone wp-image-3813 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb6_500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb6_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_panel_smt_pcb6_500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Kosten</strong></p>
+<p>Die Kalkulation der Best&#252;ckung eines Leiterplattenprojektes ist jeweils abh&#228;ngig von der Anzahl und den Typen der eingesetzten Bauteile.</p>
+<p>Der Endpreis setzt sich aus den Setup Fee (Leiterplatte), den Bauteilkosten und den Best&#252;ckungskosten zusammen. Die Kosten k&#246;nnen online gepr&#252;ft werden, indem man die Leiterplattendaten sowie die Files f&#252;r BOM und CPL hochl&#228;dt.</p>
+<p>In meinem Testprojekt betragen die Gesamtkosten knapp 40 USD f&#252;r 10 best&#252;ckte Leiterplatten.</p>
+<p>Da mein Projekt etliche Bauteile aus der erweiterten Bauteileliste enth&#228;lt, kommen noch zus&#228;tzliche Bauteilkosten (Extended components fee) dazu.</p>
+<p>Gesamthaft wurden pro Leiterplatte 10 Bauteile best&#252;ckt.</p>
+<p>Die Kosten pro best&#252;ckte Leiterplatte, inklusive gr&#252;ner Leiterplatte, aber ohne die konventionellen Bauteile, betragen 3.80 USD.</p>
+<p><img class="alignnone wp-image-3815 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_smt-cost.jpg" alt="" width="297" height="414" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_smt-cost.jpg 297w, http://arduino-praxis.ch/wp-content/uploads/2019/11/555_review_smt-cost-215x300.jpg 215w" sizes="(max-width: 297px) 100vw, 297px" /></p>
+<p><strong>Fazit</strong></p>
+<p>Mit dem neuen SMD-Best&#252;ckungs-Service bietet JLCPCB eine kosteng&#252;nstige M&#246;glichkeit zur professionellen Best&#252;ckung von Prototypen-Serien.</p>
+<p>Dank den g&#252;nstigen Kosten kann sich auch ein Bastler oder Start-Up ohne eigene Produktionsst&#228;tte diesen Service leisten.</p>
+<p>Vorteile/Nachteile</p>
+<p>+schnelle Produktion<br />
++schnelle Lieferung<br />
++PCB inklusive<br />
++einfacher Upload der Produktionsdaten<br />
++professionelle Produktion</p>
+<p>-nur gr&#252;ne Leiterplatten m&#246;glich<br />
+-nur einseitige Best&#252;ckung<br />
+-Bauteil-Angebot momentan noch begrenzt</p>
+<p>Der einfache Bestellvorgang und die schnelle und kosteng&#252;nstige Produktion zeichnen diesen neuen Service aus.</p>
+<p>Einziger Nachteil ist die momentan noch etwas begrenzte Bauteilebibliothek.</p>
+<p>Insgesamt aber eine kosteng&#252;nstige L&#246;sung f&#252;r Prototypen und Kleinserien.</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2019. |
+<a href="http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/#comments">2 comments</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/&amp;title=Review: SMD-Best&#252;ckungs-Service von JLCPCB">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/bestueckung/" rel="tag">Bestückung</a>, <a href="http://arduino-praxis.ch/tag/leiterplatten/" rel="tag">Leiterplatten</a>, <a href="http://arduino-praxis.ch/tag/pcb/" rel="tag">PCB</a>, <a href="http://arduino-praxis.ch/tag/smd/" rel="tag">SMD</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2019/12/08/review-smd-bestueckungs-service-von-jlcpcb/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Portable Power Supply &#8211; VoltBot</title>
+		<link>http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/</link>
+		<comments>http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/#respond</comments>
+		<pubDate>Sun, 27 Oct 2019 14:06:58 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Elektronik]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[Volt]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3777</guid>
+		<description><![CDATA[Testing VoltBot &#169; ArduinoPraxis for Arduino Praxis Blog, 2019. &#124; Permalink &#124; No comment &#124; Add to del.icio.us Post tags: Volt Feed enhanced by Better Feed from Ozh]]></description>
+				<content:encoded><![CDATA[<p>Testing VoltBot</p>
+<p><img class="alignnone size-medium wp-image-3776" src="http://arduino-praxis.ch/wp-content/uploads/2019/10/img_7731-300x225.jpg" alt="" width="300" height="225" /></p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2019. |
+<a href="http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/&amp;title=Portable Power Supply &#8211; VoltBot">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/volt/" rel="tag">Volt</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2019/10/27/portable-power-supply-voltbot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Leiterplatten-Panel bei JLCPCB</title>
+		<link>http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/</link>
+		<comments>http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/#respond</comments>
+		<pubDate>Wed, 12 Jun 2019 17:37:05 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Projekt]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Panel]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3754</guid>
+		<description><![CDATA[Sponsored Review Ein Leiterplatten-Nutzen oder Panel ist die &#252;bliche Technik um mehr Leiterplatten f&#252;r einen kalkulierten Preis zu bekommen. Die meisten Leiterplattenhersteller, die auch von Makern und Bastler, genutzt werden, kalkulieren den Endpreis basierend auf der Nutzfl&#228;che der bestellten Leiterplatte. Mittlerweile gibt es Anbieter, die den Preis f&#252;r die Leiterplatte f&#252;r eine Gr&#246;sse von 100&#215;100 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Sponsored Review</em></p>
+<p>Ein Leiterplatten-Nutzen oder Panel ist die &#252;bliche Technik um mehr Leiterplatten f&#252;r einen kalkulierten Preis zu bekommen.</p>
+<p>Die meisten Leiterplattenhersteller, die auch von Makern und Bastler, genutzt werden, kalkulieren den Endpreis basierend auf der Nutzfl&#228;che der bestellten Leiterplatte.</p>
+<p>Mittlerweile gibt es Anbieter, die den Preis f&#252;r die Leiterplatte f&#252;r eine Gr&#246;sse von 100&#215;100 mm kalkulieren. Diese Kalkulation verwendet auch der chinesische PCB-Hersteller <a href="https://jlcpcb.com/">JLCPCB</a>.</p>
+<p>JLCPCB hat mir einen Coupon angeboten, damit ich die M&#246;glichkeiten der Panels in einem konkreten Projekt testen kann. Vielen Dank daf&#252;r <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Mein aktuelles Sensorprojekt des ATtiny Sensor Nodes V4 hat eine Leiterplattengr&#246;sse von 30x50mm.</p>
+<p>Die Abbildung zeigt die ersten Prototypen in den bekannten Farben des amerikanischen Herstellers OSHPark.</p>
+<p><img class="alignnone wp-image-3770 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_oshpcb_500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_oshpcb_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_oshpcb_500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>In die nutzbare Fl&#228;che von 100x100mm bei JLCPCB passen also 3&#215;2 Leiterplatten von meinem Projekt, ohne dabei einen Aufpreis zu bezahlen,</p>
+<p><img class="alignnone size-medium wp-image-3757" src="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_auslastung-300x300.jpg" alt="" width="300" height="300" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_auslastung-300x300.jpg 300w, http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_auslastung-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_auslastung.jpg 615w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Auf der X-Achse entsteht dabei jeweils links und rechts noch ein kleiner Rand von je 5mm.</p>
+<p><strong>Panel erstellen bei JLCPCB</strong></p>
+<p>Das Erstellen eines Nutzens oder Panels ist im Bestellvorgang bei JLCPCB integriert. Wie gewohnt l&#228;dt man im ersten Schritt die Gerberdaten des Leiterplattenprojektes hoch.</p>
+<p>In der Vorschau ist sofort das PCB-Projekt sichtbar und in der rechten Spalte wird der Preis f&#252;r die Standardmenge von 5 angegeben. Ich habe in meinem Projekt 10 St&#252;ck ausgew&#228;hlt.</p>
+<p><img class="alignnone wp-image-3761 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_upload_pcb_500.jpg" alt="" width="500" height="315" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_upload_pcb_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_upload_pcb_500-300x189.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Der Preis f&#252;r diese Projekt wird somit mit 5 USD angegeben.</p>
+<p>Die Konfiguration des PCB-Panels erfolgt nun &#252;ber den Men&#252;punkt <em>Panel by JLCPCB</em>.</p>
+<p>Standardm&#228;ssig ist diese Option auf <em>No</em>.</p>
+<p><img class="alignnone wp-image-3764 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_500.jpg" alt="" width="500" height="445" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_500-300x267.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>F&#252;r die Panel-Bestellung wird nun <em>Yes</em> ausgew&#228;hlt und die Anzahl der Boards in x und y-Richtung eingetragen. F&#252;r das Testprojekt also 2&#215;3 PCB.</p>
+<p><img class="alignnone wp-image-3765 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_auswahl_500.jpg" alt="" width="500" height="102" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_auswahl_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/05/555_review_panel_konfiguration_auswahl_500-300x61.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Mit der Eingabe der Anzahl der Boards f&#252;r die X- und die Y-Richtung wird automatisch die Panel-Gr&#246;sse angegeben. In meinem Projekt 100x100mm. Gleichzeitig wird ein Hinweis angegeben, dass in X-Richtung 10mm Rand entstehnt.</p>
+<p>Mit der Option Edge Rails auf <em>No</em> wird Rand automatisch abgeschnitten.</p>
+<p>Mit der Konfiguration der Panels bekommt man nun also 10 Panels mit je 6 Leiterplatten, insgesamt also 60 einzelne Leiterplatten f&#252;r einen sehr g&#252;nstigen Preis.</p>
+<p>Mit dem Absenden der Leiterplattenpanels ist die Bestellung abgeschlossen und die Herstellung der Leiterplatten beginnt in K&#252;rze.</p>
+<p><strong>Hilfe und Infos zu Panels</strong></p>
+<p>In der Hilfe zu Panels beschreibt JLCPCB nochmals diese Funktion der Panel-Erstellung.</p>
+<p>In den Bemerkungen sind noch ein paar wichtige Hinweise zur Anzahl der Boards und der Boardgr&#246;sse erw&#228;hnt.</p>
+<p>Panels d&#252;rfen nicht schmaler als 7 cm sein und ein einzelnes Board darf nicht kleiner als 1.5&#215;1,5 cm sein.</p>
+<p>Ich habe in einem ersten Panelprojekt ein Panel erstellt, das kleiner als 7 cm war. Bei der Qualit&#228;tspr&#252;fung wurde dieses Board dann abgewiesen und die Kosten f&#252;r die Leiterplatten wurden zur&#252;ckerstattet.</p>
+<p>Ideal w&#228;re es, wenn Panels, die nicht den Gr&#246;ssenanforderungen entsprechen mit einem Warnhinweis vor der Bestellung abgewiesen werden.</p>
+<p><strong>Lieferung der Panels</strong></p>
+<p>Mein Projekt wurde innerhalb von knapp 2 Arbeitstagen produziert. Die Lieferung hat dann nochmals etwa 3 Tage gedauert.</p>
+<p>Das Panel meines Projektes sieht perfekt aus</p>
+<p><img class="alignnone wp-image-3771 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_1_500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_1_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_1_500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>und dank den V-Cut (Brechkanten zwischen den einzelnen Leiterplatten) k&#246;nnen diese leicht auseinandergebrochen werden.</p>
+<p><img class="alignnone wp-image-3772 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_2_500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_2_500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/06/555_review_panel_panel_2_500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Fazit</strong></p>
+<p>Mit einfachen Verwendung von Nutzen oder Panels bietet JLCPCB eine n&#252;tzliche und praktische Funktion der Bestellung von kleineren Leiterplattenserien zu einem g&#252;nstigen Preis.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2019. |
+<a href="http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/&amp;title=Leiterplatten-Panel bei JLCPCB">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/panel/" rel="tag">Panel</a>, <a href="http://arduino-praxis.ch/tag/pcb/" rel="tag">PCB</a>, <a href="http://arduino-praxis.ch/tag/review/" rel="tag">Review</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2019/06/12/leiterplatten-panel-bei-jlcpcb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Arduino Praxiseinstieg, 4. Auflage erscheint am 29.04.2019</title>
+		<link>http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/</link>
+		<comments>http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/#respond</comments>
+		<pubDate>Mon, 08 Apr 2019 17:19:13 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Bücher]]></category>
+		<category><![CDATA[4.Auflage]]></category>
+		<category><![CDATA[Buch]]></category>
+		<category><![CDATA[Praxiseinstieg]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3739</guid>
+		<description><![CDATA[Am 29. April 2019 erscheint die 4. Auflage von Arduino Praxiseinstieg. Auf &#252;ber 680 Seiten erlernt der Leser den praktischen Einstieg ins Thema Arduino. Projekte wie Gefrierschrankw&#228;chter Roboter Geschwindigkeitsmesser f&#252;rs Fahrrad die man aufbauen und praktisch einsetzen kann. Weitere Praxisanwendungen sind Kompass Fieberthermometer Wasserwaage Wetterstation Vorbestellbar und verf&#252;gbar ab 29.04.2019 bei mitp-Verlag Amazon.de &#160; &#169; ArduinoPraxis for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Am <strong>29. April 2019</strong> erscheint die <strong>4. Auflage</strong> von <strong>Arduino Praxiseinstieg</strong>.</p>
+<p><a href="https://www.mitp.de/Demnaechst/Arduino-Praxiseinstieg.html"><img class="alignnone size-full wp-image-3737" src="http://arduino-praxis.ch/wp-content/uploads/2010/05/cover_9783747500545_klein.png" alt="" width="174" height="245" /></a></p>
+<p>Auf &#252;ber 680 Seiten erlernt der Leser den praktischen Einstieg ins Thema Arduino.</p>
+<p>Projekte wie</p>
+<ul>
+<li>Gefrierschrankw&#228;chter</li>
+<li>Roboter</li>
+<li>Geschwindigkeitsmesser f&#252;rs Fahrrad</li>
+</ul>
+<p>die man aufbauen und praktisch einsetzen kann.</p>
+<p>Weitere Praxisanwendungen sind</p>
+<ul>
+<li>Kompass</li>
+<li>Fieberthermometer</li>
+<li>Wasserwaage</li>
+<li>Wetterstation</li>
+</ul>
+<p>Vorbestellbar und verf&#252;gbar ab <strong>29.04.2019</strong> bei</p>
+<p><a href="https://www.mitp.de/Demnaechst/Arduino-Praxiseinstieg.html">mitp-Verlag</a><br />
+<a title="Arduino" href="http://www.amazon.de/exec/obidos/ASIN/3747500544/webmeisterch-21">Amazon.de</a></p>
+<p>&nbsp;</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2019. |
+<a href="http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/&amp;title=Arduino Praxiseinstieg, 4. Auflage erscheint am 29.04.2019">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/4-auflage/" rel="tag">4.Auflage</a>, <a href="http://arduino-praxis.ch/tag/arduino/" rel="tag">Arduino</a>, <a href="http://arduino-praxis.ch/tag/buch/" rel="tag">Buch</a>, <a href="http://arduino-praxis.ch/tag/praxiseinstieg/" rel="tag">Praxiseinstieg</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2019/04/08/arduino-praxiseinstieg-4-auflage-erscheint-am-29-04-2019/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Klein, kleiner, ganz klein &#8211; ATtiny10</title>
+		<link>http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/</link>
+		<comments>http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/#respond</comments>
+		<pubDate>Sat, 06 Apr 2019 19:38:30 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Attiny]]></category>
+		<category><![CDATA[ATtiny10]]></category>
+		<category><![CDATA[Microchip]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3730</guid>
+		<description><![CDATA[Arduino im Kleinformat mit ATtiny10 Installation, Konfiguration und Programmierung des ATtiny10 &#252;ber Arduino IDE. &#169; ArduinoPraxis for Arduino Praxis Blog, 2019. &#124; Permalink &#124; No comment &#124; Add to del.icio.us Post tags: Arduino, ATtiny10, Microchip Feed enhanced by Better Feed from Ozh]]></description>
+				<content:encoded><![CDATA[<p>Arduino im Kleinformat mit ATtiny10</p>
+<p><img class="alignnone wp-image-3733 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-2-small.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-2-small.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-2-small-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><img class="alignnone wp-image-3732 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-1-small.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-1-small.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2019/04/ap-blog-attiny10-1-small-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><a href="https://make.kosakalab.com/make/electronic-work/arduino_tpi_en/">Installation, Konfiguration und Programmierung</a> des ATtiny10 &#252;ber Arduino IDE.</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2019. |
+<a href="http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/&amp;title=Klein, kleiner, ganz klein &#8211; ATtiny10">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/arduino/" rel="tag">Arduino</a>, <a href="http://arduino-praxis.ch/tag/attiny10/" rel="tag">ATtiny10</a>, <a href="http://arduino-praxis.ch/tag/microchip/" rel="tag">Microchip</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2019/04/06/klein-kleiner-ganz-klein-attiny10/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Review &#8211; Leiterplatten (PCB) von JLCPCB</title>
+		<link>http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/</link>
+		<comments>http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/#comments</comments>
+		<pubDate>Thu, 26 Jul 2018 14:34:04 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[PCB]]></category>
+		<category><![CDATA[Projekt]]></category>
+		<category><![CDATA[EasyEDA]]></category>
+		<category><![CDATA[JLCPCB]]></category>
+		<category><![CDATA[Prototyping]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3694</guid>
+		<description><![CDATA[Sponsored Review Der chinesische Leiterplattenhersteller JLCPCB hat mir ein Guthaben zur Verf&#252;gung gestellt, damit ich ihre Leiterplattenprodukte testen und anschliessend ein Review schreiben kann. JLCPCB hat sich auf die Herstellung von Leiterplatten (englisch PCB &#8211; Printed Circuit Boards) f&#252;r Prototypen- und Kleinserien spezialisiert. Die Firma ist in der chinesischen Stadt Shenzhen beheimatet und produziert, gem&#228;ss [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Sponsored Review</em></p>
+<p>Der chinesische Leiterplattenhersteller <a href="https://jlcpcb.com/">JLCPCB </a>hat mir ein Guthaben zur Verf&#252;gung gestellt, damit ich ihre Leiterplattenprodukte testen und anschliessend ein Review schreiben kann.</p>
+<p><a href="https://jlcpcb.com/">JLCPCB </a>hat sich auf die Herstellung von Leiterplatten (englisch PCB &#8211; Printed Circuit Boards) f&#252;r Prototypen- und Kleinserien spezialisiert. Die Firma ist in der chinesischen Stadt Shenzhen beheimatet und produziert, gem&#228;ss ihrer Website, 8000 PCB-Auftr&#228;ge pro Tag.</p>
+<p><a href="https://jlcpcb.com/">JLCPCB </a>ist ein grosser Lieferant f&#252;r viele Maker und Elektronik-Entwickler und verspricht, dass die Leiterplattenauftr&#228;ge f&#252;r Kleinserien in hoher Qualit&#228;t und mit einer Durchlaufzeit von 2 Tagen produziert werden. F&#252;r Erstkunden wird die erste Bestellung von 10 Leiterplatten zu einem Preis von 2 USD angeboten.</p>
+<p><strong>Vom CAD-Projekt zur Bestellung</strong></p>
+<p>Die Bestellung von Leiterplatten-Projekten erfolgt online. Dazu muss der Besteller sein entwickeltes Leiterplattenprojekt lokal ins Gerberformat exportieren. Diese Gerberdaten k&#246;nnen anschliessend &#252;ber <a href="https://jlcpcb.com/">Website von JLCPCB</a> hochgeladen werden.</p>
+<p>F&#252;r Einsteiger ist die Generierung von Gerberdaten eine kleine H&#252;rde, aber <a href="https://jlcpcb.com/">JLCPCB </a>bietet auf der Website technischen Support in Form von ausf&#252;hrlichen Anleitungen f&#252;r die gebr&#228;chlichsten Leiterplattenprogramme wie KiCad, Eagle oder Altium.</p>
+<p>Andere PCB-Hersteller umgehen diese H&#252;rde, indem sie den Upload der spezifischen Formaten von KiCad oder Eagle zulassen und die Gerber-Generierung direkt online ausf&#252;hren.</p>
+<p>&#220;ber <a href="https://jlcpcb.com/">JLCPCB </a>kann die Erstellung von Gerberdaten f&#252;r die Bestellung vereinfacht werden, indem man die Leiterplatten &#252;ber das eigene Online-CAD-Programm <a href="https://easyeda.com/">EasyEDA</a> verwaltet und erstellt. In EasyEDA steht eine Funktion zur Verf&#252;gung, &#252;ber die man kompatible Gerber-Daten f&#252;r die Bestellung erstellen kann.</p>
+<p><strong>Test-Bestellung</strong></p>
+<p>In meinem Test habe ich 4 aktuelle Leiterplattenprojekte, die ich mit Eagle oder EasyEDA erstellt habe, bestellt.</p>
+<ul>
+<li>Projekt Opamp Power (Erstellt in EasyEDA)</li>
+<li>Projekt Sollwertgeber SWU (Erstellt in Eagle, Upload Gerberdaten)</li>
+<li>Projekt Opamp Dual Power (Erstellt in EasyEDA)</li>
+<li>Projekt Breadboard Power Adapter BP-A2 (Erstellt in Eagle, Hochgeladen und Bearbeitet in EasyEDA)</li>
+</ul>
+<p><strong>Registrierung</strong></p>
+<p>Damit man Leiterplatten bei JLCPCB bestellen kann, muss man sich am System anmelden.</p>
+<p>Falls man noch keinen Benutzeraccount besitzt, kann man sich &#252;ber die Funktion &#8222;REGISTER&#8220; einen Account erstellen lassen.</p>
+<p>Dieser Benutzeraccount kann dann sowohl f&#252;r die Leiterplattenbestellung, wie auch f&#252;r die Leiterplattenentwicklung im EasyEDA verwendet werden.</p>
+<p><strong>Bestellablauf</strong></p>
+<p>Wie bereits erw&#228;hnt, beinhalten die Gerber-Daten die eigentlichen Daten des Leiterplattenprojektes.</p>
+<p>F&#252;r die Bestellung wird nun das ZIP-File mit den Gerberdaten &#252;ber die Funktion &#8222;Add your gerber file&#8220; hochgeladen. Die Archiv-Datei darf dabei nicht gr&#246;sser als 4 MB sein.</p>
+<p><img class="alignnone wp-image-3702 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-1.jpg" alt="" width="500" height="295" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-1.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-1-300x177.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Nach dem Hochladen der Daten wird das Leiterplattenprojekt online dargestellt.</p>
+<p><img class="alignnone wp-image-3703 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-2.jpg" alt="" width="500" height="331" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-2.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-2-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>&#220;ber den Gerber Viewer kann das Projekt im Detail &#252;berpr&#252;ft werden. Dazu k&#246;nnen die einzelnen Ebenen (Solder-mask, Silkscreen etc.) der Leiterplatte f&#252;r Best&#252;ckungsseite (Top) und L&#246;tseite (Bottom) optisch dargestellt werden.</p>
+<p><img class="alignnone wp-image-3704 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-3.jpg" alt="" width="500" height="309" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-3.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-3-300x185.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Nach dem Upload der Leiterplatten-Daten k&#246;nnen nun die gew&#252;nschten Optionen der Leiterplattenbestellung &#252;ber ein &#252;bersichtliches Eingabeformular ausgew&#228;hlt werden.</p>
+<p>Wichtige Auswahlm&#246;glichkeiten sind die Anzahl der ben&#246;tigten Leiterplatten (PCB Qty), die Leiterplattenfarbe (PCB Color) und die Oberfl&#228;chen-Option (Surface Finish)</p>
+<p><img class="alignnone wp-image-3707 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-4.jpg" alt="" width="500" height="411" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-4.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-4-300x247.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Nach jeder Auswahl wird der Gesamtpreis f&#252;r die Bestellung aktualisiert.</p>
+<p><img class="alignnone wp-image-3708 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-5.jpg" alt="" width="500" height="701" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-5.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-5-214x300.jpg 214w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Mit der Auswahl der Leiterplattenoptionen ist die Bestellung zusammengestellt und bereit f&#252;r den Checkout. Im Checkout werden die Versandart und die Zahlungsart ausgew&#228;hlt.</p>
+<p>Falls aber noch eine weitere Leiterplatte zur Bestellung hinzugef&#252;gt werden soll, kann diese vor dem Checkout &#252;ber die Option &#8222;Add new item&#8220; ausgew&#228;hlt werden.</p>
+<p>Nach dem Versand der Bestellung erh&#228;lt man eine Email mit der Bestellbest&#228;tigung.</p>
+<p><strong>Produktion und Zustellung der Bestellung</strong></p>
+<p>Wie versprochen, wurde meine Bestellung innerhalb von 2 Tagen ausgef&#252;hrt und versendet.</p>
+<p>In der Liste meiner Bestellungen kann f&#252;r jede Leiterplatte der Produktionsstatus &#252;berpr&#252;ft werden.</p>
+<p><img class="alignnone wp-image-3711 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-7.jpg" alt="" width="500" height="121" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-7.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-7-300x73.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Mittels Klick auf den Link &#8222;Production Progress&#8220; kann der gesamte Produktionsprozess &#252;berwacht werden.</p>
+<p><img class="alignnone wp-image-3710 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-6.jpg" alt="" width="500" height="433" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-6.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-6-300x260.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Wie man aus dem Bild meiner Bestellung erkennen kann, wurde die Bestellung in weniger als 2 Tagen ausgef&#252;hrt.</p>
+<p>Dank der offerierten Shipping-Methode (DHL) war die Lieferung von China in wenigen Tagen auf meinem Labortisch.</p>
+<p><strong>Leiterplatten</strong></p>
+<p>Die Leiterplattenbestellung von JLCPCB wird in einer kleinen stabilen Karton-Box geliefert. Die einzelnen PCB-Varianten sind in Plastik verschweisst.</p>
+<p><img class="alignnone wp-image-3714 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-8.jpg" alt="" width="500" height="667" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-8.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-8-225x300.jpg 225w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Von jeder bestellten Leiterplatte wurden genau 10 St&#252;ck geliefert.</p>
+<p><img class="alignnone wp-image-3715 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-9.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-9.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2018/07/555circuitslab-review-jlcpcb-500-9-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Die Qualit&#228;t der produzierten Leiterplatten ist sehr gut.</p>
+<p>Die verzinnten Pads lassen sich gut l&#246;ten und auch die Bohrungen und Durchkontaktierungen sind sauber verzinnt. Der Best&#252;ckungsdruck ist sauber und klar, auch Textelemente in kleiner Schrift sind noch scharf dargestellt und gut lesbar.</p>
+<p>Die Abmessungen der Leiterplatten sind korrekt und die Kanten sind einwandfrei. Einzig bei der blauen Leiterplatte des Breadboard Power Adapters gibt es einen kleinen und scharfen Absatz, der wohl vom Ausfr&#228;sen der Konturen herkommt.</p>
+<p><strong>Fazit</strong></p>
+<p>Der chinesische Leiterplattenhersteller JLCPCB liefert Leiterplatten von hoher Qualit&#228;t und zu einem sehr g&#252;nstigen Preis.</p>
+<p>Der Bestellvorgang &#252;ber die Website ist einfach und verst&#228;ndlich. Bei der Online-Eingabe wird automatisch der Preis f&#252;r die Leiterplatten mit den gew&#228;hlten Optionen angezeigt.</p>
+<p>Nach dem Absenden der Bestellung kann der Produktionsprozess &#252;ber die Website gepr&#252;ft werden.</p>
+<p>Die versprochene Durchlaufzeit von 2 Tagen f&#252;r eine Bestellung wurde eingehalten und Dank der schnellen Lieferung mit einem Lieferdienst hat man die Leiterplatten innerhalb einer Woche auf dem Tisch.</p>
+<p>Dank dem g&#252;nstigen Preis lohnt sich auch eine Produktion einer Prototypenserie.</p>
+<p>Die Qualit&#228;t der Leiterplatten hat mich &#252;berzeugt und ich kann <a href="https://jlcpcb.com/">JLCPCB</a> jedem Maker und Elektronik-Entwickler f&#252;r Prototypen und Kleinserien empfehlen.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2018. |
+<a href="http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/#comments">4 comments</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/&amp;title=Review &#8211; Leiterplatten (PCB) von JLCPCB">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/easyeda/" rel="tag">EasyEDA</a>, <a href="http://arduino-praxis.ch/tag/jlcpcb/" rel="tag">JLCPCB</a>, <a href="http://arduino-praxis.ch/tag/pcb/" rel="tag">PCB</a>, <a href="http://arduino-praxis.ch/tag/prototyping/" rel="tag">Prototyping</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2018/07/26/review-leiterplatten-pcb-von-jlcpcb/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Arduino Day 2018</title>
+		<link>http://arduino-praxis.ch/2018/05/12/arduino-day-2018/</link>
+		<comments>http://arduino-praxis.ch/2018/05/12/arduino-day-2018/#comments</comments>
+		<pubDate>Sat, 12 May 2018 10:35:16 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Event]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3681</guid>
+		<description><![CDATA[&#169; ArduinoPraxis for Arduino Praxis Blog, 2018. &#124; Permalink &#124; One comment &#124; Add to del.icio.us Post tags: Feed enhanced by Better Feed from Ozh]]></description>
+				<content:encoded><![CDATA[<p><a href="https://day.arduino.cc/"><img class="alignnone wp-image-3682 size-medium" src="http://arduino-praxis.ch/wp-content/uploads/2018/05/arduino-day-2018-300x300.jpg" alt="" width="300" height="300" srcset="http://arduino-praxis.ch/wp-content/uploads/2018/05/arduino-day-2018-300x300.jpg 300w, http://arduino-praxis.ch/wp-content/uploads/2018/05/arduino-day-2018-150x150.jpg 150w, http://arduino-praxis.ch/wp-content/uploads/2018/05/arduino-day-2018-768x768.jpg 768w, http://arduino-praxis.ch/wp-content/uploads/2018/05/arduino-day-2018.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2018. |
+<a href="http://arduino-praxis.ch/2018/05/12/arduino-day-2018/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2018/05/12/arduino-day-2018/#comments">One comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2018/05/12/arduino-day-2018/&amp;title=Arduino Day 2018">del.icio.us</a>
+<br/>
+Post tags: <br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2018/05/12/arduino-day-2018/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Breadboard Power Adapter f&#252;r Bananenstecker</title>
+		<link>http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/</link>
+		<comments>http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/#respond</comments>
+		<pubDate>Sun, 26 Nov 2017 12:32:23 +0000</pubDate>
+		<dc:creator><![CDATA[ArduinoPraxis]]></dc:creator>
+				<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Elektronik]]></category>
+		<category><![CDATA[Breadboard]]></category>
+		<category><![CDATA[Power Supply]]></category>
+
+		<guid isPermaLink="false">http://arduino-praxis.ch/?p=3645</guid>
+		<description><![CDATA[Ein Breadboard oder Steckbrett ist die erste Wahl f&#252;r den Bastler und Elektroniker wenn es um den Aufbau einer Prototypenschaltung geht. Im Elektronik-Handel gibt es viele verschiedene Arten und Varianten von Breadboards. H&#228;ndler in Fernost verkaufen diese f&#252;r wenig Geld. Somit lohnt es sich immer eine Handvoll dieser n&#252;tzlichen steckbaren Leiterplatten auf Lager zu haben. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ein Breadboard oder Steckbrett ist die erste Wahl f&#252;r den Bastler und Elektroniker wenn es um den Aufbau einer Prototypenschaltung geht.</p>
+<p>Im Elektronik-Handel gibt es viele verschiedene Arten und Varianten von Breadboards. H&#228;ndler in Fernost verkaufen diese f&#252;r wenig Geld. Somit lohnt es sich immer eine Handvoll dieser n&#252;tzlichen steckbaren Leiterplatten auf Lager zu haben.</p>
+<p><img class="alignnone wp-image-3647 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/tb_breadboards-lager-500.jpg" alt="" width="500" height="667" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/tb_breadboards-lager-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/tb_breadboards-lager-500-225x300.jpg 225w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Die auf den Breadboards aufgebauten Schaltungen k&#246;nnen auf verschiedene Arten mit Spannung versorgt werden.</p>
+<ul>
+<li>Batterie-Pack</li>
+<li>USB-Versorgung</li>
+<li>Versorgung via Board (bspw. Arduino)</li>
+<li>externes Netzteil</li>
+</ul>
+<p>Bei der Versorgung mit Batterie k&#246;nnen die Anschlussdr&#228;hte direkt in an den jeweiligen Versorgungspins des Breadboard angeschlossen werden.</p>
+<p>F&#252;r die USB-Versorgung k&#246;nnen passende Breakout-Boards verwendet werden.</p>
+<p>Im Bild ist das <a href="https://www.sparkfun.com/products/9966">Breakout Board von Sparkfun</a> abgebildet.</p>
+<p><img class="alignnone wp-image-3648 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-usb-breakout-500.jpg" alt="" width="500" height="421" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-usb-breakout-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-usb-breakout-500-300x253.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Zus&#228;tzlich sind im Elektronik-Handel viele Arten von Steckbrett-Power-Adapter verf&#252;gbar. Diese k&#246;nnen &#252;ber USB oder teilweise auch &#252;ber ein 2.1mm Barrel Jack-Stecker versorgt werden.</p>
+<p><img class="alignnone wp-image-3651 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-power-adapter-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-power-adapter-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-power-adapter-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Beim Einsatz einer Breadboard-Schaltung mit einem Arduino-Board k&#246;nnen die Versorgungspins des Arduino mittels Jumper-Wire auf das Steckbrett gef&#252;hrt werden.</p>
+<p>Die Versorgung &#252;ber ein externes Netzteil erfordert meist eine zus&#228;tzliche Anschlusstechnik. Labornetzger&#228;te, die jeder ernsthafte Bastler im Labor verwendet, sind mit 4mm-Bananenbuchsen ausger&#252;stet.</p>
+<p>Die Frage stellt sich nun wie die Bananenstecker mit dem Steckbrett verbunden werden? Bei gr&#246;sseren Breadboards sind meist 2 bis 3 Bananenbuchsen vorhanden.</p>
+<p>F&#252;r kleinere Sensor-Schaltungen und Experimente verwendet man aber oftmals ein Half-Sized Breadboard, das ohne Anschluss-Stecker geliefert wird.</p>
+<p><img class="alignnone wp-image-3650 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/tw-breadboard-power-banana-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/tw-breadboard-power-banana-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/tw-breadboard-power-banana-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Die L&#246;sung f&#252;r den fehlenden Adapter ist ein <strong>Breadboard Power Adapter mit 4mm-Anschluss-Stecker</strong>.</p>
+<p>Mein erster Prototyp eines solchen Breadboard Adapters zeigt das nachfolgende Bild. Als Anschlussbuchsen wurden Buchsen vom Typ PB 4 von Hirschmann verwendet.</p>
+<p>Die <a href="https://www.reichelt.de/Buchsen/PB-4-RT/3/index.html?ACTION=3&amp;GROUPID=5626&amp;ARTICLE=76865">Buchsen k&#246;nnen u.a. bei Reichelt Elektronik</a> bezogen werden</p>
+<p><img class="alignnone wp-image-3652 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-4mm-power-adapter-500.jpg" alt="" width="500" height="467" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-4mm-power-adapter-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboards-4mm-power-adapter-500-300x280.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Breadboard Power Adapter als PCB</strong></p>
+<p>Aus dem ersten Prototypen ist ein richtiges Board entstanden, das zus&#228;tzlich mit Filter-Kondensatoren und einer Spannungsanzeige ausger&#252;stet ist.</p>
+<p>Das einfache <a href="https://oshpark.com/shared_projects/eYM7l93o">PCB ist als Projekt bei OSH Park verf&#252;gbar</a>.</p>
+<p><img class="alignnone wp-image-3655 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revA-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revA-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revA-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><strong>Breadboard Mini</strong></p>
+<p>Neben den Half-Size-Breadboards nutze ich gerne auch die kleinere Steckbrett-Variante Breadboard Mini.</p>
+<p>Ein Power-Adapter f&#252;r diese Steckbrett-Gr&#246;sse gibt es bisher nicht.</p>
+<p>Mein Breadboard Adapter f&#252;r Breadboard Mini besitzt Anschlusspins f&#252;r Krokodilklemmen.</p>
+<p><img class="alignnone size-medium wp-image-3657" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-500-300x225.jpg" alt="" width="300" height="225" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-500-300x225.jpg 300w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-500.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Der Anschluss mit Krokodilklemmen sieht dann so aus:</p>
+<p><img class="alignnone size-medium wp-image-3658" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-kroko-anschluss-500-300x225.jpg" alt="" width="300" height="225" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-kroko-anschluss-500-300x225.jpg 300w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-kroko-anschluss-500.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Nachfolgend noch ein paar weitere Bilder, die zeigen wie man die verschiedenen Board verwenden kann.</p>
+<p>Breadboard Power Adapter f&#252;r Breadboard Mini:</p>
+<p><img class="alignnone wp-image-3660 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-krokodil-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-krokodil-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-krokodil-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><img class="alignnone wp-image-3663 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-2-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-2-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-c-mini-2-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Breadboard Adapter auf gr&#246;sserem Steckbrett:</p>
+<p><img class="alignnone wp-image-3661 size-full" src="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revB-500.jpg" alt="" width="500" height="375" srcset="http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revB-500.jpg 500w, http://arduino-praxis.ch/wp-content/uploads/2017/11/breadboard-power-bp-revB-500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>&nbsp;</p>
+<hr />
+<p><small>&copy; ArduinoPraxis for <a href="http://arduino-praxis.ch">Arduino Praxis Blog</a>, 2017. |
+<a href="http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/">Permalink</a> |
+<a href="http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/#comments">No comment</a> |
+Add to
+<a href="http://del.icio.us/post?url=http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/&amp;title=Breadboard Power Adapter f&#252;r Bananenstecker">del.icio.us</a>
+<br/>
+Post tags: <a href="http://arduino-praxis.ch/tag/breadboard/" rel="tag">Breadboard</a>, <a href="http://arduino-praxis.ch/tag/power-supply/" rel="tag">Power Supply</a><br/>
+</small></p>
+<p><small>Feed enhanced by <a href='http://planetozh.com/blog/my-projects/wordpress-plugin-better-feed-rss/'>Better Feed</a> from  <a href='http://planetozh.com/blog/'>Ozh</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://arduino-praxis.ch/2017/11/26/breadboard-power-adapter-fuer-bananenstecker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

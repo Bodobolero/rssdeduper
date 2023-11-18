@@ -169,7 +169,7 @@ mod tests {
         traverse_and_modify(&mut opml.opmlroot, &mut modifier);
         let result = opml.write("testdata/feedly-target.opml");
         assert!(result.is_ok());
-        assert_eq!(collector.len(), 43);
+        assert_eq!(collector.len(), 42);
         assert!(std::fs::remove_file("testdata/feedly-target.opml").is_ok());
     }
 
@@ -186,7 +186,7 @@ mod tests {
         assert!(result.is_ok());
         let feeds = read_feeds("testdata/feeds.json");
         assert!(feeds.is_ok());
-        assert_eq!(feeds.unwrap().len(), 43);
+        assert_eq!(feeds.unwrap().len(), 42);
     }
 
     #[test]

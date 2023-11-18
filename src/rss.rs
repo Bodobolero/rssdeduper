@@ -24,7 +24,16 @@ fn traverse_and_modify(
     // find our own channel name and save it
     if element.name == "channel" {
         if let Some(link) = element.get_child("link") {
-            *channel = link.get_text().ok_or("Channel link is empty")?.to_string();
+            if let Some(text) = link.get_text() {
+                *channel = text.to_string();
+            } else {
+                debug!("Channel link text is empty, trying href");
+                *channel = link
+                    .attributes
+                    .get("href")
+                    .ok_or("Channel link href is empty, too")?
+                    .to_string();
+            }
         } else {
             return Err("Channel link is missing".to_string());
         }
@@ -248,5 +257,20 @@ mod tests {
 
         let _ = fs::remove_file(&feed1.filename);
         let _ = fs::remove_file(&feed2.filename);
+    }
+
+    #[test]
+    fn test_rss_with_atom_link() {
+        const FEED1: &str = include_str!("../testdata/feedwithatomlink.rss");
+        setup_test_logger();
+        let mut feed1 = Feed::new(
+            "http://arduino-praxis.ch/feed/",
+            "testdata/atomlink_dedup.rss",
+        );
+        feed1.content = FEED1.to_string();
+        let mut existing_items: ExistingItemsMap = HashMap::new();
+        let result = feed1.remove_duplicates(&mut existing_items);
+        // info!("Result: {:?}", result);
+        assert!(result.is_ok());
     }
 }
