@@ -195,11 +195,11 @@ mod tests {
         );
         let result = feed.read();
         assert!(result.is_ok());
-        assert!(result.unwrap() == true);
+        assert!(result.unwrap()); // updated == true
         assert!(!feed.content.is_empty());
         let result = feed.read();
         assert!(result.is_ok());
-        assert!(result.unwrap() == false);
+        assert!(!result.unwrap()); // updated == false
         assert!(!feed.content.is_empty());
     }
 

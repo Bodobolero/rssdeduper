@@ -34,7 +34,6 @@ pub fn check_and_init_feeds(
     feedfile: &str,
     urlprefix: &str,
     newopmlfile: &str,
-    targetdirectory: &str,
 ) -> Result<Vec<(String, String)>, String> {
     if do_we_need_new_json_feeds_file(feedfile, opmlfile).unwrap() {
         let previous_feeds: HashMap<String, String> = read_feeds(feedfile)
@@ -43,7 +42,7 @@ pub fn check_and_init_feeds(
             // use the feedfile as key and not the xmlurl
             .map(|(v, k)| (k, v))
             .collect();
-        if previous_feeds.len() > 0 {
+        if !previous_feeds.is_empty() {
             info!(
                 "Trying to preserve uuids of {} previous feeds",
                 previous_feeds.len()
@@ -196,7 +195,6 @@ mod tests {
             feedsfile.to_str().unwrap(),
             "https://www.bodobolero.com/rss/",
             "testdata/feedly-target_iteration2.opml",
-            "testdata/",
         );
         assert!(feeds.is_ok());
         assert_eq!(feeds.unwrap().len(), 56);
