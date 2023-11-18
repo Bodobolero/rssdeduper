@@ -235,16 +235,17 @@ mod tests {
         );
         feed2.content = FEED2.to_string();
         let mut existing_items: ExistingItemsMap = HashMap::new();
-        let result = feed1.remove_duplicates(&mut existing_items);
-        if result.is_err() {
-            info!("{:?}", result);
-        }
-        assert!(result.is_ok());
+
+        assert!(feed1.remove_duplicates(&mut existing_items).is_ok());
         assert!(feed2.remove_duplicates(&mut existing_items).is_ok());
         assert!(feed1.write().is_ok());
         assert!(feed2.write().is_ok());
+        assert_eq!(4, feed1.content.matches("<item>").count());
+        assert_eq!(1, feed2.content.matches("<item>").count());
+        assert_eq!(0, feed1.content.matches("chifa2").count());
         assert!(feed2.content != FEED2);
 
-        //let _ = fs::remove_file(&feed.filename);
+        let _ = fs::remove_file(&feed1.filename);
+        let _ = fs::remove_file(&feed2.filename);
     }
 }
