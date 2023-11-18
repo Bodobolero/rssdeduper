@@ -6,7 +6,7 @@
     </head>
     <body>
         <outline text="Arduino" title="Arduino">
-            <outline type="rss" text="Use Arduino for Projects" title="Use Arduino for Projects" xmlUrl="http://arduino4projects.com/feed/" htmlUrl="https://duino4projects.com/"/>
+            <outline type="rss" text="Use Arduino for Projects" title="Use Arduino for Projects" xmlUrl="https://duino4projects.com/feed/" htmlUrl="https://duino4projects.com/"/>
         </outline>
         <outline text="News" title="News">
             <outline type="rss" text="Wikipedia: Portal: Current events" title="Wikipedia: Portal: Current events" xmlUrl="https://www.to-rss.xyz/wikipedia/current_events/" htmlUrl="https://en.wikipedia.org/wiki/Portal:Current_events"/>

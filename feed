@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Use Arduino for Projects</title>
+	<atom:link href="https://duino4projects.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duino4projects.com/</link>
+	<description>World Biggest Site for Arduino Projects - Tutorials - Ebooks - Project Ideas</description>
+	<lastBuildDate>Sat, 18 Nov 2023 10:28:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://duino4projects.com/wp-content/uploads/2021/11/cropped-cropped-Arduino_for_Projects_logo1-32x32.png</url>
+	<title>Use Arduino for Projects</title>
+	<link>https://duino4projects.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CUBIIO 2: LASER CUTTER &#038; METAL ENGRAVER WITH AUTOFOCUS</title>
+		<link>https://duino4projects.com/cubiio-2-laser-cutter-metal-engraver-with-autofocus/</link>
+					<comments>https://duino4projects.com/cubiio-2-laser-cutter-metal-engraver-with-autofocus/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2023 10:28:00 +0000</pubDate>
+				<category><![CDATA[News & Updates]]></category>
+		<category><![CDATA[2nd generation]]></category>
+		<category><![CDATA[laser cutter]]></category>
+		<category><![CDATA[workspace]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=56053</guid>
+
+					<description><![CDATA[<p>Whether it’s to print your name on personal belongings, elevate product value with your own logo or print your favorite photo on any surface, this 2nd generation machine gives an output resolution of 500 DPI. After we saw what could be described as “the very first palm-sized compact laser engraver and the most funded fabrication &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/cubiio-2-laser-cutter-metal-engraver-with-autofocus/"> <span class="screen-reader-text">CUBIIO 2: LASER CUTTER &#38; METAL ENGRAVER WITH AUTOFOCUS</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/cubiio-2-laser-cutter-metal-engraver-with-autofocus/">CUBIIO 2: LASER CUTTER &amp; METAL ENGRAVER WITH AUTOFOCUS</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/cubiio-2-laser-cutter-metal-engraver-with-autofocus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arduino Cloud for IoT and more enhanced further from user feedback</title>
+		<link>https://duino4projects.com/arduino-cloud-for-iot-and-more-enhanced-further-from-user-feedback/</link>
+					<comments>https://duino4projects.com/arduino-cloud-for-iot-and-more-enhanced-further-from-user-feedback/#respond</comments>
+		
+		<dc:creator><![CDATA[Ibrar Ayyub]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2023 06:13:51 +0000</pubDate>
+				<category><![CDATA[Arduino News]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[landscape]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=80346</guid>
+
+					<description><![CDATA[<p>The Internet of Things (IoT) landscape is a dynamic and rapidly evolving field, with the Arduino Cloud platform standing as a key player. Recently, this platform has undergone a significant upgrade, a testament to Arduino’s commitment to fostering community-driven innovation. This upgrade, largely influenced by user feedback, has transformed the platform into a more intuitive, powerful, and user-friendly tool, making IoT &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/arduino-cloud-for-iot-and-more-enhanced-further-from-user-feedback/"> <span class="screen-reader-text">Arduino Cloud for IoT and more enhanced further from user feedback</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/arduino-cloud-for-iot-and-more-enhanced-further-from-user-feedback/">Arduino Cloud for IoT and more enhanced further from user feedback</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/arduino-cloud-for-iot-and-more-enhanced-further-from-user-feedback/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EMCOS® POSIX COMMERCIAL OS SUPPORTS KALRAY’S COOLIDGE™ INTELLIGENT PROCESSOR FOR MIXED-CRITICALITY SYSTEMS[1]</title>
+		<link>https://duino4projects.com/emcos-posix-commercial-os-supports-kalrays-coolidge-intelligent-processor-for-mixed-criticality-systems1/</link>
+					<comments>https://duino4projects.com/emcos-posix-commercial-os-supports-kalrays-coolidge-intelligent-processor-for-mixed-criticality-systems1/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 10:19:00 +0000</pubDate>
+				<category><![CDATA[News & Updates]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[third-generation]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=56050</guid>
+
+					<description><![CDATA[<p>High Performance, Low Power Consumption of Third-Generation MPPA® from Kalray now Available on Same Terms as Existing Multi-core Processors to Suit Applications such as Autonomous Driving, Edge Computing, Robotics and Medical Equipment. The eMCOS® POSIX high-performance, scalable real-time operating system (RTOS) from eSOL, a leading developer of real-time embedded software solutions, now supports the Coolidge™ third-generation MPPA® &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/emcos-posix-commercial-os-supports-kalrays-coolidge-intelligent-processor-for-mixed-criticality-systems1/"> <span class="screen-reader-text">EMCOS® POSIX COMMERCIAL OS SUPPORTS KALRAY’S COOLIDGE™ INTELLIGENT PROCESSOR FOR MIXED-CRITICALITY SYSTEMS[1]</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/emcos-posix-commercial-os-supports-kalrays-coolidge-intelligent-processor-for-mixed-criticality-systems1/">EMCOS® POSIX COMMERCIAL OS SUPPORTS KALRAY’S COOLIDGE™ INTELLIGENT PROCESSOR FOR MIXED-CRITICALITY SYSTEMS[1]</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/emcos-posix-commercial-os-supports-kalrays-coolidge-intelligent-processor-for-mixed-criticality-systems1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Track Your Valuables with the Unbeatable Power of Arduino and GPS!</title>
+		<link>https://duino4projects.com/track-your-valuables-with-the-unbeatable-power-of-arduino-and-gps/</link>
+					<comments>https://duino4projects.com/track-your-valuables-with-the-unbeatable-power-of-arduino-and-gps/#respond</comments>
+		
+		<dc:creator><![CDATA[Ibrar Ayyub]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 08:23:52 +0000</pubDate>
+				<category><![CDATA[GPS Based Projects]]></category>
+		<category><![CDATA[gps]]></category>
+		<category><![CDATA[monitors]]></category>
+		<category><![CDATA[track]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=80168</guid>
+
+					<description><![CDATA[<p>It is common for parents to feel concern for their children when they are apart. Questions arise around whether the kids made it safely to school, if they are alone at home, or playing with friends at the park. Ensuring a child&#8217;s well-being when away creates worry that is familiar to caregivers worldwide. The natural &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/track-your-valuables-with-the-unbeatable-power-of-arduino-and-gps/"> <span class="screen-reader-text">Track Your Valuables with the Unbeatable Power of Arduino and GPS!</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/track-your-valuables-with-the-unbeatable-power-of-arduino-and-gps/">Track Your Valuables with the Unbeatable Power of Arduino and GPS!</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/track-your-valuables-with-the-unbeatable-power-of-arduino-and-gps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NUM PAD REBORN AS STREAM DECK</title>
+		<link>https://duino4projects.com/num-pad-reborn-as-stream-deck/</link>
+					<comments>https://duino4projects.com/num-pad-reborn-as-stream-deck/#respond</comments>
+		
+		<dc:creator><![CDATA[Ibrar Ayyub]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 04:08:42 +0000</pubDate>
+				<category><![CDATA[Arduino News]]></category>
+		<category><![CDATA[connector]]></category>
+		<category><![CDATA[num pad]]></category>
+		<category><![CDATA[usb]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=80323</guid>
+
+					<description><![CDATA[<p>Stream decks are cool and all, but they are essentially expensive, albeit sorta cool-looking macro pads. So why not try to make your own? You don’t necessarily have to start from scratch. It all started when [dj_doughy] found an extremely clicky num pad in a recycle pile. It was so clicky, in fact, that even though &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/num-pad-reborn-as-stream-deck/"> <span class="screen-reader-text">NUM PAD REBORN AS STREAM DECK</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/num-pad-reborn-as-stream-deck/">NUM PAD REBORN AS STREAM DECK</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/num-pad-reborn-as-stream-deck/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AI WITH GOOGLE CORAL TPU AND GATEWORKS SBCS</title>
+		<link>https://duino4projects.com/ai-with-google-coral-tpu-and-gateworks-sbcs/</link>
+					<comments>https://duino4projects.com/ai-with-google-coral-tpu-and-gateworks-sbcs/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2023 10:15:00 +0000</pubDate>
+				<category><![CDATA[News & Updates]]></category>
+		<category><![CDATA[gateworks]]></category>
+		<category><![CDATA[google cortal]]></category>
+		<category><![CDATA[highlights]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=56047</guid>
+
+					<description><![CDATA[<p>Artificial Intelligence (AI) &#38; Machine Learning (ML) are shaping and advancing complex automated technology solutions. Having these capabilities integrated into hardware allows for solutions that can recognize objects in an image, analyze and detect abnormalities in patterns or find key phrases. These functionalities can be paramount for applications including, but not limited to, autonomous vehicles &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/ai-with-google-coral-tpu-and-gateworks-sbcs/"> <span class="screen-reader-text">AI WITH GOOGLE CORAL TPU AND GATEWORKS SBCS</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/ai-with-google-coral-tpu-and-gateworks-sbcs/">AI WITH GOOGLE CORAL TPU AND GATEWORKS SBCS</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/ai-with-google-coral-tpu-and-gateworks-sbcs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3D MAGNETIC FIELD SENSOR ALLOWS THE SELECTABLE MEASUREMENT OF X, Y, AND Z MAGNETIC FIELDS</title>
+		<link>https://duino4projects.com/3d-magnetic-field-sensor-allows-the-selectable-measurement-of-x-y-and-z-magnetic-fields/</link>
+					<comments>https://duino4projects.com/3d-magnetic-field-sensor-allows-the-selectable-measurement-of-x-y-and-z-magnetic-fields/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Wed, 15 Nov 2023 10:08:00 +0000</pubDate>
+				<category><![CDATA[News & Updates]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[magnetic field]]></category>
+		<category><![CDATA[sensor]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=56044</guid>
+
+					<description><![CDATA[<p>The Belgium-based global supplier of micro-electronic semiconductor solutions, Melexis has announced the MLX90395 Triaxis Magnetometer Node, an automotive-grade (AEC-Q100) monolithic sensor that uses the Hall effect to provide contactless 3D sensing in three dimensions. The dual-die version of the MLX90395 provides redundancy for demanding scenarios, such as gear lever position sensing in automotive applications. The functionality &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/3d-magnetic-field-sensor-allows-the-selectable-measurement-of-x-y-and-z-magnetic-fields/"> <span class="screen-reader-text">3D MAGNETIC FIELD SENSOR ALLOWS THE SELECTABLE MEASUREMENT OF X, Y, AND Z MAGNETIC FIELDS</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/3d-magnetic-field-sensor-allows-the-selectable-measurement-of-x-y-and-z-magnetic-fields/">3D MAGNETIC FIELD SENSOR ALLOWS THE SELECTABLE MEASUREMENT OF X, Y, AND Z MAGNETIC FIELDS</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/3d-magnetic-field-sensor-allows-the-selectable-measurement-of-x-y-and-z-magnetic-fields/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Transform Your Home into a Futuristic Hub with This DIY Real-Time Clock and Temperature Display</title>
+		<link>https://duino4projects.com/transform-your-home-into-a-futuristic-hub-with-this-diy-real-time-clock-and-temperature-display/</link>
+					<comments>https://duino4projects.com/transform-your-home-into-a-futuristic-hub-with-this-diy-real-time-clock-and-temperature-display/#respond</comments>
+		
+		<dc:creator><![CDATA[Ibrar Ayyub]]></dc:creator>
+		<pubDate>Wed, 15 Nov 2023 07:39:26 +0000</pubDate>
+				<category><![CDATA[Clock – Timer Projects]]></category>
+		<category><![CDATA[clock]]></category>
+		<category><![CDATA[oled]]></category>
+		<category><![CDATA[temperature]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=80155</guid>
+
+					<description><![CDATA[<p>This project demonstrates building a real-time clock (RTC) with temperature display using an Arduino, DS3231 RTC chip, and SSD1306 OLED display (128&#215;64 pixels). The DS3231 RTC chip provides more accuracy than the DS1307 and incorporates an onboard temperature sensor. It maintains timekeeping even without the main power, making it well-suited for this application. It communicates &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/transform-your-home-into-a-futuristic-hub-with-this-diy-real-time-clock-and-temperature-display/"> <span class="screen-reader-text">Transform Your Home into a Futuristic Hub with This DIY Real-Time Clock and Temperature Display</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/transform-your-home-into-a-futuristic-hub-with-this-diy-real-time-clock-and-temperature-display/">Transform Your Home into a Futuristic Hub with This DIY Real-Time Clock and Temperature Display</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/transform-your-home-into-a-futuristic-hub-with-this-diy-real-time-clock-and-temperature-display/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Arduino storage libraries introduced to simplify data management and storage</title>
+		<link>https://duino4projects.com/new-arduino-storage-libraries-introduced-to-simplify-data-management-and-storage/</link>
+					<comments>https://duino4projects.com/new-arduino-storage-libraries-introduced-to-simplify-data-management-and-storage/#respond</comments>
+		
+		<dc:creator><![CDATA[Ibrar Ayyub]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2023 10:39:56 +0000</pubDate>
+				<category><![CDATA[Arduino News]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[libraries]]></category>
+		<category><![CDATA[sd card]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=80226</guid>
+
+					<description><![CDATA[<p>The development team at Arduino has this week introduced two new and exciting Arduino storage libraries in the form of Arduino_POSIXStorage and Arduino_UnifiedStorage. These additions are a big deal for anyone working on Arduino projects because they make handling data and storing information a lot easier. In simple terms, these libraries are tools that help developers manage and &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/new-arduino-storage-libraries-introduced-to-simplify-data-management-and-storage/"> <span class="screen-reader-text">New Arduino storage libraries introduced to simplify data management and storage</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/new-arduino-storage-libraries-introduced-to-simplify-data-management-and-storage/">New Arduino storage libraries introduced to simplify data management and storage</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/new-arduino-storage-libraries-introduced-to-simplify-data-management-and-storage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ATSAMD51 MACHINE LEARNING MCUS</title>
+		<link>https://duino4projects.com/atsamd51-machine-learning-mcus/</link>
+					<comments>https://duino4projects.com/atsamd51-machine-learning-mcus/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2023 10:01:00 +0000</pubDate>
+				<category><![CDATA[News & Updates]]></category>
+		<category><![CDATA[mcus]]></category>
+		<category><![CDATA[microcontroller]]></category>
+		<category><![CDATA[tenserflow]]></category>
+		<guid isPermaLink="false">https://duino4projects.com/?p=56041</guid>
+
+					<description><![CDATA[<p>Microchip’s TensorFlow Lite kit features the Microchip ATSAMD51 microcontroller The ATSAMD51J19 high-performance microcontroller family from Microchip Technology was formerly targeted for general purpose applications until now. The ATSAMD51J19 can now be used for edge computing in machine learning applications using the Adafruit ByBadge and TensorFlow. ATSAMD51 microcontrollers feature a 32-bit Arm® Cortex®-M4 processor with floating point unit &#8230;</p>
+<p class="read-more"> <a class="ast-button" href="https://duino4projects.com/atsamd51-machine-learning-mcus/"> <span class="screen-reader-text">ATSAMD51 MACHINE LEARNING MCUS</span> Continue Reading</a></p>
+<p>The post <a href="https://duino4projects.com/atsamd51-machine-learning-mcus/">ATSAMD51 MACHINE LEARNING MCUS</a> appeared first on <a href="https://duino4projects.com">Use Arduino for Projects</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://duino4projects.com/atsamd51-machine-learning-mcus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

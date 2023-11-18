@@ -132,7 +132,8 @@ impl Feed {
                 return Ok(modified);
             }
         }
-        Ok(false)
+        // if we don't have lastBuildDate we assume it has been updated and refresh in each iteration
+        Ok(true)
     }
 
     /*
