@@ -29,6 +29,31 @@ fn traverse_and_modify(
             return Err("Channel link is missing".to_string());
         }
     }
+    if element.name == "item" {
+        if let Some(link) = element.get_child("link") {
+            let id = ids::extract_unique_id_and_host_from_url_string(
+                &link.get_text().unwrap_or_default(),
+            )
+            .unwrap_or_default();
+            if let Some(existing) = existing_items.get(&id) {
+                if existing.0 == *channel {
+                    info!(
+                        "Replacing duplicate item {} in same channel {}",
+                        link.get_text().unwrap_or_default(),
+                        channel
+                    );
+                    element.children.clear();
+                    for node in &existing.1.children {
+                        element.children.push(node.clone());
+                    }
+                }
+            } else {
+                // if not yet existing insert it
+                existing_items.insert(id, (channel.clone(), element.clone()));
+            }
+        }
+    }
+
     element.children.retain(|child| {
         if let Some(child_element) = child.as_element() {
             if child_element.name == "item" {
@@ -59,7 +84,6 @@ fn traverse_and_modify(
                             link.get_text().unwrap_or_default(),
                             channel
                         );
-                        existing_items.insert(id, (channel.clone(), child_element.clone()));
                         return true;
                     }
                 }
@@ -70,7 +94,6 @@ fn traverse_and_modify(
 
     // Recursively modify child elements
     for child in element.children.iter_mut() {
-        // TODO replace duplicate item in same channel
         if let Some(child_element) = child.as_mut_element() {
             traverse_and_modify(child_element, existing_items, channel)?;
         }
@@ -128,7 +151,7 @@ impl Feed {
         let mut rssroot = Element::parse(self.content.as_bytes())
             .map_err(|e| format!("RSS feed {} XML parse error: {}", self.url, e))?;
         let mut channel = String::new();
-        traverse_and_modify(&mut rssroot, existing_items, &mut channel);
+        traverse_and_modify(&mut rssroot, existing_items, &mut channel)?;
 
         let config = EmitterConfig::new()
             .indent_string("    ")
@@ -212,7 +235,11 @@ mod tests {
         );
         feed2.content = FEED2.to_string();
         let mut existing_items: ExistingItemsMap = HashMap::new();
-        assert!(feed1.remove_duplicates(&mut existing_items).is_ok());
+        let result = feed1.remove_duplicates(&mut existing_items);
+        if result.is_err() {
+            info!("{:?}", result);
+        }
+        assert!(result.is_ok());
         assert!(feed2.remove_duplicates(&mut existing_items).is_ok());
         assert!(feed1.write().is_ok());
         assert!(feed2.write().is_ok());

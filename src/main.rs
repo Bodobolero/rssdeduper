@@ -10,7 +10,6 @@ use std::collections::HashMap;
 
 use clap::Parser;
 use log::info;
-use xmltree::Element;
 
 /// This struct defines the command line interface for the application
 #[derive(Parser, Debug)]

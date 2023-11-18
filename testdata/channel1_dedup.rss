@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
     <channel>
         <title>Stuttgarter Zeitung - Nachrichten des Tages</title>
         <link>https://www.stuttgarter-zeitung.de/news</link>
@@ -25,6 +25,28 @@
             <pubDate>Wed, 15 Nov 2023 06:50:57 GMT</pubDate>
             <guid>https://www.stuttgarter-zeitung.de/inhalt.folgen-des-klimawandels-grosse-gesundheitsrisiken-durch-klimakrise.d46eec6a-8d67-457f-a8fb-b71a21481ae0.html</guid>
             <dc:creator>dpa/Markus Brauer</dc:creator>
+        </item>
+        <item>
+            <title>Gaza-Stadt: Israelische Armee führt Razzia in Schifa-Klinik durch</title>
+            <link>https://www.faz.net/aktuell/politik/ausland/gaza-stadt-israelische-armee-fuehrt-razzia-in-schifa-klinik-durch-19314690.html</link>
+            <guid isPermaLink="true">https://www.faz.net/aktuell/politik/ausland/gaza-stadt-israelische-armee-fuehrt-razzia-in-schifa-klinik-durch-19314690.html</guid>
+            <description> &lt;p>&lt;img width="190" height="107" border="0" title="Mitglieder der islamistischen Hamas bewachen die Tore des Schifa-Krankenhaus in Gaza, das nach israelischer Darstellung auch als Hamas-Kommandozentrum dient. Archivbild vom 26.08.2023." alt="Mitglieder der islamistischen Hamas bewachen die Tore des Schifa-Krankenhaus in Gaza, das nach israelischer Darstellung auch als Hamas-Kommandozentrum dient. Archivbild vom 26.08.2023." src="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/article_teaser/mitglieder-der-islamistischen.jpg" />&lt;/p>&lt;p>Die israelische Armee ist nach eigenen Angaben in das Schifa-Krankenhaus in Gaza-Stadt eingedrungen. Es werde eine "präzise Operation gegen die Hamas" durchgeführt. Das Militär vermutet die Kommandozentrale der islamistischen Organisation in dem Komplex.&lt;/p> </description>
+            <pubDate>Wed, 15 Nov 2023 02:41:09 +0100</pubDate>
+            <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/article_teaser/mitglieder-der-islamistischen.jpg" height="107" width="190">
+            </media:thumbnail>
+            <media:content width="940" height="627" medium="image" type="image/jpeg" url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/default/mitglieder-der-islamistischen.jpg">
+            </media:content>
+        </item>
+        <item>
+            <title>Gaza-Stadt: Israelische Armee führt Razzia in Schifa-Klinik durch</title>
+            <link>https://www.faz.net/aktuell/politik/ausland/gaza-stadt-israelische-armee-fuehrt-razzia-in-schifa-klinik-durch-19314690.html</link>
+            <guid isPermaLink="true">https://www.faz.net/aktuell/politik/ausland/gaza-stadt-israelische-armee-fuehrt-razzia-in-schifa-klinik-durch-19314690.html</guid>
+            <description> &lt;p>&lt;img width="190" height="107" border="0" title="Mitglieder der islamistischen Hamas bewachen die Tore des Schifa-Krankenhaus in Gaza, das nach israelischer Darstellung auch als Hamas-Kommandozentrum dient. Archivbild vom 26.08.2023." alt="Mitglieder der islamistischen Hamas bewachen die Tore des Schifa-Krankenhaus in Gaza, das nach israelischer Darstellung auch als Hamas-Kommandozentrum dient. Archivbild vom 26.08.2023." src="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/article_teaser/mitglieder-der-islamistischen.jpg" />&lt;/p>&lt;p>Die israelische Armee ist nach eigenen Angaben in das Schifa-Krankenhaus in Gaza-Stadt eingedrungen. Es werde eine "präzise Operation gegen die Hamas" durchgeführt. Das Militär vermutet die Kommandozentrale der islamistischen Organisation in dem Komplex.&lt;/p> </description>
+            <pubDate>Wed, 15 Nov 2023 02:41:09 +0100</pubDate>
+            <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/article_teaser/mitglieder-der-islamistischen.jpg" height="107" width="190">
+            </media:thumbnail>
+            <media:content width="940" height="627" medium="image" type="image/jpeg" url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/default/mitglieder-der-islamistischen.jpg">
+            </media:content>
         </item>
     </channel>
 </rss>

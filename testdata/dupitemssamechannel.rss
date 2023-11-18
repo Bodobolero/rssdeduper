@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>Stuttgarter Zeitung - Nachrichten des Tages</title>
-    <link>https://www.stuttgarter-zeitung.de/news</link>
-    <description>Neueste Meldungen aus dem Bereich: Nachrichten des Tages</description>
-    <language>de-de</language>
-    <image>
-      <title>Stuttgarter Zeitung - Nachrichten des Tages</title>
-      <url>https://www.stuttgarter-zeitung.de/www/stuttgarter_zeitung/images/logo.gif</url>
-      <link>https://www.stuttgarter-zeitung.de/news</link>
-    </image>
-    <item>
-      <title>Deutschlands Kirchen am Kipppunkt: Religion ist den meisten völlig  egal</title>
-      <link>https://www.stuttgarter-zeitung.de/inhalt.deutschlands-kirchen-am-kipppunkt-religion-ist-den-meisten-voellig-egal.c8990bf7-8c6a-435c-9612-1ad7ee9a60ed.html</link>
-      <description>&lt;img src="https://www.stuttgarter-zeitung.de/media.imagefile.468a763b-f2bd-4c2d-a26d-5f549b6282d0.thumbnail.jpg" border="0"&gt;&lt;br /&gt;Religiosit&amp;auml;t und Kirchenbindung schwinden schneller als von manchen erwartet und von anderen bef&amp;uuml;rchtet. F&amp;uuml;r die allermeisten, selbst Christen, spielen Glaube und Religion keine Rolle mehr. Geht es f&amp;uuml;r die Kirchen in Deutschland bereits um Sein oder Nichtsein?</description>
-      <pubDate>Wed, 15 Nov 2023 06:51:06 GMT</pubDate>
-      <guid>https://www.stuttgarter-zeitung.de/inhalt.deutschlands-kirchen-am-kipppunkt-religion-ist-den-meisten-voellig-egal.c8990bf7-8c6a-435c-9612-1ad7ee9a60ed.html</guid>
-      <dc:creator>Markus Brauer</dc:creator>
-    </item>
-    <item>
-      <title>Folgen des Klimawandels: Große Gesundheitsrisiken durch Klimakrise</title>
-      <link>https://www.stuttgarter-zeitung.de/inhalt.folgen-des-klimawandels-grosse-gesundheitsrisiken-durch-klimakrise.d46eec6a-8d67-457f-a8fb-b71a21481ae0.html</link>
-      <description>&lt;img src="https://www.stuttgarter-zeitung.de/media.imagefile.575b9cef-bbdd-4934-9b49-0d8e50cffbb6.thumbnail.jpg" border="0"&gt;&lt;br /&gt;Eine Hiobsbotschaft zur Klimakrise jagt die n&amp;auml;chste. Ein neuer Bericht widmet sich den gesundheitlichen Folgen der Hitze. Die Auswirkungen sind auch in Deutschland bereits deutlich sp&amp;uuml;rbar.</description>
-      <pubDate>Wed, 15 Nov 2023 06:50:57 GMT</pubDate>
-      <guid>https://www.stuttgarter-zeitung.de/inhalt.folgen-des-klimawandels-grosse-gesundheitsrisiken-durch-klimakrise.d46eec6a-8d67-457f-a8fb-b71a21481ae0.html</guid>
-      <dc:creator>dpa/Markus Brauer</dc:creator>
-    </item>
 <item>
     <title>Gaza-Stadt: Israelische Armee führt Razzia in Schifa-Klinik durch</title>
     <link>https://www.faz.net/aktuell/politik/ausland/gaza-stadt-israelische-armee-fuehrt-razzia-in-schifa-klinik-durch-19314690.html</link>
@@ -44,6 +16,3 @@
     <media:thumbnail url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/article_teaser/mitglieder-der-islamistischen.jpg" height="107" width="190"/>
     <media:content url="https://media0.faz.net/ppmedia/aktuell/politik/2039518452/1.9314714/default/mitglieder-der-islamistischen.jpg" type="image/jpeg" medium="image" height="627" width="940"/>
 </item>
-  </channel>
-</rss>
-
