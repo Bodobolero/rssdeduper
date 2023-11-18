@@ -10,7 +10,7 @@ After=network.target
 #    sudo systemctl daemon-reload
 #    sudo systemctl enable rssdeduper
 #    sudo systemctl start rssdeduper
-#    sudo systemtl status rssdeduper
+#    sudo systemctl status rssdeduper
 # Check the logs with:
 #    journalctl -u rssdeduper
 
@@ -18,13 +18,14 @@ After=network.target
 ## Modify the following variables for your web server
 ## For help on available command line options see 
 ##   rssdeduper --help 
-Environment="BINARY_PATH=/usr/bin/rssdeduper"
 Environment="SOURCE_OPML=/home/peter/rss/feedly-source.opml"
 Environment="TARGET_OPML=/home/peter/rss/feedly-target.opml"
 Environment="FEED_FILE=/home/peter/rss/feeds.json"
 # Set the logging level to your needs, default is error
-Environment="RUSTLOG=info"
-ExecStart=${BINARY_PATH} --so ${SOURCE_OPML} --to ${TARGET_OPML} --ff ${FEED_FILE}
+Environment="RUST_LOG=info"
+## copy the Rust release binary to /usr/bin/rssdeduper or
+## adjust the ExecStart path below
+ExecStart=/usr/bin/rssdeduper --so ${SOURCE_OPML} --to ${TARGET_OPML} --ff ${FEED_FILE}
 User=peter
 Restart=always
 
