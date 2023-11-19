@@ -74,7 +74,9 @@ Options:
   -V, --version
           Print version
 ```
+## deployment as a systemd service (e.g. on Ubuntu)
 
+See [rssdeduper.service](https://github.com/Bodobolero/rssdeduper/blob/main/systemd/rssdeduper.service)
 
 ## what this is about
 
