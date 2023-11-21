@@ -3,11 +3,13 @@ use std::collections::HashMap;
 use std::fs;
 use std::io::Write;
 
+use chrono::{DateTime, Duration, Local, Utc};
 use log::{debug, info};
+use std::time::SystemTime;
 use xmltree::{Element, EmitterConfig};
 
-/// map from tuple (host, id) to tuple (channel link, item element)
-pub type ExistingItemsMap = HashMap<(String, String), (String, Element)>;
+/// map from tuple (host, id) to tuple (channel link, item element, timestamp added to map)
+pub type ExistingItemsMap = HashMap<(String, String), (String, Element, SystemTime)>;
 
 pub struct Feed {
     url: String,
@@ -16,11 +18,30 @@ pub struct Feed {
     last_build_date: String,
 }
 
+// max_age in hours
+fn check_pub_date_not_older_than(pub_date: &str, max_age: u64, nowutc: &DateTime<Utc>) -> bool {
+    if max_age == 0 {
+        // 0 == unlimited
+        return true;
+    }
+    if let Ok(pub_date_utc) =
+        DateTime::parse_from_rfc2822(pub_date).map(|dt| dt.with_timezone(&Utc))
+    {
+        if nowutc.signed_duration_since(pub_date_utc) <= Duration::hours(max_age as i64) {
+            return true;
+        }
+    }
+    false
+}
+
 fn traverse_and_modify(
     element: &mut Element,
     existing_items: &mut ExistingItemsMap,
     channel: &mut String,
+    max_age: u64, // in hours
 ) -> Result<(), String> {
+    let now = SystemTime::now();
+    let nowutc = Local::now().with_timezone(&Utc);
     // find our own channel name and save it
     if element.name == "channel" {
         if let Some(link) = element.get_child("link") {
@@ -58,7 +79,7 @@ fn traverse_and_modify(
                 }
             } else {
                 // if not yet existing insert it
-                existing_items.insert(id, (channel.clone(), element.clone()));
+                existing_items.insert(id, (channel.clone(), element.clone(), now));
             }
         }
     }
@@ -66,7 +87,15 @@ fn traverse_and_modify(
     element.children.retain(|child| {
         if let Some(child_element) = child.as_element() {
             if child_element.name == "item" {
+                
                 if let Some(link) = child_element.get_child("link") {
+                    // remove old items first
+                    if let Some(pubdate) = child_element.get_child("pubDate"){
+                        if !check_pub_date_not_older_than(&pubdate.get_text().unwrap_or_default(), max_age, &nowutc){
+                            info!("Removing old item {} with pubDate {}", link.get_text().unwrap_or_default(), pubdate.get_text().unwrap_or_default());
+                            return false;
+                        }
+                    }
                     let id = ids::extract_unique_id_and_host_from_url_string(
                         &link.get_text().unwrap_or_default(),
                     ).unwrap_or_default();
@@ -104,7 +133,7 @@ fn traverse_and_modify(
     // Recursively modify child elements
     for child in element.children.iter_mut() {
         if let Some(child_element) = child.as_mut_element() {
-            traverse_and_modify(child_element, existing_items, channel)?;
+            traverse_and_modify(child_element, existing_items, channel, max_age)?;
         }
     }
     Ok(())
@@ -157,11 +186,12 @@ impl Feed {
     pub fn remove_duplicates(
         &mut self,
         existing_items: &mut ExistingItemsMap,
+        max_age: u64
     ) -> Result<(), String> {
         let mut rssroot = Element::parse(self.content.as_bytes())
             .map_err(|e| format!("RSS feed {} XML parse error: {}", self.url, e))?;
         let mut channel = String::new();
-        traverse_and_modify(&mut rssroot, existing_items, &mut channel)?;
+        traverse_and_modify(&mut rssroot, existing_items, &mut channel, max_age)?;
 
         let config = EmitterConfig::new()
             .indent_string("    ")
@@ -246,8 +276,8 @@ mod tests {
         feed2.content = FEED2.to_string();
         let mut existing_items: ExistingItemsMap = HashMap::new();
 
-        assert!(feed1.remove_duplicates(&mut existing_items).is_ok());
-        assert!(feed2.remove_duplicates(&mut existing_items).is_ok());
+        assert!(feed1.remove_duplicates(&mut existing_items, 0).is_ok());
+        assert!(feed2.remove_duplicates(&mut existing_items, 0).is_ok());
         assert!(feed1.write().is_ok());
         assert!(feed2.write().is_ok());
         assert_eq!(4, feed1.content.matches("<item>").count());
@@ -269,8 +299,49 @@ mod tests {
         );
         feed1.content = FEED1.to_string();
         let mut existing_items: ExistingItemsMap = HashMap::new();
-        let result = feed1.remove_duplicates(&mut existing_items);
+        let result = feed1.remove_duplicates(&mut existing_items, 0);
         // info!("Result: {:?}", result);
         assert!(result.is_ok());
     }
+
+    #[test]
+    fn test_rss_remove_duplicates_with_small_maxage() {
+        const FEED1: &str = include_str!("../testdata/channel1.rss");
+        setup_test_logger();
+        let mut feed1 = Feed::new(
+            "https://www.stuttgarter-zeitung.de/news",
+            "testdata/channel1_dedup_with_age.rss",
+        );
+        feed1.content = FEED1.to_string();
+        
+        let mut existing_items: ExistingItemsMap = HashMap::new();
+
+        assert!(feed1.remove_duplicates(&mut existing_items, 1).is_ok());
+        assert!(feed1.write().is_ok());
+        assert_eq!(0, feed1.content.matches("<item>").count());
+
+        let _ = fs::remove_file(&feed1.filename);
+
+    }
+
+    #[test]
+    fn test_rss_remove_duplicates_with_large_maxage() {
+        const FEED1: &str = include_str!("../testdata/channel1.rss");
+        setup_test_logger();
+        let mut feed1 = Feed::new(
+            "https://www.stuttgarter-zeitung.de/news",
+            "testdata/channel1_dedup_with_large_age.rss",
+        );
+        feed1.content = FEED1.to_string();
+        
+        let mut existing_items: ExistingItemsMap = HashMap::new();
+
+        assert!(feed1.remove_duplicates(&mut existing_items,std::u32::MAX as u64 ).is_ok());
+        assert!(feed1.write().is_ok());
+        assert_eq!(4, feed1.content.matches("<item>").count());
+
+        let _ = fs::remove_file(&feed1.filename);
+
+    }
+
 }

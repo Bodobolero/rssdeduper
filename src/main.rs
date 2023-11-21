@@ -6,12 +6,11 @@ mod rss;
 mod timer;
 mod utilities;
 
+use clap::Parser;
+use log::{error, info};
 use std::cell::RefCell;
 use std::collections::HashMap;
 use std::path::Path;
-
-use clap::Parser;
-use log::{error, info};
 
 /// This struct defines the command line interface for the application
 #[derive(Parser, Debug)]
@@ -55,6 +54,14 @@ struct Cli {
     /// Sets the maximum number of iterations, default 0 means unlimited
     #[clap(long, value_name = "ITERATIONS", default_value = "0")]
     it: u64,
+
+    /// Sets the maximum age of feeds in hours, 0 means unlimited, default 24
+    #[clap(long, value_name = "MAXAGE", default_value = "24")]
+    ma: u64,
+
+    /// Sets the cache history in hours used for checking duplicates, default 48, 0 means unlimited
+    #[clap(long, value_name = "CACHE_HISTORY", default_value = "48")]
+    ch: u64,
 }
 
 fn main() {
@@ -93,7 +100,7 @@ fn main() {
                 if let Ok(updated) = read_result {
                     if updated {
                         let mut known_feeds = known_feeds.borrow_mut();
-                        let dedup_result = current_feed.remove_duplicates(&mut known_feeds);
+                        let dedup_result = current_feed.remove_duplicates(&mut known_feeds, cli.ma);
                         if dedup_result.is_ok() {
                             let write_result = current_feed.write();
                             if write_result.is_ok() {
@@ -117,8 +124,22 @@ fn main() {
             }
         },
         || {
-            // at midnight we want to clear the known feeds, to reduce memory usage
-            known_feeds.borrow_mut().clear();
+            info!(
+                "Midnight function invoked, cache before pruning contains {} feeds",
+                known_feeds.borrow().len()
+            );
+            let now = std::time::SystemTime::now();
+            // at midnight we want to clear the known feeds older than cache_history hours , to reduce memory usage
+            known_feeds.borrow_mut().retain(|_, &mut (_, _, time)| {
+                match now.duration_since(time) {
+                    Ok(elapsed) => elapsed < std::time::Duration::from_secs(cli.ch * 60 * 60),
+                    Err(_) => false,
+                }
+            });
+            info!(
+                "Midnight function invoked, cache after pruning contains {} feeds",
+                known_feeds.borrow().len()
+            );
         },
         cli.wt,
         cli.it,

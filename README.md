@@ -25,7 +25,7 @@ others discover and use your feeds and thus cause web traffic on your web server
 
 ```
 rssdeduper --help
-
+ 
 See https://github.com/Bodobolero/rssdeduper/README.md for more information.
 To see logging information invoke with
 RUST_LOG=info
@@ -67,6 +67,16 @@ Options:
           Sets the maximum number of iterations, default 0 means unlimited
           
           [default: 0]
+
+      --ma <MAXAGE>
+          Sets the maximum age of feeds in hours, 0 means unlimited, default 24
+          
+          [default: 24]
+
+      --ch <CACHE_HISTORY>
+          Sets the cache history in hours used for checking duplicates, default 48, 0 means unlimited
+          
+          [default: 48]
 
   -h, --help
           Print help (see a summary with '-h')
@@ -208,6 +218,14 @@ https://docs.rs/url/latest/url/
 
 - the user must import the new OPML file into his newsreader from the local filesystem whenever the source OPML file changed (whenever the user wants to subscribe to new feeds and has exported a new OPML file)
 
+## Cache history
+
+To avoid unlimited growth of memory usage the cache used for checking dupliates only keeps entries for --ch (default 48) hours.
+Feeds are only included into the deduplicated rss feed if their pubDate is younger than --ma (default 24) hours.
+
+Some RSS feeds publish items that are several months old, those would re-appear in the deduplicated feeds without the MAXAGE after the cache is cleared.
+
+Some newsreaders check only infrequently (e.g. newsify free plan checks at least once a day), so we do not want to lose items just because the newsreader client didn't check frequently enough. This is why we include everything published within the last 24 hours.
 
 ## OPML lifecycle
 
